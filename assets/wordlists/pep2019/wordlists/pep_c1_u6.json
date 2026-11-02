@@ -1,0 +1,602 @@
+{
+  "schema": 1,
+  "id": "pep_c1_u6",
+  "name": "人教版必修第一册 · Unit 5 Languages Around the World",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c1_u6_1",
+      "text": "billion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "num. 十亿；n. 十亿；大量；adj. 十亿的"
+    },
+    {
+      "id": "it_c1_u6_2",
+      "text": "native",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 本国的；土著的；天然的；与生俱来的；天赋的；n. 本地人；土产；当地居民"
+    },
+    {
+      "id": "it_c1_u6_3",
+      "text": "attitude",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 态度；看法；意见；姿势"
+    },
+    {
+      "id": "it_c1_u6_4",
+      "text": "reference",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 参考，参照；涉及，提及；参考书目；介绍信；证明书；vt. 引用；vi. 引用"
+    },
+    {
+      "id": "it_c1_u6_5",
+      "text": "refer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 涉及；委托；归诸于；使…求助于；vi. 参考；涉及；提到；查阅"
+    },
+    {
+      "id": "it_c1_u6_6",
+      "text": "refer to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 查阅；提到"
+    },
+    {
+      "id": "it_c1_u6_7",
+      "text": "system",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 制度，体制；系统；方法"
+    },
+    {
+      "id": "it_c1_u6_8",
+      "text": "despite",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 尽管，不管；n. 轻视；憎恨；侮辱"
+    },
+    {
+      "id": "it_c1_u6_9",
+      "text": "ups and downs",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 盛衰；(人生等的)盛衰；(土地等的)高低"
+    },
+    {
+      "id": "it_c1_u6_10",
+      "text": "factor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 因素；要素；[物] 因数；代理人；vt. 把…作为因素计入；代理经营；把…分解成；vi. 做代理商"
+    },
+    {
+      "id": "it_c1_u6_11",
+      "text": "based",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 立基于，以…为基础（base的过去式和过去分词）；adj. 有根基的"
+    },
+    {
+      "id": "it_c1_u6_12",
+      "text": "base",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基础；底部；垒；adj. 卑鄙的；低劣的；vt. 以…作基础"
+    },
+    {
+      "id": "it_c1_u6_13",
+      "text": "date back",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 过时；始于"
+    },
+    {
+      "id": "it_c1_u6_14",
+      "text": "date back to ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 回溯至"
+    },
+    {
+      "id": "it_c1_u6_15",
+      "text": "bone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 骨；骨骼；vt. 剔去...的骨；施骨肥于；vi. 苦学；专心致志"
+    },
+    {
+      "id": "it_c1_u6_16",
+      "text": "shell",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 壳，贝壳；炮弹；外形；vt. 剥皮；炮轰；vi. 剥落；设定命令行解释器的位置"
+    },
+    {
+      "id": "it_c1_u6_17",
+      "text": "symbol",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 象征；符号；标志"
+    },
+    {
+      "id": "it_c1_u6_18",
+      "text": "carve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 雕刻；切开；开创；vi. 切开；做雕刻工作"
+    },
+    {
+      "id": "it_c1_u6_19",
+      "text": "dynasty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 王朝，朝代"
+    },
+    {
+      "id": "it_c1_u6_20",
+      "text": "variety",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 多样；种类；杂耍；变化，多样化"
+    },
+    {
+      "id": "it_c1_u6_21",
+      "text": "major",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 主要的；重要的；主修的；较多的；n. [人类] 成年人；主修科目；陆军少校；vi. 主修"
+    },
+    {
+      "id": "it_c1_u6_22",
+      "text": "no matter where",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无论哪里；无论何处；无论何地"
+    },
+    {
+      "id": "it_c1_u6_23",
+      "text": "no matter who",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 不管怎谁"
+    },
+    {
+      "id": "it_c1_u6_24",
+      "text": "no matter what",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 不管怎什么"
+    },
+    {
+      "id": "it_c1_u6_25",
+      "text": "dialect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 方言，土话；同源语；行话；个人用语特征；adj. 方言的"
+    },
+    {
+      "id": "it_c1_u6_26",
+      "text": "means",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 手段；方法；财产；v. 意思是；打算（mean的第三人称单数） [ 复数means ]"
+    },
+    {
+      "id": "it_c1_u6_27",
+      "text": "classic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 名著；经典著作；大艺术家；adj. 经典的；古典的，传统的；最优秀的"
+    },
+    {
+      "id": "it_c1_u6_28",
+      "text": "regard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 注意；尊重；问候；凝视；vi. 注意，注重；注视；vt. 注重，考虑；看待；尊敬；把…看作；与…有关"
+    },
+    {
+      "id": "it_c1_u6_29",
+      "text": "character",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 性格，品质；特性；角色；[计] 字符；vt. 印，刻；使具有特征"
+    },
+    {
+      "id": "it_c1_u6_30",
+      "text": "calligraphy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 书法；笔迹"
+    },
+    {
+      "id": "it_c1_u6_31",
+      "text": "global",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 全球的；总体的；球形的"
+    },
+    {
+      "id": "it_c1_u6_32",
+      "text": "affair",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 事情；事务；私事；（尤指关系不长久的）风流韵事"
+    },
+    {
+      "id": "it_c1_u6_33",
+      "text": "appreciate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 增值；涨价；vt. 欣赏；感激；领会；鉴别"
+    },
+    {
+      "id": "it_c1_u6_34",
+      "text": "specific",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 特性；细节；特效药；adj. 特殊的，特定的；明确的；详细的；[药] 具有特效的"
+    },
+    {
+      "id": "it_c1_u6_35",
+      "text": "CE",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 化学工程师（Chemical Engineer）；总工程师（Chief Engineer）；土木工程师（Civil Engineer）；英国国教（Church of England）；欧洲理事会（Council of Europe）"
+    },
+    {
+      "id": "it_c1_u6_36",
+      "text": "Common Era",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 公元"
+    },
+    {
+      "id": "it_c1_u6_37",
+      "text": "struggle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 努力，奋斗；竞争；vt. 使劲移动；尽力使得；vi. 奋斗，努力；挣扎"
+    },
+    {
+      "id": "it_c1_u6_38",
+      "text": "tongue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 舌头；语言；vt. 舔；斥责；用舌吹；vi. 说话；吹管乐器"
+    },
+    {
+      "id": "it_c1_u6_39",
+      "text": "point of view",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 观点；态度；意见；看法"
+    },
+    {
+      "id": "it_c1_u6_40",
+      "text": "semester",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 学期；半年"
+    },
+    {
+      "id": "it_c1_u6_41",
+      "text": "gas",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 气体；[矿业] 瓦斯；汽油；毒气；vt. 加油；毒（死）；vi. 加油；放出气体；空谈"
+    },
+    {
+      "id": "it_c1_u6_42",
+      "text": "petrol",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （英）汽油"
+    },
+    {
+      "id": "it_c1_u6_43",
+      "text": "subway",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地铁；地道；vi. 乘地铁"
+    },
+    {
+      "id": "it_c1_u6_44",
+      "text": "underground",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地下；地铁；地道；地下组织；秘密活动；先锋派团体；adj. 地下的；秘密的；先锋派的；adv. 在地下；秘密地"
+    },
+    {
+      "id": "it_c1_u6_45",
+      "text": "apartment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 公寓；房间"
+    },
+    {
+      "id": "it_c1_u6_46",
+      "text": "pants",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 裤子"
+    },
+    {
+      "id": "it_c1_u6_47",
+      "text": "beg",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 乞讨；请求；vt. 乞讨；恳求；回避正题"
+    },
+    {
+      "id": "it_c1_u6_48",
+      "text": "equal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 对手；匹敌；同辈；相等的事物；adj. 平等的；相等的；胜任的；vt. 等于；比得上"
+    },
+    {
+      "id": "it_c1_u6_49",
+      "text": "gap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 间隙；缺口；差距；分歧；vt. 使形成缺口；vi. 裂开"
+    },
+    {
+      "id": "it_c1_u6_50",
+      "text": "demand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [经] 需求；要求；需要；vt. 要求；需要；查询；vi. 需要；请求；查问"
+    },
+    {
+      "id": "it_c1_u6_51",
+      "text": "vocabulary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 词汇；词表；词汇量"
+    },
+    {
+      "id": "it_c1_u6_52",
+      "text": "description",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 描述，描写；类型；说明书"
+    },
+    {
+      "id": "it_c1_u6_53",
+      "text": "relate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 叙述；使…有联系；vi. 涉及；认同；符合；与…有某种联系"
+    },
+    {
+      "id": "it_c1_u6_54",
+      "text": "relate to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 有关联；与…有关；理解"
+    },
+    {
+      "id": "it_c1_u6_55",
+      "text": "Korean",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 韩国人的；韩国语的；朝鲜人的；朝鲜语的；n. 韩国人；韩国语；朝鲜人；朝鲜语"
+    },
+    {
+      "id": "it_c1_u6_56",
+      "text": "Danish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 丹麦语；adj. 丹麦的；丹麦人的；丹麦语（文）的"
+    },
+    {
+      "id": "it_c1_u6_57",
+      "text": "Denmark",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 丹麦（欧洲国家）"
+    },
+    {
+      "id": "it_c1_u6_58",
+      "text": "Arabic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 阿拉伯语；adj. 阿拉伯的；阿拉伯人的"
+    },
+    {
+      "id": "it_c1_u6_59",
+      "text": "FIFA",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 费法（已裂变原子数与初始装料易裂变原子数之比）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

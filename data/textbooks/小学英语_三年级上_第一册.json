@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "subject": "english",
+  "stage": "小学",
+  "grade": "三年级",
+  "volume": "上册",
+  "units": [
+    {
+      "name": "Unit 1 Greeting",
+      "words": [
+        "hello", "hi", "goodbye", "bye", "morning", "afternoon", "evening", "night",
+        "name", "what", "your", "my", "is", "are", "am", "I"
+      ]
+    },
+    {
+      "name": "Unit 2 Colors",
+      "words": [
+        "red", "yellow", "blue", "green", "black", "white", "orange", "brown",
+        "color", "like", "the", "it", "a", "an", "this", "that"
+      ]
+    }
+  ]
+}

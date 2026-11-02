@@ -1,0 +1,702 @@
+{
+  "schema": 1,
+  "id": "pep_o4_u5",
+  "name": "人教版选择性必修第四册 · Unit 5",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o4_u5_1",
+      "text": "lawyer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 律师；法学家"
+    },
+    {
+      "id": "it_o4_u5_2",
+      "text": "assemble",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 集合，聚集；装配；收集；vi. 集合，聚集"
+    },
+    {
+      "id": "it_o4_u5_3",
+      "text": "drawer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 抽屉；开票人；出票人；起草者；酒馆侍"
+    },
+    {
+      "id": "it_o4_u5_4",
+      "text": "a chest of drawers",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "五屉橱"
+    },
+    {
+      "id": "it_o4_u5_5",
+      "text": "breast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 乳房，胸部；胸怀；心情；vt. 以胸对着；与…搏斗"
+    },
+    {
+      "id": "it_o4_u5_6",
+      "text": "hydrogen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [化学] 氢"
+    },
+    {
+      "id": "it_o4_u5_7",
+      "text": "radium",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [化学] 镭（88号元素符号Ra）"
+    },
+    {
+      "id": "it_o4_u5_8",
+      "text": "wrist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 手腕；腕关节；vt. 用腕力移动"
+    },
+    {
+      "id": "it_o4_u5_9",
+      "text": "bridegroom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 新郎"
+    },
+    {
+      "id": "it_o4_u5_10",
+      "text": "geometry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 几何学；几何结构"
+    },
+    {
+      "id": "it_o4_u5_11",
+      "text": "debt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 债务；借款；罪过"
+    },
+    {
+      "id": "it_o4_u5_12",
+      "text": "categorise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 分类；加以类别"
+    },
+    {
+      "id": "it_o4_u5_13",
+      "text": "profile",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 侧面；轮廓；外形；剖面；简况；vt. 描…的轮廓；扼要描述；vi. 给出轮廓"
+    },
+    {
+      "id": "it_o4_u5_14",
+      "text": "participant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 参与者；关系者；adj. 参与的；有关系的"
+    },
+    {
+      "id": "it_o4_u5_15",
+      "text": "code",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 代码，密码；编码；法典；vt. 编码；制成法典；vi. 指定遗传密码"
+    },
+    {
+      "id": "it_o4_u5_16",
+      "text": "orient",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使适应；确定方向；使朝东；n. 东方；东方诸国；adj. 东方的；vi. 向东"
+    },
+    {
+      "id": "it_o4_u5_17",
+      "text": "detective",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 侦探；adj. 侦探的"
+    },
+    {
+      "id": "it_o4_u5_18",
+      "text": "graphic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 形象的；图表的；绘画似的"
+    },
+    {
+      "id": "it_o4_u5_19",
+      "text": "estate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 房地产；财产；身份"
+    },
+    {
+      "id": "it_o4_u5_20",
+      "text": "estate agent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 房地产经纪人"
+    },
+    {
+      "id": "it_o4_u5_21",
+      "text": "real estate agent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 房地产经纪人"
+    },
+    {
+      "id": "it_o4_u5_22",
+      "text": "accountant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 会计师；会计人员"
+    },
+    {
+      "id": "it_o4_u5_23",
+      "text": "spy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 间谍；密探；vt. 侦察；发现；暗中监视；vi. 侦察；当间谍"
+    },
+    {
+      "id": "it_o4_u5_24",
+      "text": "justice",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 司法，法律制裁；正义；法官，审判员"
+    },
+    {
+      "id": "it_o4_u5_25",
+      "text": "accuse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 控告，指控；谴责；归咎于；vi. 指责；控告"
+    },
+    {
+      "id": "it_o4_u5_26",
+      "text": "come to a conclusion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 结束；得到一个结论"
+    },
+    {
+      "id": "it_o4_u5_27",
+      "text": "greedy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 贪婪的；贪吃的；渴望的"
+    },
+    {
+      "id": "it_o4_u5_28",
+      "text": "entrepreneur",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 企业家；承包人；主办者"
+    },
+    {
+      "id": "it_o4_u5_29",
+      "text": "receptionist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 接待员；传达员"
+    },
+    {
+      "id": "it_o4_u5_30",
+      "text": "CV",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 简历（Curriculum Vitae）"
+    },
+    {
+      "id": "it_o4_u5_31",
+      "text": "résumé",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u5_32",
+      "text": "socialist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 社会主义者；社会党党员；adj. 社会主义的"
+    },
+    {
+      "id": "it_o4_u5_33",
+      "text": "communist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 共产党员；共产主义者；adj. 共产主义的"
+    },
+    {
+      "id": "it_o4_u5_34",
+      "text": "dedicate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 致力；献身；题献"
+    },
+    {
+      "id": "it_o4_u5_35",
+      "text": "fox",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 狐狸；狡猾的人；vt. 欺骗；使变酸；vi. 假装；耍狡猾手段"
+    },
+    {
+      "id": "it_o4_u5_36",
+      "text": "council",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 委员会；会议；理事会；地方议会；顾问班子"
+    },
+    {
+      "id": "it_o4_u5_37",
+      "text": "canal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 运河；[地理] 水道；[建] 管道；灌溉水渠；vt. 在…开凿运河"
+    },
+    {
+      "id": "it_o4_u5_38",
+      "text": "attend to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 照料(工作)"
+    },
+    {
+      "id": "it_o4_u5_39",
+      "text": "supervise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 监督，管理；指导；vi. 监督，管理；指导"
+    },
+    {
+      "id": "it_o4_u5_40",
+      "text": "handwriting",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 笔迹；书法；书写；手稿；v. 亲手写（handwrite的ing形式）"
+    },
+    {
+      "id": "it_o4_u5_41",
+      "text": "disk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计] 磁盘，磁碟片；圆盘，盘状物；唱片"
+    },
+    {
+      "id": "it_o4_u5_42",
+      "text": "disc",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 圆盘，[电子] 唱片（等于disk）；vt. 灌唱片"
+    },
+    {
+      "id": "it_o4_u5_43",
+      "text": "parking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 停车；adj. 停车的；v. 停车（park的ing形式）"
+    },
+    {
+      "id": "it_o4_u5_44",
+      "text": "camel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [畜牧][脊椎] 骆驼；打捞浮筒；工作作风官僚；adj. 驼色的；暗棕色的；vi. 工作刻板平庸"
+    },
+    {
+      "id": "it_o4_u5_45",
+      "text": "fry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鱼苗；油炸食物；vt. 油炸；油煎；vi. 油炸；油煎"
+    },
+    {
+      "id": "it_o4_u5_46",
+      "text": "purse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. (女士)手提袋；(国家、家庭、团体等的) 财力；vt. （嘴巴）皱起，使缩拢；撅嘴"
+    },
+    {
+      "id": "it_o4_u5_47",
+      "text": "sew",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 缝合，缝上；缝纫；vi. 缝纫，缝"
+    },
+    {
+      "id": "it_o4_u5_48",
+      "text": "sewed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 缝（sew的过去式）"
+    },
+    {
+      "id": "it_o4_u5_49",
+      "text": "sewn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 缝纫，缝上；装订（sew的过去分词）"
+    },
+    {
+      "id": "it_o4_u5_50",
+      "text": "sewed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 缝（sew的过去式）"
+    },
+    {
+      "id": "it_o4_u5_51",
+      "text": "knit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 编织；结合；皱眉；vt. 编织；结合；n. 编织衣物；编织法"
+    },
+    {
+      "id": "it_o4_u5_52",
+      "text": "wool",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 羊毛；毛线；绒线；毛织品；毛料衣物"
+    },
+    {
+      "id": "it_o4_u5_53",
+      "text": "intermediate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [化学] 中间物；媒介；adj. 中间的，中级的；vi. 起媒介作用"
+    },
+    {
+      "id": "it_o4_u5_54",
+      "text": "priority",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 优先；优先权；[数] 优先次序；优先考虑的事"
+    },
+    {
+      "id": "it_o4_u5_55",
+      "text": "proficiency",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 精通，熟练"
+    },
+    {
+      "id": "it_o4_u5_56",
+      "text": "cage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 笼，兽笼；牢房，监狱；vt. 把…关进笼子；把…囚禁起来"
+    },
+    {
+      "id": "it_o4_u5_57",
+      "text": "collar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 衣领；颈圈；vt. 抓住；给…上领子；给…套上颈圈"
+    },
+    {
+      "id": "it_o4_u5_58",
+      "text": "flea collar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. (围在家畜颈上而内藏灭蚤药的)杀蚤圈"
+    },
+    {
+      "id": "it_o4_u5_59",
+      "text": "finance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 财政，财政学；金融；vt. 负担经费，供给…经费；vi. 筹措资金"
+    },
+    {
+      "id": "it_o4_u5_60",
+      "text": "receipt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 收到；收据；收入；vt. 收到"
+    },
+    {
+      "id": "it_o4_u5_61",
+      "text": "certificate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 证书；执照，文凭；vt. 发给证明书；以证书形式授权给…；用证书批准"
+    },
+    {
+      "id": "it_o4_u5_62",
+      "text": "employer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雇主，老板"
+    },
+    {
+      "id": "it_o4_u5_63",
+      "text": "desert",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 沙漠；荒原；应得的赏罚；vt. 遗弃；放弃；逃跑；adj. 沙漠的；荒凉的；不毛的；vi. 遗弃；开小差；逃掉"
+    },
+    {
+      "id": "it_o4_u5_64",
+      "text": "acquire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 获得；取得；学到；捕获"
+    },
+    {
+      "id": "it_o4_u5_65",
+      "text": "Marie Curie",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "居里夫人；居礼夫人；玛丽·居里"
+    },
+    {
+      "id": "it_o4_u5_66",
+      "text": "The Communist Manifesto",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "共产主义宣言；共产主义者宣言；共产党宣言"
+    },
+    {
+      "id": "it_o4_u5_67",
+      "text": "Olivia",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奥利维亚（女子名）"
+    },
+    {
+      "id": "it_o4_u5_68",
+      "text": "PETS",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 公共英语等级考试（Public English Test System）；n. 宠物（pet的复数）"
+    },
+    {
+      "id": "it_o4_u5_69",
+      "text": "Public English Test System",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

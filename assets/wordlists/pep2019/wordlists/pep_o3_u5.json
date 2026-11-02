@@ -1,0 +1,722 @@
+{
+  "schema": 1,
+  "id": "pep_o3_u5",
+  "name": "人教版选择性必修第三册 · Unit 5",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o3_u5_1",
+      "text": "rhythm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 节奏；韵律"
+    },
+    {
+      "id": "it_o3_u5_2",
+      "text": "nursery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 苗圃；托儿所；温床"
+    },
+    {
+      "id": "it_o3_u5_3",
+      "text": "nursery rhyme",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 童谣；儿歌"
+    },
+    {
+      "id": "it_o3_u5_4",
+      "text": "folk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 民族；人们；亲属（复数）；adj. 民间的"
+    },
+    {
+      "id": "it_o3_u5_5",
+      "text": "mockingbird",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 模仿鸟；嘲鸫属鸣禽；蓝嘲鸫（等于mocking thrush）"
+    },
+    {
+      "id": "it_o3_u5_6",
+      "text": "diamond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 钻石，金刚石；菱形；方块牌；adj. 菱形的；金刚钻的"
+    },
+    {
+      "id": "it_o3_u5_7",
+      "text": "brass",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 黄铜；黄铜制品；铜管乐器；厚脸皮"
+    },
+    {
+      "id": "it_o3_u5_8",
+      "text": "billy goat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 公山羊"
+    },
+    {
+      "id": "it_o3_u5_9",
+      "text": "bull",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 公牛；看好股市者；粗壮如牛的人；胡说八道；印玺；adj. 大型的；公牛似的；雄性的；vt. 企图抬高证券价格；吓唬；强力实现；vi. 价格上涨；走运；猛推；吹牛"
+    },
+    {
+      "id": "it_o3_u5_10",
+      "text": "recite",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 背诵；叙述；列举；vi. 背诵；叙述"
+    },
+    {
+      "id": "it_o3_u5_11",
+      "text": "bee",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蜜蜂，蜂；勤劳的人"
+    },
+    {
+      "id": "it_o3_u5_12",
+      "text": "dewdrop",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 露珠；露滴"
+    },
+    {
+      "id": "it_o3_u5_13",
+      "text": "dawn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 黎明；开端；vt. 破晓；出现；被领悟"
+    },
+    {
+      "id": "it_o3_u5_14",
+      "text": "clover",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [植] 三叶草；苜蓿；红花草"
+    },
+    {
+      "id": "it_o3_u5_15",
+      "text": "butterfly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蝴蝶；蝶泳；举止轻浮的人；追求享乐的人"
+    },
+    {
+      "id": "it_o3_u5_16",
+      "text": "lawn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 草地；草坪"
+    },
+    {
+      "id": "it_o3_u5_17",
+      "text": "amateur",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 爱好者；业余爱好者；外行；adj. 业余的；外行的"
+    },
+    {
+      "id": "it_o3_u5_18",
+      "text": "cinquain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 五个的一组，五行诗"
+    },
+    {
+      "id": "it_o3_u5_19",
+      "text": "be made up of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "由…构成；组成；由…组成"
+    },
+    {
+      "id": "it_o3_u5_20",
+      "text": "mood",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 情绪，语气；心境；气氛"
+    },
+    {
+      "id": "it_o3_u5_21",
+      "text": "tease",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 取笑；戏弄；梳理；欺负；强求；使起毛；n. 戏弄；爱纠缠的小孩；挑逗者；卖弄风骚的女孩；vi. 取笑"
+    },
+    {
+      "id": "it_o3_u5_22",
+      "text": "haiku",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 俳句；三行俳句诗"
+    },
+    {
+      "id": "it_o3_u5_23",
+      "text": "syllable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 音节；vt. 划分音节；vi. 按音节发音；讲话"
+    },
+    {
+      "id": "it_o3_u5_24",
+      "text": "format",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 格式；版式；开本；vt. 使格式化；规定…的格式；vi. 设计版式"
+    },
+    {
+      "id": "it_o3_u5_25",
+      "text": "respectively",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 分别地；各自地，独自地"
+    },
+    {
+      "id": "it_o3_u5_26",
+      "text": "respective",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 分别的，各自的"
+    },
+    {
+      "id": "it_o3_u5_27",
+      "text": "blossom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 花；开花期；兴旺期；花开的状态；vi. 开花；兴旺；发展成"
+    },
+    {
+      "id": "it_o3_u5_28",
+      "text": "delicate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 微妙的；精美的，雅致的；柔和的；易碎的；纤弱的；清淡可口的"
+    },
+    {
+      "id": "it_o3_u5_29",
+      "text": "await",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 等候，等待；期待"
+    },
+    {
+      "id": "it_o3_u5_30",
+      "text": "revolve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 旋转；循环；旋转舞台；vt. 使…旋转；使…循环；反复考虑；vi. 旋转；循环出现；反复考虑"
+    },
+    {
+      "id": "it_o3_u5_31",
+      "text": "utter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 完全的；彻底的；无条件的；vt. 发出，表达；发射"
+    },
+    {
+      "id": "it_o3_u5_32",
+      "text": "comprehension",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 理解；包含"
+    },
+    {
+      "id": "it_o3_u5_33",
+      "text": "shelf",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 架子；搁板；搁板状物；暗礁"
+    },
+    {
+      "id": "it_o3_u5_34",
+      "text": "core",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 核心；要点；果心；[计] 磁心；vt. 挖...的核"
+    },
+    {
+      "id": "it_o3_u5_35",
+      "text": "cherry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 樱桃；樱桃树；如樱桃的鲜红色；处女膜，处女"
+    },
+    {
+      "id": "it_o3_u5_36",
+      "text": "cherry blossom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 樱花"
+    },
+    {
+      "id": "it_o3_u5_37",
+      "text": "blank",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 空白；空虚；空白表格；adj. 空白的；空虚的；单调的；vt. 使…无效；使…模糊；封锁；vi. 消失；成为空白"
+    },
+    {
+      "id": "it_o3_u5_38",
+      "text": "verse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 诗，诗篇；韵文；诗节；vi. 作诗；vt. 使熟练，使精通"
+    },
+    {
+      "id": "it_o3_u5_39",
+      "text": "civilian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平民，百姓；adj. 民用的；百姓的，平民的"
+    },
+    {
+      "id": "it_o3_u5_40",
+      "text": "prose",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 散文；单调；adj. 散文的；平凡的；乏味的；vt. 把…写成散文；vi. 写散文；乏味地讲话"
+    },
+    {
+      "id": "it_o3_u5_41",
+      "text": "sympathetic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 交感神经；容易感受的人；adj. 同情的；交感神经的；共鸣的；赞同的；和谐的；合意的"
+    },
+    {
+      "id": "it_o3_u5_42",
+      "text": "sympathy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 同情；慰问；赞同"
+    },
+    {
+      "id": "it_o3_u5_43",
+      "text": "version",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 版本；译文；倒转术"
+    },
+    {
+      "id": "it_o3_u5_44",
+      "text": "innocence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 清白，无罪；天真无邪"
+    },
+    {
+      "id": "it_o3_u5_45",
+      "text": "innocent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 天真的人；笨蛋；adj. 无辜的；无罪的；无知的"
+    },
+    {
+      "id": "it_o3_u5_46",
+      "text": "era",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 时代；年代；纪元"
+    },
+    {
+      "id": "it_o3_u5_47",
+      "text": "correspondence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 通信；一致；相当"
+    },
+    {
+      "id": "it_o3_u5_48",
+      "text": "correspond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 符合，一致；相应；通信"
+    },
+    {
+      "id": "it_o3_u5_49",
+      "text": "sow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 母猪；vt. 播种；散布；使密布；vi. 播种"
+    },
+    {
+      "id": "it_o3_u5_50",
+      "text": "seed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 种子；根据；精液；萌芽；子孙；原由；vt. 播种；结实；成熟；去…籽；vi. 播种；（植物）结实"
+    },
+    {
+      "id": "it_o3_u5_51",
+      "text": "dominant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 显性；adj. 显性的；占优势的；支配的，统治的"
+    },
+    {
+      "id": "it_o3_u5_52",
+      "text": "sonnet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 十四行诗；商籁诗"
+    },
+    {
+      "id": "it_o3_u5_53",
+      "text": "deadline",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 截止期限，最后期限"
+    },
+    {
+      "id": "it_o3_u5_54",
+      "text": "contest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 竞赛；争夺；争论；vt. 争辩；质疑；vi. 竞争；争辩"
+    },
+    {
+      "id": "it_o3_u5_55",
+      "text": "polish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 磨光，擦亮；上光剂，擦亮剂；优雅，精良；vi. 擦亮，变光滑；vt. 磨光，使发亮；adj. 波兰的"
+    },
+    {
+      "id": "it_o3_u5_56",
+      "text": "string",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 线，弦，细绳；一串，一行"
+    },
+    {
+      "id": "it_o3_u5_57",
+      "text": "wherever",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "conj. 无论在哪里；无论什么情况下；adv. 无论什么地方；究竟在哪里"
+    },
+    {
+      "id": "it_o3_u5_58",
+      "text": "barren",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 荒地；adj. 贫瘠的；不生育的；无益的；沉闷无趣的；空洞的"
+    },
+    {
+      "id": "it_o3_u5_59",
+      "text": "grief",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 悲痛；忧伤；不幸"
+    },
+    {
+      "id": "it_o3_u5_60",
+      "text": "complicated",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 难懂的，复杂的"
+    },
+    {
+      "id": "it_o3_u5_61",
+      "text": "variation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 变化；[生物] 变异，变种"
+    },
+    {
+      "id": "it_o3_u5_62",
+      "text": "racial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 种族的；人种的"
+    },
+    {
+      "id": "it_o3_u5_63",
+      "text": "prejudice",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 偏见；侵害；vt. 损害；使有偏见"
+    },
+    {
+      "id": "it_o3_u5_64",
+      "text": "Shakespeare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 莎士比亚（1564-1616，英国诗人、剧作家）"
+    },
+    {
+      "id": "it_o3_u5_65",
+      "text": "The Crescent Moon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u5_66",
+      "text": "Tagore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 泰戈尔（印度诗人，曾获1913年诺贝尔文学奖，1861-1941）"
+    },
+    {
+      "id": "it_o3_u5_67",
+      "text": "Elizabeth Barrett Browning",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "伊丽莎白·勃朗宁；白朗宁；勃朗宁夫人"
+    },
+    {
+      "id": "it_o3_u5_68",
+      "text": "Robert Browning",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "布朗宁；勃朗宁；罗伯特·布朗宁"
+    },
+    {
+      "id": "it_o3_u5_69",
+      "text": "the Victorian era",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u5_70",
+      "text": "Sonnets from the Portuguese",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u5_71",
+      "text": "Langston Hughes",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "兰斯顿休斯；蓝斯顿休斯；朗斯顿•休斯"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

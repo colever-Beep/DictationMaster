@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# ---- 构建产物（体积大，不入库）----
+build/
+dist/
+*.exe
+
+# ---- 本地运行时数据 ----
+config/
+logs/
+*.log
+cache/
+_probe_la/
+
+# ---- 临时脚本/产物 ----
+tools/_*
+*.mp3
+*.wav
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini

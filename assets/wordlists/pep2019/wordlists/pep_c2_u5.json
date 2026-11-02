@@ -1,0 +1,842 @@
+{
+  "schema": 1,
+  "id": "pep_c2_u5",
+  "name": "人教版必修第二册 · Unit 5 Music",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c2_u5_1",
+      "text": "classical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 古典音乐；adj. 古典的；经典的；传统的；第一流的"
+    },
+    {
+      "id": "it_c2_u5_2",
+      "text": "hip-hop",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 街舞，即兴音乐；嘻哈"
+    },
+    {
+      "id": "it_c2_u5_3",
+      "text": "techno",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 高科技舞曲"
+    },
+    {
+      "id": "it_c2_u5_4",
+      "text": "energy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [物] 能量；精力；活力；精神"
+    },
+    {
+      "id": "it_c2_u5_5",
+      "text": "soul",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灵魂；心灵；精神；鬼魂；adj. 美国黑人文化的"
+    },
+    {
+      "id": "it_c2_u5_6",
+      "text": "bagpipes",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "(also. 风笛"
+    },
+    {
+      "id": "it_c2_u5_7",
+      "text": "stringed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. （乐器等）有弦的；用弦缚住的；v. 用带系上；使伸展；使连接（string的过去分词）"
+    },
+    {
+      "id": "it_c2_u5_8",
+      "text": "stringed instrument",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 弦乐器"
+    },
+    {
+      "id": "it_c2_u5_9",
+      "text": "virtual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. [计] 虚拟的；实质上的，事实上的（但未在名义上或正式获承认）"
+    },
+    {
+      "id": "it_c2_u5_10",
+      "text": "virtual choir",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "虚拟合唱团；虚拟世界里的大合唱"
+    },
+    {
+      "id": "it_c2_u5_11",
+      "text": "composition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 作文，作曲，作品；[材] 构成；合成物；成分"
+    },
+    {
+      "id": "it_c2_u5_12",
+      "text": "opportunity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 时机，机会"
+    },
+    {
+      "id": "it_c2_u5_13",
+      "text": "perform",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 执行；完成；演奏；vi. 执行，机器运转；表演"
+    },
+    {
+      "id": "it_c2_u5_14",
+      "text": "performance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 性能；绩效；表演；执行；表现"
+    },
+    {
+      "id": "it_c2_u5_15",
+      "text": "performer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 演出者；执行者；演奏者"
+    },
+    {
+      "id": "it_c2_u5_16",
+      "text": "onto",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在…之上；对…了解；映射到…上；adj. 映射的；自身的；映成的"
+    },
+    {
+      "id": "it_c2_u5_17",
+      "text": "studio",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 工作室；[广播][电视] 演播室；画室；电影制片厂"
+    },
+    {
+      "id": "it_c2_u5_18",
+      "text": "ordinary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 普通的；平凡的；平常的；n. 普通；平常的人（或事）"
+    },
+    {
+      "id": "it_c2_u5_19",
+      "text": "enable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使能够，使成为可能；授予权利或方法"
+    },
+    {
+      "id": "it_c2_u5_20",
+      "text": "prove",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 证明是；vt. 证明；检验；显示"
+    },
+    {
+      "id": "it_c2_u5_21",
+      "text": "award",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奖品；判决；vt. 授予；判定"
+    },
+    {
+      "id": "it_c2_u5_22",
+      "text": "composer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 作曲家；作家，著作者；设计者"
+    },
+    {
+      "id": "it_c2_u5_23",
+      "text": "conductor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 导体；售票员；领导者；管理人"
+    },
+    {
+      "id": "it_c2_u5_24",
+      "text": "fall in love with",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 爱上"
+    },
+    {
+      "id": "it_c2_u5_25",
+      "text": "original",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 原件；原作；原物；原型；adj. 原始的；最初的；独创的；新颖的"
+    },
+    {
+      "id": "it_c2_u5_26",
+      "text": "phenomenon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 现象；奇迹；杰出的人才"
+    },
+    {
+      "id": "it_c2_u5_27",
+      "text": "stage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 阶段；舞台；戏剧；驿站；vt. 举行；上演；筹划；vi. 举行；适于上演；乘驿车旅行"
+    },
+    {
+      "id": "it_c2_u5_28",
+      "text": "altogether",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 整个；裸体；adv. 完全地；总共；总而言之"
+    },
+    {
+      "id": "it_c2_u5_29",
+      "text": "thus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "conj. 因此；n. 乳香；adv. 因此；从而；这样；如此"
+    },
+    {
+      "id": "it_c2_u5_30",
+      "text": "band",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 带，环；[物] 波段；(演奏流行音乐的) 乐队；n. n.乐队；队；一群；vi. 用带绑扎；给...镶边"
+    },
+    {
+      "id": "it_c2_u5_31",
+      "text": "rap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 轻敲；vi. 敲击；交谈；vt. 抢走；轻敲；敲击致使；使着迷"
+    },
+    {
+      "id": "it_c2_u5_32",
+      "text": "nowadays",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 现今；时下；n. 当今"
+    },
+    {
+      "id": "it_c2_u5_33",
+      "text": "gradual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 弥撒升阶圣歌集；adj. 逐渐的；平缓的"
+    },
+    {
+      "id": "it_c2_u5_34",
+      "text": "capable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 能干的，能胜任的；有才华的"
+    },
+    {
+      "id": "it_c2_u5_35",
+      "text": "relief",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 救济；减轻，解除；安慰；浮雕"
+    },
+    {
+      "id": "it_c2_u5_36",
+      "text": "cure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 治疗；治愈；[临床] 疗法；vt. 治疗；治愈；使硫化；加工处理；vi. 治病；痊愈；受治疗；被硫化；被加工处理"
+    },
+    {
+      "id": "it_c2_u5_37",
+      "text": "absorbed in sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "专心于；吸引；过去分词短语作原因状语"
+    },
+    {
+      "id": "it_c2_u5_38",
+      "text": "absorbed in sb.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "专心于；吸引；过去分词短语作原因状语"
+    },
+    {
+      "id": "it_c2_u5_39",
+      "text": "previous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 以前的；早先的；过早的；adv. 在先；在…以前"
+    },
+    {
+      "id": "it_c2_u5_40",
+      "text": "unemployed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 失业的；未被利用的"
+    },
+    {
+      "id": "it_c2_u5_41",
+      "text": "romantic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 浪漫的人；adj. 浪漫的；多情的；空想的；vt. 使…浪漫化"
+    },
+    {
+      "id": "it_c2_u5_42",
+      "text": "album",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 相簿；唱片集；集邮簿；签名纪念册"
+    },
+    {
+      "id": "it_c2_u5_43",
+      "text": "impact",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 影响；撞击；冲突；压紧（on，upon，with）；n. 影响；效果；碰撞；冲击力；vt. 挤入，压紧；撞击；对…产生影响"
+    },
+    {
+      "id": "it_c2_u5_44",
+      "text": "aim",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 目的；目标；对准；vt. 目的在于；引导；把…对准；vi. 打算；对准目标；瞄准"
+    },
+    {
+      "id": "it_c2_u5_45",
+      "text": "set sth. up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 建立；创立；发起；开办"
+    },
+    {
+      "id": "it_c2_u5_46",
+      "text": "equipment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 设备，装备；器材"
+    },
+    {
+      "id": "it_c2_u5_47",
+      "text": "try out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. (采用前)严密试验；筛矿；量(金属的)纯度"
+    },
+    {
+      "id": "it_c2_u5_48",
+      "text": "talent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 才能；天才；天资"
+    },
+    {
+      "id": "it_c2_u5_49",
+      "text": "piano",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 钢琴"
+    },
+    {
+      "id": "it_c2_u5_50",
+      "text": "assume",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 僭取；篡夺；夺取；擅用；侵占；vi. 假定；设想；承担；采取"
+    },
+    {
+      "id": "it_c2_u5_51",
+      "text": "addition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 添加；[数] 加法；增加物"
+    },
+    {
+      "id": "it_c2_u5_52",
+      "text": "in addition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 加之"
+    },
+    {
+      "id": "it_c2_u5_53",
+      "text": "in addition to sb.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "另外, 加之, 除…之外还"
+    },
+    {
+      "id": "it_c2_u5_54",
+      "text": "in addition to sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "另外, 加之, 除…之外还"
+    },
+    {
+      "id": "it_c2_u5_55",
+      "text": "disease",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 病，[医] 疾病；弊病；vt. 传染；使…有病"
+    },
+    {
+      "id": "it_c2_u5_56",
+      "text": "ache",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 疼痛；vi. 疼痛；渴望"
+    },
+    {
+      "id": "it_c2_u5_57",
+      "text": "treatment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 治疗，疗法；处理；对待"
+    },
+    {
+      "id": "it_c2_u5_58",
+      "text": "from on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv.再向前"
+    },
+    {
+      "id": "it_c2_u5_59",
+      "text": "from then on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 从那时起"
+    },
+    {
+      "id": "it_c2_u5_60",
+      "text": "lean",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 倾斜；倚靠；倾向；依赖；adj. 瘦的；贫乏的，歉收的；vt. 使倾斜；n. 瘦肉；倾斜；倾斜度"
+    },
+    {
+      "id": "it_c2_u5_61",
+      "text": "leant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "lean的过去式及过去分词"
+    },
+    {
+      "id": "it_c2_u5_62",
+      "text": "leaned",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 倾身；依靠；使…瘦弱（lean的过去分词）"
+    },
+    {
+      "id": "it_c2_u5_63",
+      "text": "get through",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 花光；了结；(使)通过(议案)；及格"
+    },
+    {
+      "id": "it_c2_u5_64",
+      "text": "moreover",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 而且；此外"
+    },
+    {
+      "id": "it_c2_u5_65",
+      "text": "satisfaction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 满意，满足；赔偿；乐事；赎罪"
+    },
+    {
+      "id": "it_c2_u5_66",
+      "text": "being",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 存在；生命；本质；品格；adj. 存在的；现有的"
+    },
+    {
+      "id": "it_c2_u5_67",
+      "text": "various",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 各种各样的；多方面的"
+    },
+    {
+      "id": "it_c2_u5_68",
+      "text": "somehow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 以某种方法；莫名其妙地"
+    },
+    {
+      "id": "it_c2_u5_69",
+      "text": "rhetorical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 修辞的；修辞学的；夸张的"
+    },
+    {
+      "id": "it_c2_u5_70",
+      "text": "metaphor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 暗喻，隐喻；比喻说法"
+    },
+    {
+      "id": "it_c2_u5_71",
+      "text": "personification",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 人格化；化身；拟人法（一种修辞手法）；象征"
+    },
+    {
+      "id": "it_c2_u5_72",
+      "text": "repetition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 重复；背诵；副本"
+    },
+    {
+      "id": "it_c2_u5_73",
+      "text": "simile",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 明喻；直喻"
+    },
+    {
+      "id": "it_c2_u5_74",
+      "text": "outline",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 轮廓；大纲；概要；略图；vt. 概述；略述；描画…轮廓"
+    },
+    {
+      "id": "it_c2_u5_75",
+      "text": "reaction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 反应，感应；反动，复古；反作用"
+    },
+    {
+      "id": "it_c2_u5_76",
+      "text": "Eric Whitacre",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u5_77",
+      "text": "Nevada",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 内华达（美国州名）"
+    },
+    {
+      "id": "it_c2_u5_78",
+      "text": "Mozart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 莫扎特"
+    },
+    {
+      "id": "it_c2_u5_79",
+      "text": "Lux Aurumque",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u5_80",
+      "text": "UNICEF",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 联合国儿童基金会（等于United Nations International Children'sEmergency Fund）"
+    },
+    {
+      "id": "it_c2_u5_81",
+      "text": "United Nations Children's Fund",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "联合国儿童基金会"
+    },
+    {
+      "id": "it_c2_u5_82",
+      "text": "Las Vegas",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拉斯维加斯；【旅】拉斯维加斯"
+    },
+    {
+      "id": "it_c2_u5_83",
+      "text": "John A. Logan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

@@ -1,0 +1,732 @@
+{
+  "schema": 1,
+  "id": "pep_o3_u1",
+  "name": "人教版选择性必修第三册 · Unit 1",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o3_u1_1",
+      "text": "precise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 精确的；明确的；严格的"
+    },
+    {
+      "id": "it_o3_u1_2",
+      "text": "precisely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 精确地；恰恰"
+    },
+    {
+      "id": "it_o3_u1_3",
+      "text": "Christianity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基督教；基督教精神，基督教教义"
+    },
+    {
+      "id": "it_o3_u1_4",
+      "text": "realistic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 现实的；现实主义的；逼真的；实在论的"
+    },
+    {
+      "id": "it_o3_u1_5",
+      "text": "realism",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 现实主义；实在论；现实主义的态度和行为"
+    },
+    {
+      "id": "it_o3_u1_6",
+      "text": "realist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 现实主义者；实在论者"
+    },
+    {
+      "id": "it_o3_u1_7",
+      "text": "primitive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 原始人；adj. 原始的，远古的；简单的，粗糙的"
+    },
+    {
+      "id": "it_o3_u1_8",
+      "text": "two-dimensional",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 二维的；缺乏深度的"
+    },
+    {
+      "id": "it_o3_u1_9",
+      "text": "dimension",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 方面;[数] 维；尺寸；次元；容积 vt. 标出尺寸；adj. 规格的"
+    },
+    {
+      "id": "it_o3_u1_10",
+      "text": "in particular",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 特别；一一"
+    },
+    {
+      "id": "it_o3_u1_11",
+      "text": "set apart from",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "分开；区别；把……区分开"
+    },
+    {
+      "id": "it_o3_u1_12",
+      "text": "humanistic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 人文主义的；人道主义的"
+    },
+    {
+      "id": "it_o3_u1_13",
+      "text": "humanity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 人类；人道；仁慈；人文学科"
+    },
+    {
+      "id": "it_o3_u1_14",
+      "text": "breakthrough",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 突破；突破性进展"
+    },
+    {
+      "id": "it_o3_u1_15",
+      "text": "influential",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有影响的；有势力的；n. 有影响力的人物"
+    },
+    {
+      "id": "it_o3_u1_16",
+      "text": "reputation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 名声，名誉；声望"
+    },
+    {
+      "id": "it_o3_u1_17",
+      "text": "noble",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 高尚的；贵族的；惰性的；宏伟的；n. 贵族；vt. 抓住；逮捕"
+    },
+    {
+      "id": "it_o3_u1_18",
+      "text": "rank",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 排；等级；军衔；队列；adj. 讨厌的；恶臭的；繁茂的；vt. 排列；把…分等；vi. 列为；列队"
+    },
+    {
+      "id": "it_o3_u1_19",
+      "text": "purchase",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 购买；紧握；起重装置；vt. 购买；赢得；vi. 购买东西"
+    },
+    {
+      "id": "it_o3_u1_20",
+      "text": "mythology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 神话；神话学；神话集"
+    },
+    {
+      "id": "it_o3_u1_21",
+      "text": "client",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [经] 客户；顾客；委托人"
+    },
+    {
+      "id": "it_o3_u1_22",
+      "text": "photography",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摄影；摄影术"
+    },
+    {
+      "id": "it_o3_u1_23",
+      "text": "emerge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 浮现；摆脱；暴露"
+    },
+    {
+      "id": "it_o3_u1_24",
+      "text": "sunrise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 日出；黎明"
+    },
+    {
+      "id": "it_o3_u1_25",
+      "text": "convey",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 传达；运输；让与"
+    },
+    {
+      "id": "it_o3_u1_26",
+      "text": "subjective",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 主观的；个人的；自觉的"
+    },
+    {
+      "id": "it_o3_u1_27",
+      "text": "outer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 外面的，外部的；远离中心的；n. 环外命中"
+    },
+    {
+      "id": "it_o3_u1_28",
+      "text": "subsequent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 后来的，随后的"
+    },
+    {
+      "id": "it_o3_u1_29",
+      "text": "fond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 喜欢的；温柔的；宠爱的"
+    },
+    {
+      "id": "it_o3_u1_30",
+      "text": "be fond of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 爱好"
+    },
+    {
+      "id": "it_o3_u1_31",
+      "text": "fine art",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【艺】艺术(尤指绘画及雕塑)"
+    },
+    {
+      "id": "it_o3_u1_32",
+      "text": "sculpture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雕塑；雕刻；刻蚀；vt. 雕塑；雕刻；刻蚀；vi. 从事雕刻"
+    },
+    {
+      "id": "it_o3_u1_33",
+      "text": "sculptor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雕刻家"
+    },
+    {
+      "id": "it_o3_u1_34",
+      "text": "visual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 视觉的，视力的；栩栩如生的"
+    },
+    {
+      "id": "it_o3_u1_35",
+      "text": "water lily",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 睡莲"
+    },
+    {
+      "id": "it_o3_u1_36",
+      "text": "pond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 池塘；vt. 筑成池塘；vi. 筑成池塘"
+    },
+    {
+      "id": "it_o3_u1_37",
+      "text": "arched",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 拱形的；有拱的；弓形结构的；v. 成弓形弯曲；成弓形（arch的过去分词形式）"
+    },
+    {
+      "id": "it_o3_u1_38",
+      "text": "arch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 弓形，拱形；拱门；adj. 主要的；vt. 使…弯成弓形；用拱连接；vi. 拱起；成为弓形"
+    },
+    {
+      "id": "it_o3_u1_39",
+      "text": "investment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 投资；投入；封锁"
+    },
+    {
+      "id": "it_o3_u1_40",
+      "text": "bride",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 新娘；姑娘，女朋友"
+    },
+    {
+      "id": "it_o3_u1_41",
+      "text": "permanent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烫发（等于permanent wave）；adj. 永久的，永恒的；不变的"
+    },
+    {
+      "id": "it_o3_u1_42",
+      "text": "memorial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 纪念碑，纪念馆；纪念仪式；纪念物；adj. 记忆的；纪念的，追悼的"
+    },
+    {
+      "id": "it_o3_u1_43",
+      "text": "humble",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 谦逊的；简陋的；（级别或地位）低下的；不大的；vt. 使谦恭；轻松打败（尤指强大的对手）；低声下气"
+    },
+    {
+      "id": "it_o3_u1_44",
+      "text": "criticise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 批评；吹毛求疵；非难；vi. 批评；吹毛求疵；非难"
+    },
+    {
+      "id": "it_o3_u1_45",
+      "text": "criticize",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 批评；评论；苛求；vt. 批评；评论；非难"
+    },
+    {
+      "id": "it_o3_u1_46",
+      "text": "criticism",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 批评；考证；苛求"
+    },
+    {
+      "id": "it_o3_u1_47",
+      "text": "representative",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 代表；典型；众议员；adj. 典型的，有代表性的；代议制的"
+    },
+    {
+      "id": "it_o3_u1_48",
+      "text": "ink",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 墨水，墨汁；油墨；vt. 签署；涂墨水于"
+    },
+    {
+      "id": "it_o3_u1_49",
+      "text": "animation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 活泼，生气；激励；卡通片绘制"
+    },
+    {
+      "id": "it_o3_u1_50",
+      "text": "frame",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 框架；结构；[电影] 画面；adj. 有木架的；有构架的；vt. 设计；建造；陷害；使…适合；vi. 有成功希望"
+    },
+    {
+      "id": "it_o3_u1_51",
+      "text": "symphony",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 交响乐；谐声，和声"
+    },
+    {
+      "id": "it_o3_u1_52",
+      "text": "decline",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 下降；衰退；斜面；vt. 谢绝；婉拒；vi. 下降；衰落；谢绝"
+    },
+    {
+      "id": "it_o3_u1_53",
+      "text": "exhibition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 展览，显示；展览会；展览品"
+    },
+    {
+      "id": "it_o3_u1_54",
+      "text": "bronze",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 青铜；古铜色；青铜制品；adj. 青铜色的；青铜制的；vt. 镀青铜于；vi. 变成青铜色，被晒黑"
+    },
+    {
+      "id": "it_o3_u1_55",
+      "text": "ceramic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 陶瓷；陶瓷制品；adj. 陶瓷的；陶器的；制陶艺术的"
+    },
+    {
+      "id": "it_o3_u1_56",
+      "text": "vase",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 瓶；花瓶"
+    },
+    {
+      "id": "it_o3_u1_57",
+      "text": "artistic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 艺术的；风雅的；有美感的"
+    },
+    {
+      "id": "it_o3_u1_58",
+      "text": "entry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 进入；入口；条目；登记；报关手续；对土地的侵占"
+    },
+    {
+      "id": "it_o3_u1_59",
+      "text": "civil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 公民的；民间的；文职的；有礼貌的；根据民法的"
+    },
+    {
+      "id": "it_o3_u1_60",
+      "text": "recognition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 识别；承认，认出；重视；赞誉；公认"
+    },
+    {
+      "id": "it_o3_u1_61",
+      "text": "Buddhist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 佛教徒；adj. 佛教的"
+    },
+    {
+      "id": "it_o3_u1_62",
+      "text": "Buddhism",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 佛教"
+    },
+    {
+      "id": "it_o3_u1_63",
+      "text": "expansion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 膨胀；阐述；扩张物"
+    },
+    {
+      "id": "it_o3_u1_64",
+      "text": "bring ... to life",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 使苏醒"
+    },
+    {
+      "id": "it_o3_u1_65",
+      "text": "guarantee",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 保证；担保；保证人；保证书；抵押品；vt. 保证；担保"
+    },
+    {
+      "id": "it_o3_u1_66",
+      "text": "contemporary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 同时代的人；同时期的东西；adj. 当代的；同时代的；属于同一时期的"
+    },
+    {
+      "id": "it_o3_u1_67",
+      "text": "worthy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 杰出人物；知名人士；adj. 值得的；有价值的；配得上的，相称的；可尊敬的；应…的"
+    },
+    {
+      "id": "it_o3_u1_68",
+      "text": "be worthy of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "值得；配得上；对得起"
+    },
+    {
+      "id": "it_o3_u1_69",
+      "text": "The Middle Ages",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 中世纪（欧洲历史上从公元 1000 年到 1450 年）"
+    },
+    {
+      "id": "it_o3_u1_70",
+      "text": "Giotto di Bondone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "乔托（意大利文艺复兴初期的画家和雕塑家）"
+    },
+    {
+      "id": "it_o3_u1_71",
+      "text": "the Renaissance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "文艺复兴；文艺复兴时期；文艺复兴运动"
+    },
+    {
+      "id": "it_o3_u1_72",
+      "text": "Masaccio",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 马萨乔（意大利画家）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

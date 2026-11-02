@@ -1,0 +1,1062 @@
+{
+  "schema": 1,
+  "id": "pep_c3_u4",
+  "name": "人教版必修第三册 · Unit 4 Space Exploration",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c3_u4_1",
+      "text": "astronaut",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 宇航员，航天员；太空旅行者"
+    },
+    {
+      "id": "it_c3_u4_2",
+      "text": "procedure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 程序，手续；步骤"
+    },
+    {
+      "id": "it_c3_u4_3",
+      "text": "mental",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 精神的；脑力的；疯的；n. 精神病患者"
+    },
+    {
+      "id": "it_c3_u4_4",
+      "text": "cm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 厘米（centimeter）；普通格律（common meter）；军事法庭（court-martial）"
+    },
+    {
+      "id": "it_c3_u4_5",
+      "text": "centimetre",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 厘米；公分"
+    },
+    {
+      "id": "it_c3_u4_6",
+      "text": "centimeter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计量] 厘米；[计量] 公分"
+    },
+    {
+      "id": "it_c3_u4_7",
+      "text": "intelligent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 智能的；聪明的；理解力强的"
+    },
+    {
+      "id": "it_c3_u4_8",
+      "text": "rocket",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 火箭；vt. 用火箭运载；vi. 飞驰，飞快地移动；迅速增加"
+    },
+    {
+      "id": "it_c3_u4_9",
+      "text": "gravity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 重力，地心引力；严重性；庄严"
+    },
+    {
+      "id": "it_c3_u4_10",
+      "text": "frontier",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 前沿；边界；国境；adj. 边界的；开拓的"
+    },
+    {
+      "id": "it_c3_u4_11",
+      "text": "vehicle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [车辆] 车辆；工具；交通工具；运载工具；传播媒介；媒介物"
+    },
+    {
+      "id": "it_c3_u4_12",
+      "text": "universe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 宇宙；世界；领域"
+    },
+    {
+      "id": "it_c3_u4_13",
+      "text": "determined",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 决定；断定（determine的过去分词）；adj. 决定了的；坚决的"
+    },
+    {
+      "id": "it_c3_u4_14",
+      "text": "determine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. （使）下决心，（使）做出决定；vt. 决定，确定；判定，判决；限定；vi. 确定；决定；判决，终止；[主用于法律]了结，终止，结束"
+    },
+    {
+      "id": "it_c3_u4_15",
+      "text": "satellite",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 卫星；人造卫星；随从；卫星国家"
+    },
+    {
+      "id": "it_c3_u4_16",
+      "text": "launch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 发射（导弹、火箭等）；发起，发动；使…下水；vi. 开始；下水；起飞；n. 发射；发行，投放市场；下水；汽艇"
+    },
+    {
+      "id": "it_c3_u4_17",
+      "text": "orbit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 轨道；眼眶；势力范围；生活常规；vi. 盘旋；绕轨道运行；vt. 绕…轨道而行"
+    },
+    {
+      "id": "it_c3_u4_18",
+      "text": "giant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 巨人；伟人；[动] 巨大的动物；adj. 巨大的；巨人般的"
+    },
+    {
+      "id": "it_c3_u4_19",
+      "text": "leap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 跳，跳跃；n. 飞跃；跳跃；vt. 跳跃，跳过；使跃过"
+    },
+    {
+      "id": "it_c3_u4_20",
+      "text": "leapt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 跳跃（leap的过去分词）"
+    },
+    {
+      "id": "it_c3_u4_21",
+      "text": "leapt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 跳跃（leap的过去分词）"
+    },
+    {
+      "id": "it_c3_u4_22",
+      "text": "leaped",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 跳跃；急速移动；剧增；突然移动"
+    },
+    {
+      "id": "it_c3_u4_23",
+      "text": "leaped",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 跳跃；急速移动；剧增；突然移动"
+    },
+    {
+      "id": "it_c3_u4_24",
+      "text": "mankind",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 人类；男性"
+    },
+    {
+      "id": "it_c3_u4_25",
+      "text": "agency",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 代理，中介；代理处，经销处"
+    },
+    {
+      "id": "it_c3_u4_26",
+      "text": "transmit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 传输；传播；发射；传达；遗传；vi. 传输；发射信号"
+    },
+    {
+      "id": "it_c3_u4_27",
+      "text": "data",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 数据（datum的复数）；资料"
+    },
+    {
+      "id": "it_c3_u4_28",
+      "text": "disappointed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 失望的，沮丧的；受挫折的"
+    },
+    {
+      "id": "it_c3_u4_29",
+      "text": "desire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 欲望；要求，心愿；性欲；vt. 想要；要求；希望得到…；vi. 渴望"
+    },
+    {
+      "id": "it_c3_u4_30",
+      "text": "carry on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. (飞机乘客的行李)可随身携带的；n. (飞机乘客的)随身行李"
+    },
+    {
+      "id": "it_c3_u4_31",
+      "text": "ongoing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不间断的，进行的；前进的；n. 前进；行为，举止"
+    },
+    {
+      "id": "it_c3_u4_32",
+      "text": "on board",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 在船上；〔美国〕在车上；〈口〉【棒】出垒"
+    },
+    {
+      "id": "it_c3_u4_33",
+      "text": "independently",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 独立地；自立地"
+    },
+    {
+      "id": "it_c3_u4_34",
+      "text": "independent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 独立自主者；无党派者；adj. 独立的；单独的；无党派的；不受约束的"
+    },
+    {
+      "id": "it_c3_u4_35",
+      "text": "spacecraft",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [航] 宇宙飞船，航天器"
+    },
+    {
+      "id": "it_c3_u4_36",
+      "text": "spacewalk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 太空漫步，太空行走；航天舱外活动"
+    },
+    {
+      "id": "it_c3_u4_37",
+      "text": "jade",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 翡翠；[宝] 碧玉；老马；adj. 玉制的；绿玉色的；vt. 使疲倦；vi. 疲倦"
+    },
+    {
+      "id": "it_c3_u4_38",
+      "text": "dock",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 码头；船坞；被告席；尾巴的骨肉部分；vt. 使靠码头；剪短；vi. 入船坞"
+    },
+    {
+      "id": "it_c3_u4_39",
+      "text": "signal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 信号；暗号；导火线；adj. 显著的；作为信号的；vt. 标志；用信号通知；表示；vi. 发信号"
+    },
+    {
+      "id": "it_c3_u4_40",
+      "text": "in the hope of doing sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u4_41",
+      "text": "so as to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. (= in order to) 以便；为使"
+    },
+    {
+      "id": "it_c3_u4_42",
+      "text": "so as to do sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "为了做某事；以便为了做某事；为了去做某事"
+    },
+    {
+      "id": "it_c3_u4_43",
+      "text": "recycle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 再生；再循环；重复利用；vt. 使再循环；使…重新利用；vi. 重复利用"
+    },
+    {
+      "id": "it_c3_u4_44",
+      "text": "muscle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 肌肉；力量；vt. 加强；使劲搬动；使劲挤出；vi. 使劲行进"
+    },
+    {
+      "id": "it_c3_u4_45",
+      "text": "lack",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 缺乏；不足；没有；需要；vi. 缺乏；不足；没有；n. 缺乏；不足"
+    },
+    {
+      "id": "it_c3_u4_46",
+      "text": "float",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 彩车，花车；漂流物；浮舟；浮萍；vi. 浮动；飘动，散播；摇摆；付诸实施；vt. 使漂浮；实行"
+    },
+    {
+      "id": "it_c3_u4_47",
+      "text": "otherwise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 否则；另外；在其他方面；adj. 另外的；其他方面的；原本，本来；conj. 其他；如果不；然后"
+    },
+    {
+      "id": "it_c3_u4_48",
+      "text": "beyond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 超过；越过；那一边；在...较远的一边；n. 远处；adv. 在远处；在更远处"
+    },
+    {
+      "id": "it_c3_u4_49",
+      "text": "solar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 日光浴室；adj. 太阳的；日光的；利用太阳光的；与太阳相关的"
+    },
+    {
+      "id": "it_c3_u4_50",
+      "text": "solar system",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 太阳系；类太阳系"
+    },
+    {
+      "id": "it_c3_u4_51",
+      "text": "current",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （水，气，电）流；趋势；涌流；adj. 现在的；流通的，通用的；最近的；草写的"
+    },
+    {
+      "id": "it_c3_u4_52",
+      "text": "figure out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 估计；解决；了解；〈口〉确定"
+    },
+    {
+      "id": "it_c3_u4_53",
+      "text": "sufficient",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 足够的；充分的"
+    },
+    {
+      "id": "it_c3_u4_54",
+      "text": "soap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 肥皂；vt. 将肥皂涂在……上；对……拍马屁（俚语）；vi. 用肥皂擦洗"
+    },
+    {
+      "id": "it_c3_u4_55",
+      "text": "towel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 毛巾，手巾；[纸] 纸巾；vi. 用毛巾擦干身体；vt. 用毛巾擦"
+    },
+    {
+      "id": "it_c3_u4_56",
+      "text": "microwave",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 微波"
+    },
+    {
+      "id": "it_c3_u4_57",
+      "text": "microwave oven",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 微波炉"
+    },
+    {
+      "id": "it_c3_u4_58",
+      "text": "tissue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 组织；纸巾；薄纱；一套；vt. 饰以薄纱；用化妆纸揩去"
+    },
+    {
+      "id": "it_c3_u4_59",
+      "text": "facility",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 设施；设备；容易；灵巧"
+    },
+    {
+      "id": "it_c3_u4_60",
+      "text": "keen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 敏锐的，敏捷的；渴望的；强烈的；热心的；锐利的；n. 痛哭，挽歌"
+    },
+    {
+      "id": "it_c3_u4_61",
+      "text": "globe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地球；地球仪；球体；vt. 使…成球形；vi. 成球状"
+    },
+    {
+      "id": "it_c3_u4_62",
+      "text": "argue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 争论，辩论；提出理由；vt. 辩论，争论；证明；说服"
+    },
+    {
+      "id": "it_c3_u4_63",
+      "text": "argument",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 论证；论据；争吵；内容提要"
+    },
+    {
+      "id": "it_c3_u4_64",
+      "text": "fatal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 致命的；重大的；毁灭性的；命中注定的"
+    },
+    {
+      "id": "it_c3_u4_65",
+      "text": "shallow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [地理] 浅滩；adj. 浅的；肤浅的；vt. 使变浅；vi. 变浅"
+    },
+    {
+      "id": "it_c3_u4_66",
+      "text": "result in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 终于(失败)"
+    },
+    {
+      "id": "it_c3_u4_67",
+      "text": "pattern",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 模式；图案；样品；vt. 模仿；以图案装饰；vi. 形成图案"
+    },
+    {
+      "id": "it_c3_u4_68",
+      "text": "analysis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 分析；分解；验定"
+    },
+    {
+      "id": "it_c3_u4_69",
+      "text": "analyses",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 分析；解析；分解；梗概（analysis的复数形式）"
+    },
+    {
+      "id": "it_c3_u4_70",
+      "text": "as a result",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 结果"
+    },
+    {
+      "id": "it_c3_u4_71",
+      "text": "high-end",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 高端的；高档的"
+    },
+    {
+      "id": "it_c3_u4_72",
+      "text": "monitor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 监视器；监听器；监控器；显示屏；班长；vt. 监控"
+    },
+    {
+      "id": "it_c3_u4_73",
+      "text": "regularly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 定期地；有规律地；整齐地；匀称地"
+    },
+    {
+      "id": "it_c3_u4_74",
+      "text": "regular",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 常客；正式队员；中坚分子；adj. 定期的；有规律的；合格的；整齐的；普通的；adv. 定期地；经常地"
+    },
+    {
+      "id": "it_c3_u4_75",
+      "text": "foam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 泡沫；水沫；灭火泡沫；vt. 使起泡沫；使成泡沫状物；vi. 起泡沫；吐白沫；起着泡沫流动"
+    },
+    {
+      "id": "it_c3_u4_76",
+      "text": "pillow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 枕头；vt. 垫；枕于…；使…靠在；vi. 枕着头；靠在枕上"
+    },
+    {
+      "id": "it_c3_u4_77",
+      "text": "smartphone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 智能手机"
+    },
+    {
+      "id": "it_c3_u4_78",
+      "text": "resource",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 资源，财力；办法；智谋"
+    },
+    {
+      "id": "it_c3_u4_79",
+      "text": "limited",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有限的；n. 高级快车"
+    },
+    {
+      "id": "it_c3_u4_80",
+      "text": "provide for sb.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 为…作准备"
+    },
+    {
+      "id": "it_c3_u4_81",
+      "text": "closing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 结尾辞；v. 关闭（close的ing形式）；adj. 收盘的；结束的；结尾的"
+    },
+    {
+      "id": "it_c3_u4_82",
+      "text": "in closing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "最后；在我结束讲话之前；结束语"
+    },
+    {
+      "id": "it_c3_u4_83",
+      "text": "mystery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 秘密，谜；神秘，神秘的事物；推理小说，推理剧；常作 mysteries 秘技，秘诀"
+    },
+    {
+      "id": "it_c3_u4_84",
+      "text": "run out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 耗尽；用光；过有效期；失效"
+    },
+    {
+      "id": "it_c3_u4_85",
+      "text": "attach",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 附加；附属；伴随；vt. 使依附；贴上；系上；使依恋"
+    },
+    {
+      "id": "it_c3_u4_86",
+      "text": "oxygen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [化学] 氧气，[化学] 氧"
+    },
+    {
+      "id": "it_c3_u4_87",
+      "text": "Sputnik",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 人造卫星（前苏联制造）"
+    },
+    {
+      "id": "it_c3_u4_88",
+      "text": "the USSR",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "苏联（Union of Soviet Socialist Republics）"
+    },
+    {
+      "id": "it_c3_u4_89",
+      "text": "the Union of Soviet Socialist Republics",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u4_90",
+      "text": "Yuri Gagarin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "加加林；太空人加加林；尤里加加林"
+    },
+    {
+      "id": "it_c3_u4_91",
+      "text": "Neil Armstrong",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "阿姆斯特朗；阿姆斯壮；太空人阿姆斯壮"
+    },
+    {
+      "id": "it_c3_u4_92",
+      "text": "NASA",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 美国国家航空和宇宙航行局（National Aeronautics and Space Administration）"
+    },
+    {
+      "id": "it_c3_u4_93",
+      "text": "National Aeronautics and Space Administration",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 美国国家航空和宇宙航行管理局；国家宇航局；国家航空和宇宙航行局"
+    },
+    {
+      "id": "it_c3_u4_94",
+      "text": "Voyager",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航海者，航行者"
+    },
+    {
+      "id": "it_c3_u4_95",
+      "text": "Soyuz",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "号；联合号；俄罗斯联合号"
+    },
+    {
+      "id": "it_c3_u4_96",
+      "text": "Challenger",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 挑战者"
+    },
+    {
+      "id": "it_c3_u4_97",
+      "text": "the International Space Station",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u4_98",
+      "text": "Jade Rabbit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u4_99",
+      "text": "Mars",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 战神；[天] 火星"
+    },
+    {
+      "id": "it_c3_u4_100",
+      "text": "Jupiter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [天] 木星；朱庇特（罗马神话中的宙斯神）"
+    },
+    {
+      "id": "it_c3_u4_101",
+      "text": "Typhoon Goni",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u4_102",
+      "text": "GPS",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 全球定位系统（Global Position System）；通用雷达（General Purpose Radar）；炮长主瞄准镜（Gunner's Primary Sight）"
+    },
+    {
+      "id": "it_c3_u4_103",
+      "text": "global positioning system",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "全球定位系统；全球卫星定位系统；全球位置测定系统"
+    },
+    {
+      "id": "it_c3_u4_104",
+      "text": "basis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基础；底部；主要成分；基本原则或原理"
+    },
+    {
+      "id": "it_c3_u4_105",
+      "text": "on the basis of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 以…为基础"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

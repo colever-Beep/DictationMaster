@@ -1,0 +1,712 @@
+{
+  "schema": 1,
+  "id": "pep_o4_u1",
+  "name": "人教版选择性必修第四册 · Unit 1",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o4_u1_1",
+      "text": "fiction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小说；虚构，编造；谎言"
+    },
+    {
+      "id": "it_o4_u1_2",
+      "text": "science fiction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 科幻小说；科幻电影"
+    },
+    {
+      "id": "it_o4_u1_3",
+      "text": "sci-fi",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 科幻小说（等于science fiction）"
+    },
+    {
+      "id": "it_o4_u1_4",
+      "text": "test out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 同“test”"
+    },
+    {
+      "id": "it_o4_u1_5",
+      "text": "bonus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奖金；红利；额外津贴"
+    },
+    {
+      "id": "it_o4_u1_6",
+      "text": "more like",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "更接近；相像的；差不多接近"
+    },
+    {
+      "id": "it_o4_u1_7",
+      "text": "ridiculous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 可笑的；荒谬的"
+    },
+    {
+      "id": "it_o4_u1_8",
+      "text": "integrity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 完整；正直；诚实；廉正"
+    },
+    {
+      "id": "it_o4_u1_9",
+      "text": "dignity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 尊严；高贵"
+    },
+    {
+      "id": "it_o4_u1_10",
+      "text": "salary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 薪水；vt. 给...加薪；给...薪水"
+    },
+    {
+      "id": "it_o4_u1_11",
+      "text": "absurd",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 荒诞；荒诞作品；adj. 荒谬的；可笑的"
+    },
+    {
+      "id": "it_o4_u1_12",
+      "text": "appointment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 任命；约定；任命的职位"
+    },
+    {
+      "id": "it_o4_u1_13",
+      "text": "nail",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 钉；使固定；揭露；n. [解剖] 指甲；钉子"
+    },
+    {
+      "id": "it_o4_u1_14",
+      "text": "saleswoman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [贸易] 女售货员；[贸易] 女店员"
+    },
+    {
+      "id": "it_o4_u1_15",
+      "text": "guilty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有罪的；内疚的"
+    },
+    {
+      "id": "it_o4_u1_16",
+      "text": "suspend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 延缓，推迟；使暂停；使悬浮；vi. 悬浮；禁赛"
+    },
+    {
+      "id": "it_o4_u1_17",
+      "text": "ladder",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 阶梯；途径；梯状物；vi. 成名；发迹；vt. 在……上装设梯子"
+    },
+    {
+      "id": "it_o4_u1_18",
+      "text": "dismiss",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 解散；解雇；开除；让...离开；不予理会、不予考虑；vi. 解散"
+    },
+    {
+      "id": "it_o4_u1_19",
+      "text": "declare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 宣布，声明；断言，宣称；vi. 声明，宣布"
+    },
+    {
+      "id": "it_o4_u1_20",
+      "text": "whereas",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "conj. 然而；鉴于；反之"
+    },
+    {
+      "id": "it_o4_u1_21",
+      "text": "rumour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 谣言；vt. 传闻"
+    },
+    {
+      "id": "it_o4_u1_22",
+      "text": "presume",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 相信；擅自行为；vt. 假定；推测；擅自；意味着"
+    },
+    {
+      "id": "it_o4_u1_23",
+      "text": "fare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 票价；费用；旅客；食物；vi. 经营；进展；遭遇；过活"
+    },
+    {
+      "id": "it_o4_u1_24",
+      "text": "weekly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 周刊；adj. 每周的；周刊的；一周一次的；adv. 每周一次；逐周"
+    },
+    {
+      "id": "it_o4_u1_25",
+      "text": "on a ... basis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u1_26",
+      "text": "calculate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 计算；预测；认为；打算；vi. 计算；以为；作打算"
+    },
+    {
+      "id": "it_o4_u1_27",
+      "text": "chairwoman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 女主席；女议长"
+    },
+    {
+      "id": "it_o4_u1_28",
+      "text": "gramme",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 克"
+    },
+    {
+      "id": "it_o4_u1_29",
+      "text": "gram",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 克；鹰嘴豆（用作饲料）"
+    },
+    {
+      "id": "it_o4_u1_30",
+      "text": "flour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 面粉；粉状物质；vt. 撒粉于；把…磨成粉"
+    },
+    {
+      "id": "it_o4_u1_31",
+      "text": "venue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 审判地；犯罪地点；发生地点；集合地点"
+    },
+    {
+      "id": "it_o4_u1_32",
+      "text": "salesman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 推销员；售货员"
+    },
+    {
+      "id": "it_o4_u1_33",
+      "text": "alien",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 外国人，外侨；外星人；adj. 外国的；相异的，性质不同的；不相容的；vt. 让渡，转让"
+    },
+    {
+      "id": "it_o4_u1_34",
+      "text": "pros and cons",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 利弊; 正反两方面; 优缺点; 赞成和反对的理由"
+    },
+    {
+      "id": "it_o4_u1_35",
+      "text": "blurred",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 玷污；使…模糊不清；使感觉迟钝（blur的过去式和过去分词）；adj. 模糊不清的；被弄污的"
+    },
+    {
+      "id": "it_o4_u1_36",
+      "text": "superior",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 上级，长官；优胜者，高手；长者；adj. 上级的；优秀的，出众的；高傲的"
+    },
+    {
+      "id": "it_o4_u1_37",
+      "text": "superior to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 胜过；优于"
+    },
+    {
+      "id": "it_o4_u1_38",
+      "text": "take over",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 接管；继承"
+    },
+    {
+      "id": "it_o4_u1_39",
+      "text": "inaction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 不活动；迟钝"
+    },
+    {
+      "id": "it_o4_u1_40",
+      "text": "conflict with",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 相抵触"
+    },
+    {
+      "id": "it_o4_u1_41",
+      "text": "labour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （英国）工党"
+    },
+    {
+      "id": "it_o4_u1_42",
+      "text": "leather",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 皮革；皮革制品；vt. 用皮革包盖；抽打；adj. 皮的；皮革制的"
+    },
+    {
+      "id": "it_o4_u1_43",
+      "text": "lever",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 杠杆；控制杆；vt. 用杠杆撬动；把…作为杠杆；vi. 用杠杆撬"
+    },
+    {
+      "id": "it_o4_u1_44",
+      "text": "panel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 仪表板；嵌板；座谈小组，全体陪审员；vt. 嵌镶板"
+    },
+    {
+      "id": "it_o4_u1_45",
+      "text": "inch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 英寸；身高；少许；vt. 使缓慢地移动；vi. 慢慢前进"
+    },
+    {
+      "id": "it_o4_u1_46",
+      "text": "backwards",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 倒；向后；逆"
+    },
+    {
+      "id": "it_o4_u1_47",
+      "text": "backward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 向后的；反向的；发展迟缓的；adv. 向后地；相反地"
+    },
+    {
+      "id": "it_o4_u1_48",
+      "text": "grip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 紧握；柄；支配；握拍方式；拍柄绷带；vt. 紧握；夹紧；vi. 抓住"
+    },
+    {
+      "id": "it_o4_u1_49",
+      "text": "hazy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 朦胧的；模糊的；有薄雾的"
+    },
+    {
+      "id": "it_o4_u1_50",
+      "text": "niece",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 外甥女，侄女"
+    },
+    {
+      "id": "it_o4_u1_51",
+      "text": "fetch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 取得；诡计；vt. 取来；接来；到达；吸引；vi. 拿；取物；卖得"
+    },
+    {
+      "id": "it_o4_u1_52",
+      "text": "handkerchief",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 手帕；头巾，围巾"
+    },
+    {
+      "id": "it_o4_u1_53",
+      "text": "lamp",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灯；照射器；vt. 照亮；vi. 发亮"
+    },
+    {
+      "id": "it_o4_u1_54",
+      "text": "turn out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. （以某种方式）发生；最后是；结果是 （尤指天气突然）变得（晴好） 原来是；结果发现 出席;参加;前去观看关掉，熄灭（电灯、煤气等） 出席;参加;前去观看生产；制造 （尤指把某人从其长期居住处）撵走，赶出，逐出 翻出；倒出 出席；参加；前去观看"
+    },
+    {
+      "id": "it_o4_u1_55",
+      "text": "pace",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 一步；步速；步伐；速度；vi. 踱步；缓慢而行；vt. 踱步于；用步测"
+    },
+    {
+      "id": "it_o4_u1_56",
+      "text": "fall away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【宇】(火箭各级的)分开"
+    },
+    {
+      "id": "it_o4_u1_57",
+      "text": "division",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [数] 除法；部门；分配；分割；师（军队）；赛区"
+    },
+    {
+      "id": "it_o4_u1_58",
+      "text": "puff",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 粉扑；泡芙；蓬松；一阵喷烟；肿块；吹嘘，宣传广告；vt. 喷出，张开；使膨胀；夸张；使骄傲自满；vi. 膨胀；张开；鼓吹；夸张"
+    },
+    {
+      "id": "it_o4_u1_59",
+      "text": "urge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 强烈的欲望，迫切要求；推动力；vi. 强烈要求；vt. 力劝，催促；驱策，推进"
+    },
+    {
+      "id": "it_o4_u1_60",
+      "text": "have an urge to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u1_61",
+      "text": "random",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 随意；adj. [数] 随机的；任意的；胡乱的；adv. 胡乱地"
+    },
+    {
+      "id": "it_o4_u1_62",
+      "text": "maximum",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [数] 极大，最大限度；最大量；adj. 最高的；最多的；最大极限的"
+    },
+    {
+      "id": "it_o4_u1_63",
+      "text": "explode",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 爆炸，爆发；激增；vt. 使爆炸；爆炸；推翻"
+    },
+    {
+      "id": "it_o4_u1_64",
+      "text": "jolt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使颠簸；使震惊；使摇动；vi. 摇晃；颠簸而行；n. 颠簸；摇晃；震惊；严重挫折"
+    },
+    {
+      "id": "it_o4_u1_65",
+      "text": "flip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 弹；筋斗；vi. 用指轻弹；蹦跳；adj. 无礼的；轻率的；vt. 掷；轻击"
+    },
+    {
+      "id": "it_o4_u1_66",
+      "text": "stun",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 昏迷；打昏；惊倒；令人惊叹的事物；vt. 使震惊；打昏；给以深刻的印象"
+    },
+    {
+      "id": "it_o4_u1_67",
+      "text": "mud",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 弄脏；用泥涂；vi. 钻入泥中；n. 泥；诽谤的话；无价值的东西"
+    },
+    {
+      "id": "it_o4_u1_68",
+      "text": "overstatement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大话，夸大的叙述"
+    },
+    {
+      "id": "it_o4_u1_69",
+      "text": "Isaac Asimov",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "阿西莫夫；艾西莫夫；艾萨克·阿西莫夫"
+    },
+    {
+      "id": "it_o4_u1_70",
+      "text": "Larry Belmont",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

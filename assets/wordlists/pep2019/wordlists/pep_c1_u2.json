@@ -1,0 +1,572 @@
+{
+  "schema": 1,
+  "id": "pep_c1_u2",
+  "name": "人教版必修第一册 · Unit 1 Teenage Life",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c1_u2_1",
+      "text": "teenage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 青少年时期；adj. 青少年的；十几岁的"
+    },
+    {
+      "id": "it_c1_u2_2",
+      "text": "teenager",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 十几岁的青少年；十三岁到十九岁的少年"
+    },
+    {
+      "id": "it_c1_u2_3",
+      "text": "ballet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 芭蕾舞剧；芭蕾舞乐曲"
+    },
+    {
+      "id": "it_c1_u2_4",
+      "text": "volunteer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 志愿者；志愿兵；adj. 志愿的；vt. 自愿；vi. 自愿"
+    },
+    {
+      "id": "it_c1_u2_5",
+      "text": "debate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 辩论；辩论会；vt. 辩论，争论，讨论；vi. 辩论，争论，讨论"
+    },
+    {
+      "id": "it_c1_u2_6",
+      "text": "prefer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 更喜欢；宁愿；提出；提升；vi. 喜欢；愿意"
+    },
+    {
+      "id": "it_c1_u2_7",
+      "text": "prefer ... to ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 较喜欢；宁愿:"
+    },
+    {
+      "id": "it_c1_u2_8",
+      "text": "content",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 内容，目录；满足；容量；adj. 满意的；vt. 使满足"
+    },
+    {
+      "id": "it_c1_u2_9",
+      "text": "movement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 运动；活动；运转；乐章"
+    },
+    {
+      "id": "it_c1_u2_10",
+      "text": "greenhouse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 温室；造成温室效应的"
+    },
+    {
+      "id": "it_c1_u2_11",
+      "text": "clean up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 收拾干净；【机械工程】改正；〔俚语〕赚厚利"
+    },
+    {
+      "id": "it_c1_u2_12",
+      "text": "suitable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 适当的；相配的"
+    },
+    {
+      "id": "it_c1_u2_13",
+      "text": "suitable for",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 适合于N"
+    },
+    {
+      "id": "it_c1_u2_14",
+      "text": "actually",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 实际上；事实上"
+    },
+    {
+      "id": "it_c1_u2_15",
+      "text": "challenge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 挑战；怀疑；vt. 向…挑战；对…质疑"
+    },
+    {
+      "id": "it_c1_u2_16",
+      "text": "title",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冠军；标题；头衔；权利；字幕；adj. 冠军的；标题的；头衔的；vt. 加标题于；赋予头衔；把…称为"
+    },
+    {
+      "id": "it_c1_u2_17",
+      "text": "topic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 主题（等于theme）；题目；一般规则；总论"
+    },
+    {
+      "id": "it_c1_u2_18",
+      "text": "freshman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 新手，生手；大学一年级学生"
+    },
+    {
+      "id": "it_c1_u2_19",
+      "text": "confusing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 使迷惑；使混乱不清；使困窘（confuse的ing形式）；adj. 混乱的；混淆的；令人困惑的"
+    },
+    {
+      "id": "it_c1_u2_20",
+      "text": "confuse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使混乱；使困惑"
+    },
+    {
+      "id": "it_c1_u2_21",
+      "text": "confused",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 困惑（confuse的过去式）；adj. 困惑的；混乱的；糊涂的"
+    },
+    {
+      "id": "it_c1_u2_22",
+      "text": "fluent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 流畅的，流利的；液态的；畅流的"
+    },
+    {
+      "id": "it_c1_u2_23",
+      "text": "graduate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 研究生；毕业生；adj. 毕业的；研究生的；vt. 授予…学位；分等级；标上刻度；vi. 毕业；渐变"
+    },
+    {
+      "id": "it_c1_u2_24",
+      "text": "recommend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 推荐，介绍；劝告；使受欢迎；托付；vi. 推荐；建议"
+    },
+    {
+      "id": "it_c1_u2_25",
+      "text": "sign up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 同“sign”"
+    },
+    {
+      "id": "it_c1_u2_26",
+      "text": "sign up for sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "报名参加；学生会报名；注册，选课"
+    },
+    {
+      "id": "it_c1_u2_27",
+      "text": "advanced",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 先进的；高级的；晚期的；年老的；v. 前进；增加；上涨（advance的过去式和过去分词形式）"
+    },
+    {
+      "id": "it_c1_u2_28",
+      "text": "advance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 发展；前进；增长；预付款；adj. 预先的；先行的；vt. 提出；预付；使……前进；将……提前；vi. 前进；进展；上涨"
+    },
+    {
+      "id": "it_c1_u2_29",
+      "text": "literature",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 文学；文献；文艺；著作"
+    },
+    {
+      "id": "it_c1_u2_30",
+      "text": "extra-curricular",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 课外的"
+    },
+    {
+      "id": "it_c1_u2_31",
+      "text": "extra",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 临时演员；号外；额外的事物；上等产品；adj. 额外的，另外收费的；特大的；adv. 特别地，非常；另外"
+    },
+    {
+      "id": "it_c1_u2_32",
+      "text": "obviously",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 明显地；显然地"
+    },
+    {
+      "id": "it_c1_u2_33",
+      "text": "quit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 离开；[计] 退出；vt. 离开；放弃；停止；使…解除；adj. 摆脱了…的；已经了结的；vi. 离开；辞职；停止"
+    },
+    {
+      "id": "it_c1_u2_34",
+      "text": "responsible",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 负责的，可靠的；有责任的"
+    },
+    {
+      "id": "it_c1_u2_35",
+      "text": "responsibility",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 责任，职责；义务"
+    },
+    {
+      "id": "it_c1_u2_36",
+      "text": "be responsible for",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 负责；担负"
+    },
+    {
+      "id": "it_c1_u2_37",
+      "text": "solution",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 解决方案；溶液；溶解；解答"
+    },
+    {
+      "id": "it_c1_u2_38",
+      "text": "schedule",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 时间表；计划表；一览表；vt. 安排，计划；编制目录；将……列入计划表"
+    },
+    {
+      "id": "it_c1_u2_39",
+      "text": "editor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 编者，编辑；社论撰写人；编辑装置"
+    },
+    {
+      "id": "it_c1_u2_40",
+      "text": "plate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 碟；金属板；金属牌；感光底片；vt. 电镀；给…装甲"
+    },
+    {
+      "id": "it_c1_u2_41",
+      "text": "adventure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冒险；冒险精神；投机活动；vt. 冒险；大胆说出；vi. 冒险"
+    },
+    {
+      "id": "it_c1_u2_42",
+      "text": "youth",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 青年；青春；年轻；青少年时期"
+    },
+    {
+      "id": "it_c1_u2_43",
+      "text": "survival",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 幸存，残存；幸存者，残存物"
+    },
+    {
+      "id": "it_c1_u2_44",
+      "text": "expert",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 专家；行家；能手；adj. 熟练的；内行的；老练的；vt. 当专家；在…中当行家"
+    },
+    {
+      "id": "it_c1_u2_45",
+      "text": "behaviour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 行为；习性；运行状况（=behavior）"
+    },
+    {
+      "id": "it_c1_u2_46",
+      "text": "generation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 一代；产生；一代人；生殖"
+    },
+    {
+      "id": "it_c1_u2_47",
+      "text": "attract",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 吸引；引起；vi. 吸引；有吸引力"
+    },
+    {
+      "id": "it_c1_u2_48",
+      "text": "be attracted to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "被……所吸引；被吸引到；对……有吸引力的"
+    },
+    {
+      "id": "it_c1_u2_49",
+      "text": "focus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 焦点；中心；清晰；焦距；vt. 使集中；使聚焦；vi. 集中；聚焦；调节焦距"
+    },
+    {
+      "id": "it_c1_u2_50",
+      "text": "focus on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "致力于; 使聚焦于; 对（某事或做某事）予以注意; 把…作为兴趣中心"
+    },
+    {
+      "id": "it_c1_u2_51",
+      "text": "addicted",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 使…上瘾（addict的过去分词）；adj. 沉溺于某种（尤其是不良的）嗜好的；入了迷的，上了瘾的"
+    },
+    {
+      "id": "it_c1_u2_52",
+      "text": "addict",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 有瘾的人；入迷的人；vt. 使沉溺；使上瘾"
+    },
+    {
+      "id": "it_c1_u2_53",
+      "text": "addicted to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "沉迷于；对……有瘾；醉心于"
+    },
+    {
+      "id": "it_c1_u2_54",
+      "text": "adult",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 成年人；adj. 成年的；成熟的"
+    },
+    {
+      "id": "it_c1_u2_55",
+      "text": "Chicago",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 芝加哥（美国城市名）"
+    },
+    {
+      "id": "it_c1_u2_56",
+      "text": "Seoul",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 汉城，首尔（韩国首都）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

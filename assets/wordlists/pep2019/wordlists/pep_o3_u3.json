@@ -1,0 +1,722 @@
+{
+  "schema": 1,
+  "id": "pep_o3_u3",
+  "name": "人教版选择性必修第三册 · Unit 3",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o3_u3_1",
+      "text": "emission",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （光、热等的）发射，散发；喷射；发行"
+    },
+    {
+      "id": "it_o3_u3_2",
+      "text": "melt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 熔化，溶解；渐混；vt. 使融化；使熔化；使软化；使感动；n. 熔化；熔化物"
+    },
+    {
+      "id": "it_o3_u3_3",
+      "text": "starve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 饿死；挨饿；渴望；vt. 使饿死；使挨饿"
+    },
+    {
+      "id": "it_o3_u3_4",
+      "text": "seal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 密封；印章；海豹；封条；标志；vt. 密封；盖章；vi. 猎海豹"
+    },
+    {
+      "id": "it_o3_u3_5",
+      "text": "ecology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 生态学；社会生态学"
+    },
+    {
+      "id": "it_o3_u3_6",
+      "text": "release",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 释放；发布；让与；vt. 释放；发射；让与；允许发表"
+    },
+    {
+      "id": "it_o3_u3_7",
+      "text": "methane",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [有化] 甲烷；[能源] 沼气"
+    },
+    {
+      "id": "it_o3_u3_8",
+      "text": "carbon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [化学] 碳；碳棒；复写纸；adj. 碳的；碳处理的"
+    },
+    {
+      "id": "it_o3_u3_9",
+      "text": "dioxide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 二氧化物"
+    },
+    {
+      "id": "it_o3_u3_10",
+      "text": "carbon dioxide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 二氧化碳"
+    },
+    {
+      "id": "it_o3_u3_11",
+      "text": "habitable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 可居住的；适于居住的"
+    },
+    {
+      "id": "it_o3_u3_12",
+      "text": "sustain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 维持；支撑，承担；忍受；供养；证实"
+    },
+    {
+      "id": "it_o3_u3_13",
+      "text": "sustainable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 可以忍受的；足可支撑的；养得起的；可持续的"
+    },
+    {
+      "id": "it_o3_u3_14",
+      "text": "fossil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 化石；僵化的事物；顽固不化的人；adj. 化石的；陈腐的，守旧的"
+    },
+    {
+      "id": "it_o3_u3_15",
+      "text": "fuel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 燃料；刺激因素；vt. 供以燃料，加燃料；vi. 得到燃料"
+    },
+    {
+      "id": "it_o3_u3_16",
+      "text": "fossil fuel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 化石燃料（如煤或石油）"
+    },
+    {
+      "id": "it_o3_u3_17",
+      "text": "comprehensive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 综合学校；专业综合测验；adj. 综合的；广泛的；有理解力的"
+    },
+    {
+      "id": "it_o3_u3_18",
+      "text": "worldwide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 全世界的；adv. 在世界各地"
+    },
+    {
+      "id": "it_o3_u3_19",
+      "text": "trend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 趋势，倾向；走向；vt. 使…趋向；vi. 趋向，伸向"
+    },
+    {
+      "id": "it_o3_u3_20",
+      "text": "frequently",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 频繁地，经常地；时常，屡次"
+    },
+    {
+      "id": "it_o3_u3_21",
+      "text": "broadcast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 广播；播音；广播节目；adj. 广播的；vt. 播送，播放；（无线电或电视）广播；播撒（种子）；vi. 广播，播送；播放"
+    },
+    {
+      "id": "it_o3_u3_22",
+      "text": "policy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 政策，方针；保险单"
+    },
+    {
+      "id": "it_o3_u3_23",
+      "text": "footprint",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 足迹；脚印"
+    },
+    {
+      "id": "it_o3_u3_24",
+      "text": "restrict",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 限制；约束；限定"
+    },
+    {
+      "id": "it_o3_u3_25",
+      "text": "restriction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 限制；约束；束缚"
+    },
+    {
+      "id": "it_o3_u3_26",
+      "text": "seize",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 抓住；夺取；理解；逮捕；vi. 抓住；利用；（机器）卡住"
+    },
+    {
+      "id": "it_o3_u3_27",
+      "text": "basin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 水池；流域；盆地；盆"
+    },
+    {
+      "id": "it_o3_u3_28",
+      "text": "penguin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 企鹅；空军地勤人员"
+    },
+    {
+      "id": "it_o3_u3_29",
+      "text": "reform",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 改革，改良；改正；adj. 改革的；改革教会的；vt. 改革，革新；重新组成；vi. 重组；改过"
+    },
+    {
+      "id": "it_o3_u3_30",
+      "text": "undergo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 经历，经受；忍受"
+    },
+    {
+      "id": "it_o3_u3_31",
+      "text": "underwent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 经验；遭遇（undergo的过去式）"
+    },
+    {
+      "id": "it_o3_u3_32",
+      "text": "undergone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 经历（undergo的过去分词）"
+    },
+    {
+      "id": "it_o3_u3_33",
+      "text": "implement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 工具，器具；手段；vt. 实施，执行；实现，使生效"
+    },
+    {
+      "id": "it_o3_u3_34",
+      "text": "harmonious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 和谐的，和睦的；协调的；悦耳的"
+    },
+    {
+      "id": "it_o3_u3_35",
+      "text": "moderate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 稳健的，温和的；适度的，中等的；有节制的；vi. 变缓和，变弱；vt. 节制；减轻"
+    },
+    {
+      "id": "it_o3_u3_36",
+      "text": "submit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 提交；服从；vt. 使服从；主张；呈递"
+    },
+    {
+      "id": "it_o3_u3_37",
+      "text": "annual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 年刊，年鉴；一年生植物；adj. 年度的；每年的"
+    },
+    {
+      "id": "it_o3_u3_38",
+      "text": "tropical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 热带的；热情的；酷热的"
+    },
+    {
+      "id": "it_o3_u3_39",
+      "text": "chaos",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 混沌，混乱"
+    },
+    {
+      "id": "it_o3_u3_40",
+      "text": "on behalf",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "代取件业务；代订；代为"
+    },
+    {
+      "id": "it_o3_u3_41",
+      "text": "on behalf of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 替；为…的利益"
+    },
+    {
+      "id": "it_o3_u3_42",
+      "text": "nuclear",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 原子能的；[细胞] 细胞核的；中心的；原子核的"
+    },
+    {
+      "id": "it_o3_u3_43",
+      "text": "sensitive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 敏感的；感觉的；[仪] 灵敏的；感光的；易受伤害的；易受影响的；n. 敏感的人；有灵异能力的人"
+    },
+    {
+      "id": "it_o3_u3_44",
+      "text": "jungle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 丛林，密林；危险地带；adj. 丛林的；蛮荒的"
+    },
+    {
+      "id": "it_o3_u3_45",
+      "text": "smog",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烟雾"
+    },
+    {
+      "id": "it_o3_u3_46",
+      "text": "originate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 引起；创作；vi. 发源；发生；起航"
+    },
+    {
+      "id": "it_o3_u3_47",
+      "text": "volume",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 量；体积；卷；音量；大量；册；adj. 大量的；vt. 把…收集成卷；vi. 成团卷起"
+    },
+    {
+      "id": "it_o3_u3_48",
+      "text": "garbage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 垃圾；废物"
+    },
+    {
+      "id": "it_o3_u3_49",
+      "text": "enterprise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 企业；事业；进取心；事业心"
+    },
+    {
+      "id": "it_o3_u3_50",
+      "text": "restore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 恢复；还原；vt. 恢复；修复；归还"
+    },
+    {
+      "id": "it_o3_u3_51",
+      "text": "conservation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 保存，保持；保护"
+    },
+    {
+      "id": "it_o3_u3_52",
+      "text": "dozen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 十二个，一打；adj. 一打的"
+    },
+    {
+      "id": "it_o3_u3_53",
+      "text": "dozens of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 许多"
+    },
+    {
+      "id": "it_o3_u3_54",
+      "text": "regulation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 管理；规则；校准；adj. 规定的；平常的"
+    },
+    {
+      "id": "it_o3_u3_55",
+      "text": "disposal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 处理；支配；清理；安排"
+    },
+    {
+      "id": "it_o3_u3_56",
+      "text": "inspection",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 视察，检查"
+    },
+    {
+      "id": "it_o3_u3_57",
+      "text": "fine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罚款；adj. 好的；优良的；细小的，精美的；健康的；晴朗的；vt. 罚款；澄清；adv. 很好地；精巧地"
+    },
+    {
+      "id": "it_o3_u3_58",
+      "text": "campaign",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 运动；活动；战役；vi. 作战；参加竞选；参加活动"
+    },
+    {
+      "id": "it_o3_u3_59",
+      "text": "waterway",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航道；水路；排水沟"
+    },
+    {
+      "id": "it_o3_u3_60",
+      "text": "tolerate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 忍受；默许；宽恕"
+    },
+    {
+      "id": "it_o3_u3_61",
+      "text": "agenda",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 议程；日常工作事项；日程表"
+    },
+    {
+      "id": "it_o3_u3_62",
+      "text": "Norway",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 挪威（北欧国家名）"
+    },
+    {
+      "id": "it_o3_u3_63",
+      "text": "Svalbard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "斯瓦尔巴特群岛[挪威]"
+    },
+    {
+      "id": "it_o3_u3_64",
+      "text": "Hurricane Katrina",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "卡崔娜飓风；卡特里娜飓风；飓风卡特里娜"
+    },
+    {
+      "id": "it_o3_u3_65",
+      "text": "adversity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 逆境；不幸；灾难；灾祸"
+    },
+    {
+      "id": "it_o3_u3_66",
+      "text": "wage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 工资；代价；报偿；vt. 进行；开展；vi. 进行；发动；从事"
+    },
+    {
+      "id": "it_o3_u3_67",
+      "text": "bitter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 苦味；苦啤酒；adj. 苦的；痛苦的；尖刻的；充满仇恨的；vt. 使变苦；adv. 激烈地；严寒刺骨地"
+    },
+    {
+      "id": "it_o3_u3_68",
+      "text": "expedition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 远征；探险队；迅速"
+    },
+    {
+      "id": "it_o3_u3_69",
+      "text": "endurance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 忍耐力；忍耐；持久；耐久"
+    },
+    {
+      "id": "it_o3_u3_70",
+      "text": "vigour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 活力；气势"
+    },
+    {
+      "id": "it_o3_u3_71",
+      "text": "turn sb. down",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 翻下(衣领等)；扭小(灯火等)拒绝考虑；拒绝(某人)"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

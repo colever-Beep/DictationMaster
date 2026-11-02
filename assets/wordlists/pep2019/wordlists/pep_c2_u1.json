@@ -1,0 +1,942 @@
+{
+  "schema": 1,
+  "id": "pep_c2_u1",
+  "name": "人教版必修第二册 · Unit 1 Cultural Heritage",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c2_u1_1",
+      "text": "heritage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 遗产；传统；继承物；继承权"
+    },
+    {
+      "id": "it_c2_u1_2",
+      "text": "creatively",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 创造性地；有创造力地"
+    },
+    {
+      "id": "it_c2_u1_3",
+      "text": "creative",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 创造性的"
+    },
+    {
+      "id": "it_c2_u1_4",
+      "text": "temple",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 庙宇；寺院；神殿；太阳穴"
+    },
+    {
+      "id": "it_c2_u1_5",
+      "text": "relic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 遗迹，遗物；废墟；纪念物"
+    },
+    {
+      "id": "it_c2_u1_6",
+      "text": "mount",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 增加；爬上；使骑上马；安装，架置；镶嵌，嵌入；准备上演；成立（军队等）；vi. 爬；增加；上升；n. 山峰；底座；乘骑用马；攀，登；运载工具；底座；v. 登上；骑上"
+    },
+    {
+      "id": "it_c2_u1_7",
+      "text": "former",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 模型，样板；起形成作用的人；adj. 从前的，前者的；前任的"
+    },
+    {
+      "id": "it_c2_u1_8",
+      "text": "clue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 线索；（故事等的）情节；vt. 为…提供线索；为…提供情况"
+    },
+    {
+      "id": "it_c2_u1_9",
+      "text": "preserve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 保护区；禁猎地；加工成的食品；vt. 保存；保护；维持；腌；禁猎"
+    },
+    {
+      "id": "it_c2_u1_10",
+      "text": "promote",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 成为王后或其他大于卒的子；vt. 促进；提升；推销；发扬"
+    },
+    {
+      "id": "it_c2_u1_11",
+      "text": "cypress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [林] 柏树，柏木属植物（原产北美、欧、亚）；柏树枝（用作哀悼的标志）"
+    },
+    {
+      "id": "it_c2_u1_12",
+      "text": "app",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 应用（Application）；穿甲试验（Armor Piercing Proof）"
+    },
+    {
+      "id": "it_c2_u1_13",
+      "text": "application",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 应用；申请；应用程序；敷用"
+    },
+    {
+      "id": "it_c2_u1_14",
+      "text": "take part in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 参加；贡献"
+    },
+    {
+      "id": "it_c2_u1_15",
+      "text": "give way to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 让步；退却"
+    },
+    {
+      "id": "it_c2_u1_16",
+      "text": "balance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平衡；余额；匀称；vt. 使平衡；结算；使相称；vi. 保持平衡；相称；抵销"
+    },
+    {
+      "id": "it_c2_u1_17",
+      "text": "keep balance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "保持平衡；维持平衡"
+    },
+    {
+      "id": "it_c2_u1_18",
+      "text": "lead to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 通向"
+    },
+    {
+      "id": "it_c2_u1_19",
+      "text": "dam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [水利] 水坝；障碍；v. 控制；筑坝"
+    },
+    {
+      "id": "it_c2_u1_20",
+      "text": "proposal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 提议，建议；求婚"
+    },
+    {
+      "id": "it_c2_u1_21",
+      "text": "make a proposal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 求婚"
+    },
+    {
+      "id": "it_c2_u1_22",
+      "text": "protest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 抗议；adj. 表示抗议的；抗议性的；vt. 抗议；断言；vi. 抗议；断言"
+    },
+    {
+      "id": "it_c2_u1_23",
+      "text": "likely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 很可能的；合适的；有希望的；adv. 很可能；或许"
+    },
+    {
+      "id": "it_c2_u1_24",
+      "text": "turn to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 向(某人)求助；求助于"
+    },
+    {
+      "id": "it_c2_u1_25",
+      "text": "committee",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 委员会"
+    },
+    {
+      "id": "it_c2_u1_26",
+      "text": "establish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 植物定植；vt. 建立；创办；安置"
+    },
+    {
+      "id": "it_c2_u1_27",
+      "text": "limit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 限制；限度；界线；vt. 限制；限定"
+    },
+    {
+      "id": "it_c2_u1_28",
+      "text": "prevent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 预防，防止；阻止；vi. 妨碍，阻止"
+    },
+    {
+      "id": "it_c2_u1_29",
+      "text": "prevent ... from",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "防止；阻止；预防"
+    },
+    {
+      "id": "it_c2_u1_30",
+      "text": "loss",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 减少；亏损；失败；遗失"
+    },
+    {
+      "id": "it_c2_u1_31",
+      "text": "contribution",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 贡献；捐献；投稿"
+    },
+    {
+      "id": "it_c2_u1_32",
+      "text": "contribute",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 贡献，出力；投稿；捐献；vi. 贡献，出力；投稿；捐献；[ 过去式 contributed 过去分词 contributed 现在分词 contributing ]"
+    },
+    {
+      "id": "it_c2_u1_33",
+      "text": "department",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 部；部门；系；科；局"
+    },
+    {
+      "id": "it_c2_u1_34",
+      "text": "fund",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基金；资金；存款；vt. 投资；资助"
+    },
+    {
+      "id": "it_c2_u1_35",
+      "text": "within",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在…之内；n. 里面；adv. 在内部"
+    },
+    {
+      "id": "it_c2_u1_36",
+      "text": "investigate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 调查；研究"
+    },
+    {
+      "id": "it_c2_u1_37",
+      "text": "issue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 问题；流出；期号；发行物；vt. 发行，发布；发给；放出，排出；vi. 发行；流出；造成…结果；传下"
+    },
+    {
+      "id": "it_c2_u1_38",
+      "text": "conduct",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 进行；行为；实施；vi. 导电；带领；vt. 管理；引导；表现"
+    },
+    {
+      "id": "it_c2_u1_39",
+      "text": "document",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 文件，公文；[计] 文档；证件；vt. 用文件证明"
+    },
+    {
+      "id": "it_c2_u1_40",
+      "text": "donate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 捐赠；捐献；vt. 捐赠；捐献；vi. 捐赠；捐献"
+    },
+    {
+      "id": "it_c2_u1_41",
+      "text": "donate ... to ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "捐赠；捐助；赠予"
+    },
+    {
+      "id": "it_c2_u1_42",
+      "text": "disappear",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 消失；失踪；不复存在；vt. 使…不存在；使…消失"
+    },
+    {
+      "id": "it_c2_u1_43",
+      "text": "attempt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 企图，试图；攻击；vt. 企图，试图；尝试"
+    },
+    {
+      "id": "it_c2_u1_44",
+      "text": "make sure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 尽力做到；深信；务必；务请"
+    },
+    {
+      "id": "it_c2_u1_45",
+      "text": "worthwhile",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 值得做的，值得花时间的"
+    },
+    {
+      "id": "it_c2_u1_46",
+      "text": "download",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. [计] 下载"
+    },
+    {
+      "id": "it_c2_u1_47",
+      "text": "republic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 共和国；共和政体"
+    },
+    {
+      "id": "it_c2_u1_48",
+      "text": "professional",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 专业人员；职业运动员；adj. 专业的；职业的；职业性的"
+    },
+    {
+      "id": "it_c2_u1_49",
+      "text": "archaeologist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 考古学家"
+    },
+    {
+      "id": "it_c2_u1_50",
+      "text": "entrance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 入口；进入；vt. 使出神，使入迷"
+    },
+    {
+      "id": "it_c2_u1_51",
+      "text": "pyramid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 金字塔；角锥体；vt. 使…渐增；使…上涨；使…成金字塔状；vi. 渐增；上涨；成金字塔状"
+    },
+    {
+      "id": "it_c2_u1_52",
+      "text": "process",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 过程，进行；方法，步骤；作用；程序；推移；adj. 经过特殊加工（或处理）的；vt. 处理；加工；vi. 列队前进"
+    },
+    {
+      "id": "it_c2_u1_53",
+      "text": "overseas",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 在海外，海外；adj. 海外的，国外的"
+    },
+    {
+      "id": "it_c2_u1_54",
+      "text": "exit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 出口，通道；退场；vi. 退出；离去"
+    },
+    {
+      "id": "it_c2_u1_55",
+      "text": "sheet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 薄片，纸张；薄板；床单；adj. 片状的；vt. 覆盖；盖上被单；使成大片；vi. 成片流动；大片落下"
+    },
+    {
+      "id": "it_c2_u1_56",
+      "text": "parade",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 游行；阅兵；炫耀；行进；阅兵场；vt. 游行；炫耀；列队行进；vi. 游行；炫耀；列队行进"
+    },
+    {
+      "id": "it_c2_u1_57",
+      "text": "mirror",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 镜子；真实的写照；榜样；vt. 反射；反映"
+    },
+    {
+      "id": "it_c2_u1_58",
+      "text": "roof",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 屋顶；最高处，顶部；最高限度；vt. 给…盖屋顶，覆盖"
+    },
+    {
+      "id": "it_c2_u1_59",
+      "text": "chiwen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u1_60",
+      "text": "dragon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 龙；凶暴的人，凶恶的人；严厉而有警觉性的女人"
+    },
+    {
+      "id": "it_c2_u1_61",
+      "text": "forgive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 原谅；免除（债务、义务等）；vi. 表示原谅"
+    },
+    {
+      "id": "it_c2_u1_62",
+      "text": "forgave",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 原谅；饶恕；免除（forgive的过去式）"
+    },
+    {
+      "id": "it_c2_u1_63",
+      "text": "forgiven",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 原谅（forgive的过去分词）"
+    },
+    {
+      "id": "it_c2_u1_64",
+      "text": "digital",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 数字；键；adj. 数字的；手指的"
+    },
+    {
+      "id": "it_c2_u1_65",
+      "text": "image",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 影像；想象；肖像；偶像；vt. 想象；反映；象征；作…的像"
+    },
+    {
+      "id": "it_c2_u1_66",
+      "text": "cave",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洞穴，窑洞；vi. 凹陷，塌落；投降；vt. 使凹陷，使塌落；在…挖洞穴"
+    },
+    {
+      "id": "it_c2_u1_67",
+      "text": "throughout",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 贯穿，遍及；adv. 自始至终，到处；全部"
+    },
+    {
+      "id": "it_c2_u1_68",
+      "text": "quality",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 质量，[统计] 品质；特性；才能；adj. 优质的；高品质的；<英俚>棒极了"
+    },
+    {
+      "id": "it_c2_u1_69",
+      "text": "all over the world",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 遍及全世界"
+    },
+    {
+      "id": "it_c2_u1_70",
+      "text": "tradition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 惯例，传统；传说"
+    },
+    {
+      "id": "it_c2_u1_71",
+      "text": "further",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 更远的；深一层的；vt. 促进，助长；增进；adv. 进一步地；而且；更远地"
+    },
+    {
+      "id": "it_c2_u1_72",
+      "text": "historic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有历史意义的；历史上著名的"
+    },
+    {
+      "id": "it_c2_u1_73",
+      "text": "opinion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 意见；主张"
+    },
+    {
+      "id": "it_c2_u1_74",
+      "text": "quote",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 引用；vi. 报价；引用；引证；vt. 报价；引述；举证"
+    },
+    {
+      "id": "it_c2_u1_75",
+      "text": "paraphrase",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 释义；解释；意译；vt. 释义"
+    },
+    {
+      "id": "it_c2_u1_76",
+      "text": "comparison",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 比较；对照；比喻；比较关系"
+    },
+    {
+      "id": "it_c2_u1_77",
+      "text": "contrast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 对比；差别；对照物；vt. 使对比；使与…对照；vi. 对比；形成对照"
+    },
+    {
+      "id": "it_c2_u1_78",
+      "text": "identify",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致"
+    },
+    {
+      "id": "it_c2_u1_79",
+      "text": "forever",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 永远；不断地；常常"
+    },
+    {
+      "id": "it_c2_u1_80",
+      "text": "Aswan Dam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【地,旅】阿斯旺大坝"
+    },
+    {
+      "id": "it_c2_u1_81",
+      "text": "the Nile",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "尼罗河；畅游尼罗河；扔入尼罗河"
+    },
+    {
+      "id": "it_c2_u1_82",
+      "text": "Egypt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 埃及（非洲国家）"
+    },
+    {
+      "id": "it_c2_u1_83",
+      "text": "Egyptian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 埃及人；古代埃及语；adj. 埃及的；埃及人的"
+    },
+    {
+      "id": "it_c2_u1_84",
+      "text": "UNESCO",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 联合国教科文组织（United Nations Educational，Scientific，and Cultural Organization）"
+    },
+    {
+      "id": "it_c2_u1_85",
+      "text": "United Nations Educational, Scientific and Cultural Organization",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "联合国教育、科学及文化组织(简称联合国教科文组织) [略作 UNESCO]"
+    },
+    {
+      "id": "it_c2_u1_86",
+      "text": "Cairo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 开罗（埃及首都）"
+    },
+    {
+      "id": "it_c2_u1_87",
+      "text": "Tanzania",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 坦桑尼亚（东非国家）"
+    },
+    {
+      "id": "it_c2_u1_88",
+      "text": "the Kremlin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "克里姆林宫；会像克里姆林宫；克林姆林宫"
+    },
+    {
+      "id": "it_c2_u1_89",
+      "text": "Moscow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 莫斯科（俄罗斯首都）"
+    },
+    {
+      "id": "it_c2_u1_90",
+      "text": "Saint Basil's Cathedral",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u1_91",
+      "text": "the Forbidden City",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "紫禁城；故宫；北京故宫"
+    },
+    {
+      "id": "it_c2_u1_92",
+      "text": "Los Angeles",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 洛杉矶"
+    },
+    {
+      "id": "it_c2_u1_93",
+      "text": "poster",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海报，广告；招贴"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

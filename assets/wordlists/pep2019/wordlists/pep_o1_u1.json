@@ -1,0 +1,1402 @@
+{
+  "schema": 1,
+  "id": "pep_o1_u1",
+  "name": "人教版选择性必修第一册 · Unit 1 People of Achievement",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o1_u1_1",
+      "text": "physiology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 生理学；生理机能"
+    },
+    {
+      "id": "it_o1_u1_2",
+      "text": "artemisinin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "[医]Arteannuin"
+    },
+    {
+      "id": "it_o1_u1_3",
+      "text": "crucial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 重要的；决定性的；定局的；决断的"
+    },
+    {
+      "id": "it_o1_u1_4",
+      "text": "malaria",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [内科] 疟疾；瘴气"
+    },
+    {
+      "id": "it_o1_u1_5",
+      "text": "vital",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 至关重要的；生死攸关的；有活力的"
+    },
+    {
+      "id": "it_o1_u1_6",
+      "text": "committed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 承诺；委托；干坏事；付诸（commit的过去分词）；adj. 坚定的；效忠的；承担义务的"
+    },
+    {
+      "id": "it_o1_u1_7",
+      "text": "commit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务"
+    },
+    {
+      "id": "it_o1_u1_8",
+      "text": "academy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 学院；研究院；学会；专科院校"
+    },
+    {
+      "id": "it_o1_u1_9",
+      "text": "academic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大学生，大学教师；学者；adj. 学术的；理论的；学院的"
+    },
+    {
+      "id": "it_o1_u1_10",
+      "text": "objective",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 客观的；目标的；宾格的；n. 目的；目标；[光] 物镜；宾格"
+    },
+    {
+      "id": "it_o1_u1_11",
+      "text": "botanical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 植物性药材；adj. 植物学的"
+    },
+    {
+      "id": "it_o1_u1_12",
+      "text": "evaluate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 评价；估价；求…的值；vi. 评价；估价"
+    },
+    {
+      "id": "it_o1_u1_13",
+      "text": "property",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 性质，性能；财产；所有权"
+    },
+    {
+      "id": "it_o1_u1_14",
+      "text": "distinct",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 明显的；独特的；清楚的；有区别的"
+    },
+    {
+      "id": "it_o1_u1_15",
+      "text": "extract",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 汁；摘录；榨出物；选粹；vt. 提取；取出；摘录；榨取"
+    },
+    {
+      "id": "it_o1_u1_16",
+      "text": "wormwood",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [植] 苦艾；苦恼，苦恼的原因"
+    },
+    {
+      "id": "it_o1_u1_17",
+      "text": "boil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 沸腾，煮沸；疖子；vt. 煮沸，烧开；使…激动；使…蒸发；vi. 煮沸，沸腾；激动，激昂"
+    },
+    {
+      "id": "it_o1_u1_18",
+      "text": "liquid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 液体的；清澈的；明亮的；易变的；n. 液体，流体；流音"
+    },
+    {
+      "id": "it_o1_u1_19",
+      "text": "obtain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 获得；流行；vt. 获得"
+    },
+    {
+      "id": "it_o1_u1_20",
+      "text": "acknowledge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 承认；答谢；报偿；告知已收到"
+    },
+    {
+      "id": "it_o1_u1_21",
+      "text": "defeat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 失败的事实；击败的行为；vt. 击败，战胜；挫败；使…失败"
+    },
+    {
+      "id": "it_o1_u1_22",
+      "text": "analyse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 分析；分解；细察"
+    },
+    {
+      "id": "it_o1_u1_23",
+      "text": "analyze",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 对…进行分析，分解（等于analyse）"
+    },
+    {
+      "id": "it_o1_u1_24",
+      "text": "apparently",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 显然地；似乎，表面上"
+    },
+    {
+      "id": "it_o1_u1_25",
+      "text": "substance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 物质；实质；资产；主旨"
+    },
+    {
+      "id": "it_o1_u1_26",
+      "text": "insist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 坚持，强调；vt. 坚持，强调"
+    },
+    {
+      "id": "it_o1_u1_27",
+      "text": "insist on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 坚持；强调"
+    },
+    {
+      "id": "it_o1_u1_28",
+      "text": "scientific",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 科学的，系统的"
+    },
+    {
+      "id": "it_o1_u1_29",
+      "text": "mostly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 主要地；通常；多半地"
+    },
+    {
+      "id": "it_o1_u1_30",
+      "text": "wear and tear",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 磨损；衰竭；伐采"
+    },
+    {
+      "id": "it_o1_u1_31",
+      "text": "conclusion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 结论；结局；推论"
+    },
+    {
+      "id": "it_o1_u1_32",
+      "text": "penicillin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 盘尼西林（青霉素）"
+    },
+    {
+      "id": "it_o1_u1_33",
+      "text": "flee",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 逃跑，逃走；逃避；vi. 逃走；消失，消散"
+    },
+    {
+      "id": "it_o1_u1_34",
+      "text": "circumstance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 环境，情况；事件；境遇"
+    },
+    {
+      "id": "it_o1_u1_35",
+      "text": "novelist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小说家"
+    },
+    {
+      "id": "it_o1_u1_36",
+      "text": "novel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 新奇的；异常的；n. 小说"
+    },
+    {
+      "id": "it_o1_u1_37",
+      "text": "flow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 流动；流量；涨潮，泛滥；vt. 淹没，溢过；vi. 流动，涌流；川流不息；飘扬"
+    },
+    {
+      "id": "it_o1_u1_38",
+      "text": "chart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 图表；海图；图纸；排行榜；vt. 绘制…的图表；在海图上标出；详细计划；记录；记述；跟踪（进展或发展"
+    },
+    {
+      "id": "it_o1_u1_39",
+      "text": "flow chart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 流程图"
+    },
+    {
+      "id": "it_o1_u1_40",
+      "text": "found",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 找到（find的过去分词）；vt. 创立，建立；创办"
+    },
+    {
+      "id": "it_o1_u1_41",
+      "text": "infer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 推断；作出推论；vt. 推断；推论"
+    },
+    {
+      "id": "it_o1_u1_42",
+      "text": "politician",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 政治家，政客"
+    },
+    {
+      "id": "it_o1_u1_43",
+      "text": "numerous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 许多的，很多的"
+    },
+    {
+      "id": "it_o1_u1_44",
+      "text": "theory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 理论；原理；学说；推测"
+    },
+    {
+      "id": "it_o1_u1_45",
+      "text": "relativity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 相对论；相关性；相对性"
+    },
+    {
+      "id": "it_o1_u1_46",
+      "text": "formula",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [数] 公式，准则；配方；婴儿食品"
+    },
+    {
+      "id": "it_o1_u1_47",
+      "text": "genius",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 天才，天赋；精神"
+    },
+    {
+      "id": "it_o1_u1_48",
+      "text": "gentle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蛆，饵；adj. 温和的；文雅的；vt. 使温和，使驯服"
+    },
+    {
+      "id": "it_o1_u1_49",
+      "text": "patent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 专利权；执照；专利品；adj. 专利的；新奇的；显然的；vt. 授予专利；取得…的专利权"
+    },
+    {
+      "id": "it_o1_u1_50",
+      "text": "passion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 激情；热情；酷爱；盛怒"
+    },
+    {
+      "id": "it_o1_u1_51",
+      "text": "doctorate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 博士学位；博士头衔"
+    },
+    {
+      "id": "it_o1_u1_52",
+      "text": "extraordinary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 非凡的；特别的；离奇的；临时的；特派的"
+    },
+    {
+      "id": "it_o1_u1_53",
+      "text": "gradually",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 逐步地；渐渐地"
+    },
+    {
+      "id": "it_o1_u1_54",
+      "text": "photoelectric",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. [电子] 光电的"
+    },
+    {
+      "id": "it_o1_u1_55",
+      "text": "come to power",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "上台；掌权；执政"
+    },
+    {
+      "id": "it_o1_u1_56",
+      "text": "institution",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 制度；建立；（社会或宗教等）公共机构；习俗"
+    },
+    {
+      "id": "it_o1_u1_57",
+      "text": "institute",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 学会，协会；学院；vt. 开始（调查）；制定；创立；提起（诉讼）"
+    },
+    {
+      "id": "it_o1_u1_58",
+      "text": "consequence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 结果；重要性；推论"
+    },
+    {
+      "id": "it_o1_u1_59",
+      "text": "moustache",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小胡子；髭；触须"
+    },
+    {
+      "id": "it_o1_u1_60",
+      "text": "mustache",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 胡子，髭"
+    },
+    {
+      "id": "it_o1_u1_61",
+      "text": "peculiarity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 特性；特质；怪癖；奇特"
+    },
+    {
+      "id": "it_o1_u1_62",
+      "text": "encounter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 遭遇，偶然碰见；vi. 遭遇；偶然相遇；vt. 遭遇，邂逅；遇到"
+    },
+    {
+      "id": "it_o1_u1_63",
+      "text": "professor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 教授；教师；公开表示信仰的人"
+    },
+    {
+      "id": "it_o1_u1_64",
+      "text": "mourn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 哀悼；忧伤；服丧"
+    },
+    {
+      "id": "it_o1_u1_65",
+      "text": "remarkable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 卓越的；非凡的；值得注意的"
+    },
+    {
+      "id": "it_o1_u1_66",
+      "text": "device",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 装置；策略；图案"
+    },
+    {
+      "id": "it_o1_u1_67",
+      "text": "sum",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 金额；总数；vt. 总结；合计；vi. 概括"
+    },
+    {
+      "id": "it_o1_u1_68",
+      "text": "sum up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 〈口〉概括；总结"
+    },
+    {
+      "id": "it_o1_u1_69",
+      "text": "draft",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流；vt. 起草；制定；征募；vi. 拟稿；绘样；作草图；adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的"
+    },
+    {
+      "id": "it_o1_u1_70",
+      "text": "Nobel Prize",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 诺贝尔奖"
+    },
+    {
+      "id": "it_o1_u1_71",
+      "text": "Albert Einstein",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "爱因斯坦；阿尔伯特·爱因斯坦；美国科学家爱因斯坦"
+    },
+    {
+      "id": "it_o1_u1_72",
+      "text": "Hitler",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 希特勒（纳粹德国元首）"
+    },
+    {
+      "id": "it_o1_u1_73",
+      "text": "Florence Nightingale",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "南丁格尔；弗洛伦斯·南丁格尔；弗罗伦斯·南丁格尔"
+    },
+    {
+      "id": "it_o1_u1_74",
+      "text": "SARS",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "非典型肺炎（Severe Acute Respiratory Syndromes）"
+    },
+    {
+      "id": "it_o1_u1_75",
+      "text": "Switzerland",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 瑞士（欧洲国家）"
+    },
+    {
+      "id": "it_o1_u1_76",
+      "text": "Swiss",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 瑞士人；瑞士腔调；adj. 瑞士的；瑞士人的；瑞士风格的"
+    },
+    {
+      "id": "it_o1_u1_77",
+      "text": "Isaac Newton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "艾萨克·牛顿（英国物理学家和数学家以及天文学家）"
+    },
+    {
+      "id": "it_o1_u1_78",
+      "text": "Jewish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 犹太人的；犹太族的"
+    },
+    {
+      "id": "it_o1_u1_79",
+      "text": "Princeton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 普林斯顿（美国新泽西州中部的自治市镇）"
+    },
+    {
+      "id": "it_o1_u1_80",
+      "text": "phrase",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 短语, 习语, 措辞, 乐句；vt. 措词, 将(乐曲)分成乐句"
+    },
+    {
+      "id": "it_o1_u1_81",
+      "text": "persuade",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 说服，劝说；使某人相信；劝某人做（不做）某事；adj. 空闲的，有闲的；vi. 说服；被说服"
+    },
+    {
+      "id": "it_o1_u1_82",
+      "text": "switch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 开关；转换；鞭子；vi. 转换；抽打；换防；vt. 转换；用鞭子等抽打"
+    },
+    {
+      "id": "it_o1_u1_83",
+      "text": "switch off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 不收听(某一广播)"
+    },
+    {
+      "id": "it_o1_u1_84",
+      "text": "switch on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 打开；接通；参见"
+    },
+    {
+      "id": "it_o1_u1_85",
+      "text": "distant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 遥远的；冷漠的；远隔的；不友好的，冷淡的"
+    },
+    {
+      "id": "it_o1_u1_86",
+      "text": "secure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 保护；弄到；招致；缚住；adj. 安全的；无虑的；有把握的；稳当的；vi. 获得安全；船抛锚；停止工作"
+    },
+    {
+      "id": "it_o1_u1_87",
+      "text": "knob",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 把手；瘤；球形突出物；vi. 鼓起；vt. 使有球形突出物"
+    },
+    {
+      "id": "it_o1_u1_88",
+      "text": "appliance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 器具；器械；装置"
+    },
+    {
+      "id": "it_o1_u1_89",
+      "text": "remote",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 远程；adj. 遥远的；偏僻的；疏远的"
+    },
+    {
+      "id": "it_o1_u1_90",
+      "text": "remote control",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 遥控；遥控器"
+    },
+    {
+      "id": "it_o1_u1_91",
+      "text": "air conditioner",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 空调"
+    },
+    {
+      "id": "it_o1_u1_92",
+      "text": "automatic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 自动机械；自动手枪；adj. 自动的；无意识的；必然的"
+    },
+    {
+      "id": "it_o1_u1_93",
+      "text": "integrated",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 综合的；完整的；互相协调的；v. 整合；使…成整体（integrate的过去分词）"
+    },
+    {
+      "id": "it_o1_u1_94",
+      "text": "integrate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 一体化；集成体；adj. 整合的；完全的；vi. 求积分；取消隔离；成为一体；vt. 使…完整；使…成整体；求…的积分；表示…的总和"
+    },
+    {
+      "id": "it_o1_u1_95",
+      "text": "sensor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 传感器"
+    },
+    {
+      "id": "it_o1_u1_96",
+      "text": "efficient",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有效率的；有能力的；生效的"
+    },
+    {
+      "id": "it_o1_u1_97",
+      "text": "mode",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 模式；方式；风格；时尚"
+    },
+    {
+      "id": "it_o1_u1_98",
+      "text": "routine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计] 程序；日常工作；例行公事；adj. 日常的；例行的"
+    },
+    {
+      "id": "it_o1_u1_99",
+      "text": "daily routine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 日常工作"
+    },
+    {
+      "id": "it_o1_u1_100",
+      "text": "preference",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 偏爱，倾向；优先权"
+    },
+    {
+      "id": "it_o1_u1_101",
+      "text": "instant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 瞬间；立即；片刻；adj. 立即的；紧急的；紧迫的"
+    },
+    {
+      "id": "it_o1_u1_102",
+      "text": "command",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 指挥，控制；命令；司令部；vt. 命令，指挥；控制；远望；vi. 命令，指挥；控制"
+    },
+    {
+      "id": "it_o1_u1_103",
+      "text": "obey",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 服从，听从；按照……行动；vi. 服从，顺从；听话"
+    },
+    {
+      "id": "it_o1_u1_104",
+      "text": "warning",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 警告；预兆；预告；v. 警告（warn的ing形式）；adj. 警告的；引以为戒的"
+    },
+    {
+      "id": "it_o1_u1_105",
+      "text": "constant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [数] 常数；恒量；adj. 不变的；恒定的；经常的"
+    },
+    {
+      "id": "it_o1_u1_106",
+      "text": "early on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不久之前"
+    },
+    {
+      "id": "it_o1_u1_107",
+      "text": "abnormal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 反常的，不规则的；变态的"
+    },
+    {
+      "id": "it_o1_u1_108",
+      "text": "critical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 鉴定的；[核] 临界的；批评的，爱挑剔的；危险的；决定性的；评论的"
+    },
+    {
+      "id": "it_o1_u1_109",
+      "text": "cancer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "[天] 巨蟹座"
+    },
+    {
+      "id": "it_o1_u1_110",
+      "text": "potentially",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 可能地，潜在地"
+    },
+    {
+      "id": "it_o1_u1_111",
+      "text": "potential",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 潜能；可能性；[电] 电势；adj. 潜在的；可能的；势的"
+    },
+    {
+      "id": "it_o1_u1_112",
+      "text": "leak",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 泄漏；漏洞，裂缝；vt. 使渗漏，泄露；vi. 漏，渗；泄漏出去"
+    },
+    {
+      "id": "it_o1_u1_113",
+      "text": "electrical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有关电的；电气科学的"
+    },
+    {
+      "id": "it_o1_u1_114",
+      "text": "wiring",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [电] 接线，架线；线路；金属线缝术；v. 装电线（wire的现在分词）"
+    },
+    {
+      "id": "it_o1_u1_115",
+      "text": "wire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 电线；金属丝；电报；vt. 拍电报；给…装电线；vi. 打电报"
+    },
+    {
+      "id": "it_o1_u1_116",
+      "text": "detect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 察觉；发现；探测"
+    },
+    {
+      "id": "it_o1_u1_117",
+      "text": "relevant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 相关的；切题的；中肯的；有重大关系的；有意义的，目的明确的"
+    },
+    {
+      "id": "it_o1_u1_118",
+      "text": "catch fire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 着火"
+    },
+    {
+      "id": "it_o1_u1_119",
+      "text": "fantasy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 幻想；白日梦；幻觉；adj. 虚幻的；vt. 空想；想像；vi. 耽于幻想；奏幻想曲（等于phantasy）"
+    },
+    {
+      "id": "it_o1_u1_120",
+      "text": "innovation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 创新，革新；新方法"
+    },
+    {
+      "id": "it_o1_u1_121",
+      "text": "available",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 可获得的；可购得的；可找到的；有空的"
+    },
+    {
+      "id": "it_o1_u1_122",
+      "text": "in this sense",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o1_u1_123",
+      "text": "nevertheless",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 然而，不过；虽然如此；conj. 然而，不过"
+    },
+    {
+      "id": "it_o1_u1_124",
+      "text": "structure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 结构；构造；建筑物；vt. 组织；构成；建造"
+    },
+    {
+      "id": "it_o1_u1_125",
+      "text": "security",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 安全；保证；证券；抵押品；adj. 安全的；保安的；保密的"
+    },
+    {
+      "id": "it_o1_u1_126",
+      "text": "crime",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罪行，犯罪；罪恶；犯罪活动；vt. 控告……违反纪律"
+    },
+    {
+      "id": "it_o1_u1_127",
+      "text": "combine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 联合收割机；联合企业；vt. 使化合；使联合，使结合；vi. 联合，结合；化合"
+    },
+    {
+      "id": "it_o1_u1_128",
+      "text": "artificial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 人造的；仿造的；虚伪的；非原产地的；武断的"
+    },
+    {
+      "id": "it_o1_u1_129",
+      "text": "artificial intelligence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 人工智能"
+    },
+    {
+      "id": "it_o1_u1_130",
+      "text": "AI",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 人工智能（artificial intelligence）"
+    },
+    {
+      "id": "it_o1_u1_131",
+      "text": "clone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 克隆；无性系；无性繁殖；靠营养生殖而由母体分离繁殖的植物；vt. 无性繁殖，复制"
+    },
+    {
+      "id": "it_o1_u1_132",
+      "text": "predict",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 作出预言；作预料，作预报；vt. 预报，预言；预知"
+    },
+    {
+      "id": "it_o1_u1_133",
+      "text": "prediction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 预报；预言"
+    },
+    {
+      "id": "it_o1_u1_134",
+      "text": "forecast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 预测，预报；预想；vt. 预报，预测；预示；vi. 进行预报，作预测"
+    },
+    {
+      "id": "it_o1_u1_135",
+      "text": "occupation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 职业；占有；消遣；占有期"
+    },
+    {
+      "id": "it_o1_u1_136",
+      "text": "oppose",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 反对；对抗，抗争；vi. 反对"
+    },
+    {
+      "id": "it_o1_u1_137",
+      "text": "hence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 因此；今后"
+    },
+    {
+      "id": "it_o1_u1_138",
+      "text": "cease",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 停止；vi. 停止；终了；vt. 停止；结束"
+    },
+    {
+      "id": "it_o1_u1_139",
+      "text": "deceased",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 死者；[法] 被继承人；adj. 已故的；vi. 死亡（decease的过去式）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

@@ -1,0 +1,1072 @@
+{
+  "schema": 1,
+  "id": "pep_c3_u1",
+  "name": "人教版必修第三册 · Unit 1 Festivals and Celebrations",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c3_u1_1",
+      "text": "lantern",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灯笼；提灯；灯笼式天窗"
+    },
+    {
+      "id": "it_c3_u1_2",
+      "text": "carnival",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 狂欢节，嘉年华会；饮宴狂欢"
+    },
+    {
+      "id": "it_c3_u1_3",
+      "text": "costume",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 服装，装束；戏装，剧装；vt. 给…穿上服装"
+    },
+    {
+      "id": "it_c3_u1_4",
+      "text": "dress up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 乔装；装扮；为…打扮；盛装打扮"
+    },
+    {
+      "id": "it_c3_u1_5",
+      "text": "dress sb. up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 乔装；装扮；为…打扮；盛装打扮"
+    },
+    {
+      "id": "it_c3_u1_6",
+      "text": "march",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 三月"
+    },
+    {
+      "id": "it_c3_u1_7",
+      "text": "congratulation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 祝贺；贺辞"
+    },
+    {
+      "id": "it_c3_u1_8",
+      "text": "congratulate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 祝贺；恭喜；庆贺"
+    },
+    {
+      "id": "it_c3_u1_9",
+      "text": "riddle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 谜语；粗筛；谜一般的人、东西、事情等；vt. 解谜；给...出谜；充满于；vi. 出谜"
+    },
+    {
+      "id": "it_c3_u1_10",
+      "text": "ceremony",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 典礼，仪式；礼节，礼仪；客套，虚礼"
+    },
+    {
+      "id": "it_c3_u1_11",
+      "text": "samba",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 桑巴舞（巴西交谊舞）；vi. 跳桑巴舞"
+    },
+    {
+      "id": "it_c3_u1_12",
+      "text": "make-up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 化妆品；（美）补考；性格；构造；排版"
+    },
+    {
+      "id": "it_c3_u1_13",
+      "text": "after all",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 毕竟；终究；最后"
+    },
+    {
+      "id": "it_c3_u1_14",
+      "text": "range",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 范围；幅度；排；山脉；vt. 漫游；放牧；使并列；归类于；来回走动；vi. （在...内）变动；平行，列为一行；延伸；漫游；射程达到"
+    },
+    {
+      "id": "it_c3_u1_15",
+      "text": "range from ... to ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "范围从到；从……到……的范围；在……中变化"
+    },
+    {
+      "id": "it_c3_u1_16",
+      "text": "origin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 起源；原点；出身；开端"
+    },
+    {
+      "id": "it_c3_u1_17",
+      "text": "religion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 宗教；宗教信仰"
+    },
+    {
+      "id": "it_c3_u1_18",
+      "text": "religious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 修道士；尼姑；adj. 宗教的；虔诚的；严谨的；修道的"
+    },
+    {
+      "id": "it_c3_u1_19",
+      "text": "figure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 数字；人物；图形；价格；（人的）体形；画像；vt. 计算；认为；描绘；象征；vi. 计算；出现；扮演角色"
+    },
+    {
+      "id": "it_c3_u1_20",
+      "text": "charm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 魅力，吸引力；魔力；vt. 使陶醉；行魔法；vi. 有魔力；用符咒"
+    },
+    {
+      "id": "it_c3_u1_21",
+      "text": "joy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 欢乐，快乐；乐趣；高兴；vi. 欣喜，欢喜；vt. 高兴，使快乐"
+    },
+    {
+      "id": "it_c3_u1_22",
+      "text": "joyful",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 欢喜的；令人高兴的"
+    },
+    {
+      "id": "it_c3_u1_23",
+      "text": "gratitude",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 感谢（的心情）；感激"
+    },
+    {
+      "id": "it_c3_u1_24",
+      "text": "harvest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 收获；产量；结果；vt. 收割；得到；vi. 收割庄稼"
+    },
+    {
+      "id": "it_c3_u1_25",
+      "text": "agricultural",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 农业的；农艺的"
+    },
+    {
+      "id": "it_c3_u1_26",
+      "text": "agriculture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 农业；农耕；农业生产；农艺，农学"
+    },
+    {
+      "id": "it_c3_u1_27",
+      "text": "crop",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 产量；农作物；庄稼；平头；vt. 种植；收割；修剪；剪短；vi. 收获"
+    },
+    {
+      "id": "it_c3_u1_28",
+      "text": "gather",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 聚集；衣褶；收获量；vt. 收集；收割；使…聚集；使…皱起；vi. 聚集；化脓；皱起"
+    },
+    {
+      "id": "it_c3_u1_29",
+      "text": "grateful",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 感谢的；令人愉快的，宜人的"
+    },
+    {
+      "id": "it_c3_u1_30",
+      "text": "feature",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 特色，特征；容貌；特写或专题节目；vt. 特写；以…为特色；由…主演；vi. 起重要作用"
+    },
+    {
+      "id": "it_c3_u1_31",
+      "text": "decorate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 装饰；布置；授勋给；vi. 装饰；布置"
+    },
+    {
+      "id": "it_c3_u1_32",
+      "text": "church",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 教堂；礼拜；教派；adj. 教会的；礼拜的；vt. 领…到教堂接受宗教仪式"
+    },
+    {
+      "id": "it_c3_u1_33",
+      "text": "significant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 象征；有意义的事物；adj. 重大的；有效的；有意义的；值得注意的；意味深长的"
+    },
+    {
+      "id": "it_c3_u1_34",
+      "text": "fade",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [电影][电视] 淡出；[电影][电视] 淡入；adj. 平淡的；乏味的；vi. 褪色；凋谢；逐渐消失；vt. 使褪色"
+    },
+    {
+      "id": "it_c3_u1_35",
+      "text": "fade away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 逐渐消失"
+    },
+    {
+      "id": "it_c3_u1_36",
+      "text": "typical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 典型的；特有的；象征性的"
+    },
+    {
+      "id": "it_c3_u1_37",
+      "text": "firecracker",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鞭炮，爆竹"
+    },
+    {
+      "id": "it_c3_u1_38",
+      "text": "evil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罪恶，邪恶；不幸；adj. 邪恶的；不幸的；有害的；讨厌的"
+    },
+    {
+      "id": "it_c3_u1_39",
+      "text": "in spite of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. spite of 不管；〔古语〕无视"
+    },
+    {
+      "id": "it_c3_u1_40",
+      "text": "commercial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 商业广告；adj. 商业的；营利的；靠广告收入的"
+    },
+    {
+      "id": "it_c3_u1_41",
+      "text": "commercialise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使商业化，使经营化，使成为营利手段"
+    },
+    {
+      "id": "it_c3_u1_42",
+      "text": "commercialisation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 商业化"
+    },
+    {
+      "id": "it_c3_u1_43",
+      "text": "commercialization",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 商品化，商业化"
+    },
+    {
+      "id": "it_c3_u1_44",
+      "text": "take advantage of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 乘；利用；欺骗；引诱(女人)"
+    },
+    {
+      "id": "it_c3_u1_45",
+      "text": "medium",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 中间的，中等的；半生熟的；n. 方法；媒体；媒介；中间物"
+    },
+    {
+      "id": "it_c3_u1_46",
+      "text": "media",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 媒体；媒质（medium的复数）；血管中层；浊塞音；中脉"
+    },
+    {
+      "id": "it_c3_u1_47",
+      "text": "the media",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "媒体；传媒；大众传播媒体"
+    },
+    {
+      "id": "it_c3_u1_48",
+      "text": "reflect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 反映；反射，照出；表达；显示;反省；vi. 反射，映现；深思"
+    },
+    {
+      "id": "it_c3_u1_49",
+      "text": "belief",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 相信，信赖；信仰；教义"
+    },
+    {
+      "id": "it_c3_u1_50",
+      "text": "faith",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 信仰；信念；信任；忠实"
+    },
+    {
+      "id": "it_c3_u1_51",
+      "text": "occasion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 时机，机会；场合；理由；vt. 引起，惹起"
+    },
+    {
+      "id": "it_c3_u1_52",
+      "text": "have sth. in common",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 没有共同之处；有某些共同之处"
+    },
+    {
+      "id": "it_c3_u1_53",
+      "text": "atmosphere",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 气氛；大气；空气"
+    },
+    {
+      "id": "it_c3_u1_54",
+      "text": "lunar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 月亮的，月球的；阴历的；银的；微亮的"
+    },
+    {
+      "id": "it_c3_u1_55",
+      "text": "eve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 前夕；傍晚；重大事件关头"
+    },
+    {
+      "id": "it_c3_u1_56",
+      "text": "envelope",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 信封，封皮；包膜；[天] 包层；包迹"
+    },
+    {
+      "id": "it_c3_u1_57",
+      "text": "Christmas carol",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 圣诞颂歌"
+    },
+    {
+      "id": "it_c3_u1_58",
+      "text": "merry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 愉快的；微醉的；嬉戏作乐的；n. 甜樱桃"
+    },
+    {
+      "id": "it_c3_u1_59",
+      "text": "Merry Christmas!",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 圣诞快乐"
+    },
+    {
+      "id": "it_c3_u1_60",
+      "text": "pumpkin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 南瓜"
+    },
+    {
+      "id": "it_c3_u1_61",
+      "text": "pudding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 布丁"
+    },
+    {
+      "id": "it_c3_u1_62",
+      "text": "mashed potatoes",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【食】土豆泥"
+    },
+    {
+      "id": "it_c3_u1_63",
+      "text": "roast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烤肉；烘烤；adj. 烘烤的；烤过的；vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖；vi. 烤；烘"
+    },
+    {
+      "id": "it_c3_u1_64",
+      "text": "turkey",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 土耳其（横跨欧亚两洲的国家）"
+    },
+    {
+      "id": "it_c3_u1_65",
+      "text": "roast turkey",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【食】烤火鸡"
+    },
+    {
+      "id": "it_c3_u1_66",
+      "text": "pleased",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 高兴的；喜欢的；乐意做某事；v. 满意；愿意（please的过去分词形式）"
+    },
+    {
+      "id": "it_c3_u1_67",
+      "text": "firework",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烟火；激烈情绪"
+    },
+    {
+      "id": "it_c3_u1_68",
+      "text": "frank",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 免费邮寄特权；adj. 坦白的，直率的；老实的；vt. 免费邮寄"
+    },
+    {
+      "id": "it_c3_u1_69",
+      "text": "to be frank",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. “to be honest/frank/serious”的变体"
+    },
+    {
+      "id": "it_c3_u1_70",
+      "text": "go off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 进行得 (well； badly)；(话等)冒出"
+    },
+    {
+      "id": "it_c3_u1_71",
+      "text": "except for",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 只有"
+    },
+    {
+      "id": "it_c3_u1_72",
+      "text": "inner",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 内部；adj. 内部的；内心的；精神的"
+    },
+    {
+      "id": "it_c3_u1_73",
+      "text": "autonomous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 自治的；自主的；自发的"
+    },
+    {
+      "id": "it_c3_u1_74",
+      "text": "region",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地区；范围；部位"
+    },
+    {
+      "id": "it_c3_u1_75",
+      "text": "represent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 代表；表现；描绘；回忆；再赠送；vi. 代表；提出异议"
+    },
+    {
+      "id": "it_c3_u1_76",
+      "text": "wrestling",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摔跤；扭斗；v. 摔跤；格斗（wrestle的ing形式）；与…摔跤；使劲移动"
+    },
+    {
+      "id": "it_c3_u1_77",
+      "text": "wrestle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摔跤；搏斗；斗争；vi. 摔跤；斗争；斟酌；vt. 与摔跤；与…搏斗；使劲搬动"
+    },
+    {
+      "id": "it_c3_u1_78",
+      "text": "wrestler",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摔跤选手，搏斗者"
+    },
+    {
+      "id": "it_c3_u1_79",
+      "text": "archery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 箭术"
+    },
+    {
+      "id": "it_c3_u1_80",
+      "text": "set off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 分；分割；划开；区划"
+    },
+    {
+      "id": "it_c3_u1_81",
+      "text": "fancy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 幻想；想象力；爱好；adj. 想象的；奇特的；昂贵的；精选的；vt. 想象；喜爱；设想；自负；vi. 幻想；想象"
+    },
+    {
+      "id": "it_c3_u1_82",
+      "text": "robe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 长袍，礼服；制服；vi. 穿长袍；vt. 使穿长袍"
+    },
+    {
+      "id": "it_c3_u1_83",
+      "text": "eagle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鹰；鹰状标饰"
+    },
+    {
+      "id": "it_c3_u1_84",
+      "text": "grace",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 优雅；恩惠；魅力；慈悲；vt. 使优美"
+    },
+    {
+      "id": "it_c3_u1_85",
+      "text": "absolutely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 绝对地；完全地"
+    },
+    {
+      "id": "it_c3_u1_86",
+      "text": "moment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 片刻，瞬间，时刻；重要，契机"
+    },
+    {
+      "id": "it_c3_u1_87",
+      "text": "tent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 帐篷；住处；帷幕；vt. 用帐篷遮盖；使在帐篷里住宿；vi. 住帐蓬；暂时居住"
+    },
+    {
+      "id": "it_c3_u1_88",
+      "text": "pot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 壶；盆；罐；vt. 把…装罐；射击；节略；vi. 随手射击"
+    },
+    {
+      "id": "it_c3_u1_89",
+      "text": "brief",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摘要，简报；概要，诉书；adj. 简短的，简洁的；短暂的，草率的；vt. 简报，摘要；作…的提要"
+    },
+    {
+      "id": "it_c3_u1_90",
+      "text": "branch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 树枝，分枝；分部；支流；vt. 分支；出现分歧；vi. 分支；出现分歧"
+    },
+    {
+      "id": "it_c3_u1_91",
+      "text": "wedding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 婚礼，婚宴；结婚；结合；v. 与…结婚（wed的ing形式）"
+    },
+    {
+      "id": "it_c3_u1_92",
+      "text": "clap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鼓掌；拍手声；vt. 拍手，鼓掌；轻轻拍打某人；vi. 鼓掌，拍手；啪地关上"
+    },
+    {
+      "id": "it_c3_u1_93",
+      "text": "respect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 尊敬，尊重；方面；敬意；vt. 尊敬，尊重；遵守"
+    },
+    {
+      "id": "it_c3_u1_94",
+      "text": "horrible",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 可怕的；极讨厌的"
+    },
+    {
+      "id": "it_c3_u1_95",
+      "text": "Coming-of-Age Day",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u1_96",
+      "text": "Rio",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 里约（巴西共和国的旧首都）"
+    },
+    {
+      "id": "it_c3_u1_97",
+      "text": "Rio de Janeiro",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 里约热内卢"
+    },
+    {
+      "id": "it_c3_u1_98",
+      "text": "Carla",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. code actuated random load apparatus 代码驱动随机加载装置"
+    },
+    {
+      "id": "it_c3_u1_99",
+      "text": "Halloween",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 万圣节前夕（指十月三十一日夜晚）"
+    },
+    {
+      "id": "it_c3_u1_100",
+      "text": "Thanksgiving",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 感恩"
+    },
+    {
+      "id": "it_c3_u1_101",
+      "text": "Thanksgiving Day",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【节】感恩节；在美国；在加拿大"
+    },
+    {
+      "id": "it_c3_u1_102",
+      "text": "La Tomatina",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u1_103",
+      "text": "Buñol",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u1_104",
+      "text": "the Naadam festival",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u1_105",
+      "text": "Inner Mongolia Autonomous Region",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "内蒙古自治区；内蒙古自治区地区；中国内蒙古"
+    },
+    {
+      "id": "it_c3_u1_106",
+      "text": "Mongolian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蒙古人；蒙古语；adj. 蒙古人的；蒙古语的"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

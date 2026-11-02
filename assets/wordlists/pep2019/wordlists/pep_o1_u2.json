@@ -1,0 +1,562 @@
+{
+  "schema": 1,
+  "id": "pep_o1_u2",
+  "name": "人教版选择性必修第一册 · Unit 2 Looking into the Future",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o1_u2_1",
+      "text": "absence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 没有；缺乏；缺席；不注意"
+    },
+    {
+      "id": "it_o1_u2_2",
+      "text": "rural",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 农村的，乡下的；田园的，有乡村风味的"
+    },
+    {
+      "id": "it_o1_u2_3",
+      "text": "advocate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 提倡者；支持者；律师；vt. 提倡，主张，拥护"
+    },
+    {
+      "id": "it_o1_u2_4",
+      "text": "emphasis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 重点；强调；加强语气"
+    },
+    {
+      "id": "it_o1_u2_5",
+      "text": "luxury",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奢侈，奢华；奢侈品；享受；adj. 奢侈的"
+    },
+    {
+      "id": "it_o1_u2_6",
+      "text": "keep in touch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "保持联系；保持联络；再联系"
+    },
+    {
+      "id": "it_o1_u2_7",
+      "text": "keep in touch with ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 与…保持接触"
+    },
+    {
+      "id": "it_o1_u2_8",
+      "text": "career",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 生涯；职业；事业；速度，全速；adj. 作为毕生职业的；vi. 全速前进，猛冲"
+    },
+    {
+      "id": "it_o1_u2_9",
+      "text": "prospect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 前途；预期；景色；vt. 勘探，勘察；vi. 勘探，找矿"
+    },
+    {
+      "id": "it_o1_u2_10",
+      "text": "resist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [助剂] 抗蚀剂；防染剂；vt. 抵抗；忍耐，忍住；vi. 抵抗，抗拒；忍耐"
+    },
+    {
+      "id": "it_o1_u2_11",
+      "text": "resistance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 阻力；电阻；抵抗；反抗；抵抗力"
+    },
+    {
+      "id": "it_o1_u2_12",
+      "text": "paragraph",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 段落；短评；段落符号；vt. 将…分段"
+    },
+    {
+      "id": "it_o1_u2_13",
+      "text": "signpost",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 路标；指示牌"
+    },
+    {
+      "id": "it_o1_u2_14",
+      "text": "essay",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 散文；试图；随笔；vt. 尝试；对…做试验"
+    },
+    {
+      "id": "it_o1_u2_15",
+      "text": "accurate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 精确的"
+    },
+    {
+      "id": "it_o1_u2_16",
+      "text": "librarian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 图书馆员；图书管理员"
+    },
+    {
+      "id": "it_o1_u2_17",
+      "text": "Melbourne",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 墨尔本（澳大利亚一座城市）"
+    },
+    {
+      "id": "it_o1_u2_18",
+      "text": "Christian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基督徒，信徒；adj. 基督教的；信基督教的"
+    },
+    {
+      "id": "it_o1_u2_19",
+      "text": "buffet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 自助餐；小卖部；打击；猛烈冲击；adj. 自助的；自助餐的；vi. 斗争；奋勇前进；vt. 与…搏斗；连续猛击"
+    },
+    {
+      "id": "it_o1_u2_20",
+      "text": "cloth",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 布；织物；桌布；adj. 布制的"
+    },
+    {
+      "id": "it_o1_u2_21",
+      "text": "edge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 边缘；优势；刀刃；锋利；vt. 使锐利；将…开刃；给…加上边；vi. 缓缓移动；侧着移动"
+    },
+    {
+      "id": "it_o1_u2_22",
+      "text": "valley",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 山谷；流域；溪谷"
+    },
+    {
+      "id": "it_o1_u2_23",
+      "text": "vast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 浩瀚；广阔无垠的空间；adj. 广阔的；巨大的；大量的；巨额的"
+    },
+    {
+      "id": "it_o1_u2_24",
+      "text": "glacier",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冰河，冰川"
+    },
+    {
+      "id": "it_o1_u2_25",
+      "text": "reindeer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [脊椎][畜牧] 驯鹿"
+    },
+    {
+      "id": "it_o1_u2_26",
+      "text": "territory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 领土，领域；范围；地域；版图"
+    },
+    {
+      "id": "it_o1_u2_27",
+      "text": "ban",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 禁令，禁忌；vt. 禁止，取缔"
+    },
+    {
+      "id": "it_o1_u2_28",
+      "text": "boundary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 边界；范围；分界线"
+    },
+    {
+      "id": "it_o1_u2_29",
+      "text": "cottage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小屋；村舍；（农舍式的）小别墅"
+    },
+    {
+      "id": "it_o1_u2_30",
+      "text": "visible",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 可见物；进出口贸易中的有形项目；adj. 明显的；看得见的；现有的；可得到的"
+    },
+    {
+      "id": "it_o1_u2_31",
+      "text": "on the move",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 一直在动；开始活动；(事件)正在发展；动着"
+    },
+    {
+      "id": "it_o1_u2_32",
+      "text": "accompany",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 陪伴，伴随；伴奏；vi. 伴奏，伴唱"
+    },
+    {
+      "id": "it_o1_u2_33",
+      "text": "adopt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 采取；过继；vt. 采取；接受；收养；正式通过"
+    },
+    {
+      "id": "it_o1_u2_34",
+      "text": "sour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 酸味；苦事；adj. 酸的；发酵的；刺耳的；酸臭的；讨厌的；vt. 使变酸；使失望；vi. 发酵；变酸；厌烦"
+    },
+    {
+      "id": "it_o1_u2_35",
+      "text": "set out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 开始；出发；动身；准备"
+    },
+    {
+      "id": "it_o1_u2_36",
+      "text": "bless",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 祝福；保佑；赞美"
+    },
+    {
+      "id": "it_o1_u2_37",
+      "text": "live off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 住在…之外；以…为生"
+    },
+    {
+      "id": "it_o1_u2_38",
+      "text": "prohibition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 禁止；禁令；禁酒；诉讼中止令"
+    },
+    {
+      "id": "it_o1_u2_39",
+      "text": "prohibit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 阻止，禁止"
+    },
+    {
+      "id": "it_o1_u2_40",
+      "text": "journalist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 新闻工作者；报人；记日志者"
+    },
+    {
+      "id": "it_o1_u2_41",
+      "text": "sneeze",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喷嚏；vi. 打喷嚏"
+    },
+    {
+      "id": "it_o1_u2_42",
+      "text": "teapot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 茶壶；小题大做"
+    },
+    {
+      "id": "it_o1_u2_43",
+      "text": "label",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 标注；贴标签于；n. 标签；商标；签条"
+    },
+    {
+      "id": "it_o1_u2_44",
+      "text": "cream",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奶油，乳脂；精华；面霜；乳酪"
+    },
+    {
+      "id": "it_o1_u2_45",
+      "text": "leopard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 豹；美洲豹"
+    },
+    {
+      "id": "it_o1_u2_46",
+      "text": "stretch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 伸展,张开；（大量地）使用，消耗（金钱，时间）；使竭尽所能；使全力以赴；；n. 伸展，延伸；vi. 伸展；足够买（或支付）"
+    },
+    {
+      "id": "it_o1_u2_47",
+      "text": "rewarding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有益的，值得的；有报酬的，报答的"
+    },
+    {
+      "id": "it_o1_u2_48",
+      "text": "bush",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灌木；矮树丛；adj. 如灌木般长得低矮的；粗野的；vt. 以灌木装饰；使…精疲力竭；vi. 丛生；浓密地生长"
+    },
+    {
+      "id": "it_o1_u2_49",
+      "text": "lung",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 肺；呼吸器"
+    },
+    {
+      "id": "it_o1_u2_50",
+      "text": "cycle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 循环；周期；自行车；整套；一段时间；vt. 使循环；使轮转；vi. 循环；骑自行车；轮转"
+    },
+    {
+      "id": "it_o1_u2_51",
+      "text": "corridor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "走廊"
+    },
+    {
+      "id": "it_o1_u2_52",
+      "text": "pedal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 踏板；脚蹬子；vi. 踩踏板；骑车；vt. 骑（自行车）；踩……的踏板；adj. 脚的；脚踏的"
+    },
+    {
+      "id": "it_o1_u2_53",
+      "text": "fountain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喷泉，泉水；源泉"
+    },
+    {
+      "id": "it_o1_u2_54",
+      "text": "route",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 路线；航线；通道；vt. 按某路线发送"
+    },
+    {
+      "id": "it_o1_u2_55",
+      "text": "ahead",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 向前；在前的；领先；adv. 向前地；领先地；在（某人或某事物的）前面；预先；在将来，为未来"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

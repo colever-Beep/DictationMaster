@@ -1,0 +1,712 @@
+{
+  "schema": 1,
+  "id": "pep_o4_u2",
+  "name": "人教版选择性必修第四册 · Unit 2",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o4_u2_1",
+      "text": "Claire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 克莱儿（女子名）"
+    },
+    {
+      "id": "it_o4_u2_2",
+      "text": "Gladys Claffern",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u2_3",
+      "text": "Braille",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 布莱叶（法国盲人教育家）；盲人用点字法；vt. 用盲字印"
+    },
+    {
+      "id": "it_o4_u2_4",
+      "text": "braille",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 布莱叶（法国盲人教育家）；盲人用点字法；vt. 用盲字印"
+    },
+    {
+      "id": "it_o4_u2_5",
+      "text": "The Three-Body Problem",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u2_6",
+      "text": "Hugo Award",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u2_7",
+      "text": "iconic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 图标的，形象的"
+    },
+    {
+      "id": "it_o4_u2_8",
+      "text": "foundation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基础；地基；基金会；根据；创立"
+    },
+    {
+      "id": "it_o4_u2_9",
+      "text": "political",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 政治的；党派的"
+    },
+    {
+      "id": "it_o4_u2_10",
+      "text": "didgeridoo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 迪吉里杜管（澳大利亚土著使用的一种乐器）"
+    },
+    {
+      "id": "it_o4_u2_11",
+      "text": "located",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 处于，位于；坐落的"
+    },
+    {
+      "id": "it_o4_u2_12",
+      "text": "equator",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 赤道"
+    },
+    {
+      "id": "it_o4_u2_13",
+      "text": "koala",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+    },
+    {
+      "id": "it_o4_u2_14",
+      "text": "barbecue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烤肉；吃烤肉的野宴；vt. 烧烤；烤肉"
+    },
+    {
+      "id": "it_o4_u2_15",
+      "text": "BBQ",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 野外烧烤（barbecue）；烧烤炉"
+    },
+    {
+      "id": "it_o4_u2_16",
+      "text": "bakery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 面包店"
+    },
+    {
+      "id": "it_o4_u2_17",
+      "text": "joint",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 关节；接缝；接合处，接合点；（牛，羊等的腿）大块肉；adj. 共同的；连接的；联合的，合办的；vt. 连接，贴合；接合；使有接头；vi. 贴合；生节"
+    },
+    {
+      "id": "it_o4_u2_18",
+      "text": "butcher",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 屠夫；vt. 屠杀"
+    },
+    {
+      "id": "it_o4_u2_19",
+      "text": "premier",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 总理，首相；adj. 第一的；最初的"
+    },
+    {
+      "id": "it_o4_u2_20",
+      "text": "herb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 香草，药草"
+    },
+    {
+      "id": "it_o4_u2_21",
+      "text": "dim sim",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "烧麦；驰名美点"
+    },
+    {
+      "id": "it_o4_u2_22",
+      "text": "hollow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洞；山谷；窟窿；adj. 空的；中空的，空腹的；凹的；虚伪的；vt. 使成为空洞；adv. 彻底地；无用地；vi. 形成空洞"
+    },
+    {
+      "id": "it_o4_u2_23",
+      "text": "vibrate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使振动；使颤动；vi. 振动；颤动；摇摆；踌躇"
+    },
+    {
+      "id": "it_o4_u2_24",
+      "text": "horn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喇叭，号角；角；vt. 装角于"
+    },
+    {
+      "id": "it_o4_u2_25",
+      "text": "pitch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 沥青；音高；程度；树脂；倾斜；投掷；球场；vt. 投；掷；定位于；用沥青涂；扎营；向前倾跌；vi. 倾斜；投掷；搭帐篷；坠落"
+    },
+    {
+      "id": "it_o4_u2_26",
+      "text": "straightforward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 简单的；坦率的；明确的；径直的；adv. 直截了当地；坦率地"
+    },
+    {
+      "id": "it_o4_u2_27",
+      "text": "slogan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 标语；呐喊声"
+    },
+    {
+      "id": "it_o4_u2_28",
+      "text": "minister",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 部长；大臣；牧师；vi. 执行牧师职务；辅助或伺候某人"
+    },
+    {
+      "id": "it_o4_u2_29",
+      "text": "prime minister",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 首相；总理"
+    },
+    {
+      "id": "it_o4_u2_30",
+      "text": "frog",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 青蛙；[铁路] 辙叉；饰扣；vi. 捕蛙"
+    },
+    {
+      "id": "it_o4_u2_31",
+      "text": "arrow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 箭，箭头；箭状物；箭头记号；vt. 以箭头指示；箭一般地飞向"
+    },
+    {
+      "id": "it_o4_u2_32",
+      "text": "entitle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 称做…；定名为…；给…称号；使…有权利"
+    },
+    {
+      "id": "it_o4_u2_33",
+      "text": "getaway",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 逃走；逃跑；短假；适合旅行的地方"
+    },
+    {
+      "id": "it_o4_u2_34",
+      "text": "dive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 潜水；跳水；俯冲；扑；vi. 潜水；跳水；俯冲；急剧下降"
+    },
+    {
+      "id": "it_o4_u2_35",
+      "text": "dived",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. （使）潜水；俯冲；（使）跳水；急剧下降；钻研（dive的过去式和过去分词）"
+    },
+    {
+      "id": "it_o4_u2_36",
+      "text": "dove",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鸽子；鸽派人士；v. 潜水（dive的过去式）"
+    },
+    {
+      "id": "it_o4_u2_37",
+      "text": "kayaking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 独木舟；皮划艇；皮艇运动；v. 划独木舟（kayak的ing形式）"
+    },
+    {
+      "id": "it_o4_u2_38",
+      "text": "peak season",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 旺季"
+    },
+    {
+      "id": "it_o4_u2_39",
+      "text": "freedom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 自由，自主；直率"
+    },
+    {
+      "id": "it_o4_u2_40",
+      "text": "domain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 领域；域名；产业；地产"
+    },
+    {
+      "id": "it_o4_u2_41",
+      "text": "sponsor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 赞助者；主办者；保证人；vt. 赞助；发起"
+    },
+    {
+      "id": "it_o4_u2_42",
+      "text": "liberty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 自由；许可；冒失"
+    },
+    {
+      "id": "it_o4_u2_43",
+      "text": "golf",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 高尔夫球；高尔夫球运动；vi. 打高尔夫球"
+    },
+    {
+      "id": "it_o4_u2_44",
+      "text": "strait",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海峡；困境；adj. 狭窄的；苦恼的"
+    },
+    {
+      "id": "it_o4_u2_45",
+      "text": "sample",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 样品；样本；例子；adj. 试样的，样品的；作为例子的；vt. 取样；尝试；抽样检查"
+    },
+    {
+      "id": "it_o4_u2_46",
+      "text": "monument",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 纪念碑；历史遗迹；不朽的作品；vt. 为…树碑"
+    },
+    {
+      "id": "it_o4_u2_47",
+      "text": "kiwi",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 猕猴桃；几维（一种新西兰产的无翼鸟）；新西兰人"
+    },
+    {
+      "id": "it_o4_u2_48",
+      "text": "geyser",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喷泉；[水文] 间歇泉；（英）烧水锅炉"
+    },
+    {
+      "id": "it_o4_u2_49",
+      "text": "sulphuric pool",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u2_50",
+      "text": "manuka honey",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "麦卢卡蜂蜜；麦芦卡蜂蜜；麦努卡蜂蜜"
+    },
+    {
+      "id": "it_o4_u2_51",
+      "text": "bungee jumping",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【体】蹦极跳"
+    },
+    {
+      "id": "it_o4_u2_52",
+      "text": "a flock of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "det. 一群"
+    },
+    {
+      "id": "it_o4_u2_53",
+      "text": "geothermal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. [地物] 地热的；[地物] 地温的"
+    },
+    {
+      "id": "it_o4_u2_54",
+      "text": "distribution",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 分布；分配"
+    },
+    {
+      "id": "it_o4_u2_55",
+      "text": "pouch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小袋；育儿袋；烟草袋；vi. 成袋状；vt. 使成袋状；把…装入袋中"
+    },
+    {
+      "id": "it_o4_u2_56",
+      "text": "temporary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 临时工，临时雇员；adj. 暂时的，临时的"
+    },
+    {
+      "id": "it_o4_u2_57",
+      "text": "phase",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 月相；n. （月亮的）盈亏；n. 时期"
+    },
+    {
+      "id": "it_o4_u2_58",
+      "text": "trunk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 树干；躯干；象鼻；汽车车尾的行李箱；adj. 干线的；躯干的；箱子的；vt. 把…放入旅行箱内"
+    },
+    {
+      "id": "it_o4_u2_59",
+      "text": "licensed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 得到许可的（等于licenced）；v. 许可；批准（license的过去分词）"
+    },
+    {
+      "id": "it_o4_u2_60",
+      "text": "license",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 执照，许可证；特许；vt. 许可；特许；发许可证给"
+    },
+    {
+      "id": "it_o4_u2_61",
+      "text": "licence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 许可证，执照；特许；vt. 特许，许可；发给执照"
+    },
+    {
+      "id": "it_o4_u2_62",
+      "text": "session",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 会议；（法庭的）开庭；（议会等的）开会；学期；讲习会"
+    },
+    {
+      "id": "it_o4_u2_63",
+      "text": "frequency",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 频率；频繁"
+    },
+    {
+      "id": "it_o4_u2_64",
+      "text": "violent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 暴力的；猛烈的"
+    },
+    {
+      "id": "it_o4_u2_65",
+      "text": "violence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 暴力；侵犯；激烈；歪曲"
+    },
+    {
+      "id": "it_o4_u2_66",
+      "text": "nest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 巢，窝；安乐窝；温床；vt. 筑巢；嵌套；vi. 筑巢；找鸟巢"
+    },
+    {
+      "id": "it_o4_u2_67",
+      "text": "mammal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [脊椎] 哺乳动物"
+    },
+    {
+      "id": "it_o4_u2_68",
+      "text": "biology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （一个地区全部的）生物；生物学"
+    },
+    {
+      "id": "it_o4_u2_69",
+      "text": "hatch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 孵化；舱口；vt. 孵；策划；vi. 孵化"
+    },
+    {
+      "id": "it_o4_u2_70",
+      "text": "capacity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 能力；容量；资格，地位；生产力"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

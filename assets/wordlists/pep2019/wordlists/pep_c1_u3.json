@@ -1,0 +1,742 @@
+{
+  "schema": 1,
+  "id": "pep_c1_u3",
+  "name": "人教版必修第一册 · Unit 2 Travelling Around",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c1_u3_1",
+      "text": "castle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 城堡；象棋中的车；vt. 置…于城堡中；筑城堡防御"
+    },
+    {
+      "id": "it_c1_u3_2",
+      "text": "apply",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 申请；涂，敷；适用；请求；vt. 申请；涂，敷；应用"
+    },
+    {
+      "id": "it_c1_u3_3",
+      "text": "apply for",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 寻求；申请"
+    },
+    {
+      "id": "it_c1_u3_4",
+      "text": "visa",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 签证；vt. 签发签证"
+    },
+    {
+      "id": "it_c1_u3_5",
+      "text": "rent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 租金；vt. 出租；租用；租借；vi. 租；出租"
+    },
+    {
+      "id": "it_c1_u3_6",
+      "text": "pack",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 包装；一群；背包；包裹；一副；vt. 包装；压紧；捆扎；挑选；塞满；vi. 挤；包装货物；被包装；群集"
+    },
+    {
+      "id": "it_c1_u3_7",
+      "text": "amazing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 令人惊异的；v. 使吃惊（amaze的ing形式）"
+    },
+    {
+      "id": "it_c1_u3_8",
+      "text": "amazed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 使…吃惊；把…弄糊涂（amaze的过去分词）；adj. 惊奇的，吃惊的"
+    },
+    {
+      "id": "it_c1_u3_9",
+      "text": "arrangement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 布置；整理；准备"
+    },
+    {
+      "id": "it_c1_u3_10",
+      "text": "extremely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 非常，极其；极端地"
+    },
+    {
+      "id": "it_c1_u3_11",
+      "text": "source",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 来源；水源；原始资料"
+    },
+    {
+      "id": "it_c1_u3_12",
+      "text": "narrow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 狭窄的，有限的；勉强的；精密的；度量小的；n. 海峡；狭窄部分，隘路；vt. 使变狭窄；vi. 变窄"
+    },
+    {
+      "id": "it_c1_u3_13",
+      "text": "flat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平地；公寓；平面；adj. 平的；单调的；不景气的；干脆的；平坦的；扁平的；浅的；vi. 逐渐变平；[音乐]以降调唱（或奏）；vt. 使变平；[音乐]使（音调）下降，尤指降半音；adv. （尤指贴着另一表面）平直地；断然地；水平地；直接地，完全地"
+    },
+    {
+      "id": "it_c1_u3_14",
+      "text": "powerful",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 强大的；强有力的；adv. 很；非常"
+    },
+    {
+      "id": "it_c1_u3_15",
+      "text": "empire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 帝国；帝王统治，君权"
+    },
+    {
+      "id": "it_c1_u3_16",
+      "text": "emperor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 皇帝，君主"
+    },
+    {
+      "id": "it_c1_u3_17",
+      "text": "site",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地点；位置；场所；vt. 设置；为…选址"
+    },
+    {
+      "id": "it_c1_u3_18",
+      "text": "take control of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "控制；掌管；取得对……的控制"
+    },
+    {
+      "id": "it_c1_u3_19",
+      "text": "official",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 官方的；正式的；公务的；n. 官员；公务员；高级职员"
+    },
+    {
+      "id": "it_c1_u3_20",
+      "text": "recognise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 认出；承认，认可；识别"
+    },
+    {
+      "id": "it_c1_u3_21",
+      "text": "recognize",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 认出，识别；承认；vi. 确认，承认；具结"
+    },
+    {
+      "id": "it_c1_u3_22",
+      "text": "type",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 类型，品种；模范；样式；vt. 打字；测定（血等）类型；vi. 打字"
+    },
+    {
+      "id": "it_c1_u3_23",
+      "text": "flight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 飞行；班机；逃走；vt. 射击；使惊飞；vi. 迁徙"
+    },
+    {
+      "id": "it_c1_u3_24",
+      "text": "accommodation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 住处，膳宿；调节；和解；预订铺位"
+    },
+    {
+      "id": "it_c1_u3_25",
+      "text": "unique",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 独一无二的人或物；adj. 独特的，稀罕的；[数] 唯一的，独一无二的"
+    },
+    {
+      "id": "it_c1_u3_26",
+      "text": "path",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 道路；小路；轨道"
+    },
+    {
+      "id": "it_c1_u3_27",
+      "text": "destination",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 目的地，终点"
+    },
+    {
+      "id": "it_c1_u3_28",
+      "text": "other than",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 与…不同；除了"
+    },
+    {
+      "id": "it_c1_u3_29",
+      "text": "admire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 钦佩；赞美；vi. 钦佩；称赞"
+    },
+    {
+      "id": "it_c1_u3_30",
+      "text": "architecture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 建筑学；建筑风格；建筑式样；架构"
+    },
+    {
+      "id": "it_c1_u3_31",
+      "text": "architect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 建筑师；缔造者"
+    },
+    {
+      "id": "it_c1_u3_32",
+      "text": "brochure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 手册，小册子"
+    },
+    {
+      "id": "it_c1_u3_33",
+      "text": "package",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 包，包裹；套装软件，[计] 程序包；adj. 一揽子的；vt. 打包；将…包装"
+    },
+    {
+      "id": "it_c1_u3_34",
+      "text": "package tour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 包价旅游（费用固定、一切由旅行社代办的度假旅游）"
+    },
+    {
+      "id": "it_c1_u3_35",
+      "text": "contact",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 接触，联系；vt. 使接触，联系；vi. 使接触，联系"
+    },
+    {
+      "id": "it_c1_u3_36",
+      "text": "civilisation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （英）文明（等于civilization）"
+    },
+    {
+      "id": "it_c1_u3_37",
+      "text": "civilization",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 文明；文化"
+    },
+    {
+      "id": "it_c1_u3_38",
+      "text": "make up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 弥补；起草；定；签订"
+    },
+    {
+      "id": "it_c1_u3_39",
+      "text": "soldier",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 军人；[昆] 兵蚁；懒汉；一片烤面包；vi. 当兵；磨洋工；坚持干；假称害病"
+    },
+    {
+      "id": "it_c1_u3_40",
+      "text": "transport",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 运输；运输机；狂喜；流放犯；vt. 运输；流放；使狂喜"
+    },
+    {
+      "id": "it_c1_u3_41",
+      "text": "transportation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 运输；运输系统；运输工具；流放"
+    },
+    {
+      "id": "it_c1_u3_42",
+      "text": "hike",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 远足；徒步旅行；涨价；vt. 提高；拉起；使…高涨；vi. 远足；徒步旅行；上升"
+    },
+    {
+      "id": "it_c1_u3_43",
+      "text": "economy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 经济；节约；理财"
+    },
+    {
+      "id": "it_c1_u3_44",
+      "text": "economic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 经济的，经济上的；经济学的"
+    },
+    {
+      "id": "it_c1_u3_45",
+      "text": "credit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 信用，信誉；[金融] 贷款；学分；信任；声望；vt. 相信，信任；把…归给，归功于；赞颂"
+    },
+    {
+      "id": "it_c1_u3_46",
+      "text": "credit card",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【经】信用卡"
+    },
+    {
+      "id": "it_c1_u3_47",
+      "text": "detail",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 细节，详情；vt. 详述；选派；vi. 画详图"
+    },
+    {
+      "id": "it_c1_u3_48",
+      "text": "check in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 〈美〉报到；(旅馆)登记"
+    },
+    {
+      "id": "it_c1_u3_49",
+      "text": "check out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 开支票(提款)；(旅馆)付账后离开；及格；〔美俚〕死"
+    },
+    {
+      "id": "it_c1_u3_50",
+      "text": "request",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 请求；需要；vt. 要求，请求"
+    },
+    {
+      "id": "it_c1_u3_51",
+      "text": "view",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 观察；视野；意见；风景；vt. 观察；考虑；查看"
+    },
+    {
+      "id": "it_c1_u3_52",
+      "text": "sight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 视力；景象；眼界；见解；adj. 见票即付的；即席的；vt. 看见；瞄准；vi. 瞄准；观看"
+    },
+    {
+      "id": "it_c1_u3_53",
+      "text": "statue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雕像，塑像；vt. 以雕像装饰"
+    },
+    {
+      "id": "it_c1_u3_54",
+      "text": "BCE",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 化学工程学士（Bachelor of Chemical Engineering ）；土木工程学士（Bachelor of Civil Engineering）；公元前（ before common era）"
+    },
+    {
+      "id": "it_c1_u3_55",
+      "text": "before the Common Era",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c1_u3_56",
+      "text": "tomb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 坟墓；死亡；vt. 埋葬"
+    },
+    {
+      "id": "it_c1_u3_57",
+      "text": "unearth",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 发掘；揭露，发现；从洞中赶出"
+    },
+    {
+      "id": "it_c1_u3_58",
+      "text": "comment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 评论；意见；批评；vi. 发表评论；发表意见；vt. 为…作评语"
+    },
+    {
+      "id": "it_c1_u3_59",
+      "text": "the Eiffel Tower",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "埃菲尔铁塔；巴黎铁塔；法国艾菲尔铁塔"
+    },
+    {
+      "id": "it_c1_u3_60",
+      "text": "Neuschwanstein Castle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "新天鹅城堡"
+    },
+    {
+      "id": "it_c1_u3_61",
+      "text": "Iceland",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冰岛（欧洲岛名，在大西洋北部，近北极圈）"
+    },
+    {
+      "id": "it_c1_u3_62",
+      "text": "Disneyland",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 迪斯尼乐园；幻想世界"
+    },
+    {
+      "id": "it_c1_u3_63",
+      "text": "Peru",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 秘鲁（拉丁美洲国家名）"
+    },
+    {
+      "id": "it_c1_u3_64",
+      "text": "the Andes Mountains",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c1_u3_65",
+      "text": "the Amazon rainforest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c1_u3_66",
+      "text": "the Inca Empire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c1_u3_67",
+      "text": "Machu Picchu",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【旅】马丘比丘"
+    },
+    {
+      "id": "it_c1_u3_68",
+      "text": "Spain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 西班牙"
+    },
+    {
+      "id": "it_c1_u3_69",
+      "text": "Spanish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 西班牙语；西班牙人；adj. 西班牙的；西班牙人的；西班牙语的"
+    },
+    {
+      "id": "it_c1_u3_70",
+      "text": "Cusco",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "库斯科[秘鲁南部城市](11世纪初起至16世纪为印加帝国首都)"
+    },
+    {
+      "id": "it_c1_u3_71",
+      "text": "Lake Titicaca",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c1_u3_72",
+      "text": "the Uros",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c1_u3_73",
+      "text": "the Terracotta Army",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

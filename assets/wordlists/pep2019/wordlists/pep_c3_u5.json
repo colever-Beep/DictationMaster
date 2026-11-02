@@ -1,0 +1,822 @@
+{
+  "schema": 1,
+  "id": "pep_c3_u5",
+  "name": "人教版必修第三册 · Unit 5 The Value of Money",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c3_u5_1",
+      "text": "loan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 贷款；借款；vi. 借出；vt. 借；借给"
+    },
+    {
+      "id": "it_c3_u5_2",
+      "text": "take out a loan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "贷款；得到贷款；抵充贷款"
+    },
+    {
+      "id": "it_c3_u5_3",
+      "text": "plastic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 塑料制品；整形；可塑体；adj. 塑料的；（外科）造型的；可塑的"
+    },
+    {
+      "id": "it_c3_u5_4",
+      "text": "apologise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 道歉（等于apologize）"
+    },
+    {
+      "id": "it_c3_u5_5",
+      "text": "apologize",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 道歉；辩解；赔不是；vt. 道歉；谢罪；辩白"
+    },
+    {
+      "id": "it_c3_u5_6",
+      "text": "ignore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 驳回诉讼；忽视；不理睬"
+    },
+    {
+      "id": "it_c3_u5_7",
+      "text": "in return",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 作报复[报酬,回答,报答]；作替换"
+    },
+    {
+      "id": "it_c3_u5_8",
+      "text": "judge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 判断；审判；n. 法官；裁判员；vi. 审判；判决"
+    },
+    {
+      "id": "it_c3_u5_9",
+      "text": "scene",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 场面；情景；景象；事件"
+    },
+    {
+      "id": "it_c3_u5_10",
+      "text": "narrator",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 叙述者；解说员"
+    },
+    {
+      "id": "it_c3_u5_11",
+      "text": "narration",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 叙述，讲述；故事"
+    },
+    {
+      "id": "it_c3_u5_12",
+      "text": "bet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 打赌，赌注；被打赌的事物；vt. 打赌；敢断定，确信；vi. 打赌"
+    },
+    {
+      "id": "it_c3_u5_13",
+      "text": "bet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 打赌，赌注；被打赌的事物；vt. 打赌；敢断定，确信；vi. 打赌"
+    },
+    {
+      "id": "it_c3_u5_14",
+      "text": "bet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 打赌，赌注；被打赌的事物；vt. 打赌；敢断定，确信；vi. 打赌"
+    },
+    {
+      "id": "it_c3_u5_15",
+      "text": "make a bet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "打赌；打赌看谁先背下这篇文章；来场打赌"
+    },
+    {
+      "id": "it_c3_u5_16",
+      "text": "servant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 仆人，佣人；公务员；雇工"
+    },
+    {
+      "id": "it_c3_u5_17",
+      "text": "as a matter of fact",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 事实上；事实是"
+    },
+    {
+      "id": "it_c3_u5_18",
+      "text": "by accident",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 偶然 (opp. on purpose)"
+    },
+    {
+      "id": "it_c3_u5_19",
+      "text": "sail",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 帆，篷；航行；vi. 航行；启航，开船；vt. 航行"
+    },
+    {
+      "id": "it_c3_u5_20",
+      "text": "spot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地点；斑点；adj. 现场的；现货买卖的；vt. 认出；弄脏；用灯光照射；vi. 沾上污渍；满是斑点；adv. 准确地；恰好"
+    },
+    {
+      "id": "it_c3_u5_21",
+      "text": "consulate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 领事；领事馆；领事任期；领事职位"
+    },
+    {
+      "id": "it_c3_u5_22",
+      "text": "dare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 挑战；挑动；vt. 敢冒；不惧；vi. 敢；胆敢"
+    },
+    {
+      "id": "it_c3_u5_23",
+      "text": "sort",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 种类；方式；品质；vt. 将…分类；将…排序；挑选出某物；vi. 分类；协调；交往"
+    },
+    {
+      "id": "it_c3_u5_24",
+      "text": "mining",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 矿业；采矿"
+    },
+    {
+      "id": "it_c3_u5_25",
+      "text": "patience",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 耐性，耐心；忍耐，容忍"
+    },
+    {
+      "id": "it_c3_u5_26",
+      "text": "to be honest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "老实说；说实话；说实在的"
+    },
+    {
+      "id": "it_c3_u5_27",
+      "text": "ought to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "modalv. 应该；应当；（表示期望或可能发生的事）应该；（表示劝告或建议）应该；v. 应该"
+    },
+    {
+      "id": "it_c3_u5_28",
+      "text": "be about to do sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "即将做某事"
+    },
+    {
+      "id": "it_c3_u5_29",
+      "text": "indicate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 表明；指出；预示；象征"
+    },
+    {
+      "id": "it_c3_u5_30",
+      "text": "beneath",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在…之下；adv. 在下方"
+    },
+    {
+      "id": "it_c3_u5_31",
+      "text": "postpone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使…延期；把…放在次要地位；把…放在后面；vi. 延缓，延迟；延缓发作"
+    },
+    {
+      "id": "it_c3_u5_32",
+      "text": "odd",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 奇数的；古怪的；剩余的；临时的；零散的；n. 奇数；怪人；奇特的事物"
+    },
+    {
+      "id": "it_c3_u5_33",
+      "text": "obligation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 义务；职责；债务"
+    },
+    {
+      "id": "it_c3_u5_34",
+      "text": "intention",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 意图；目的；意向；愈合"
+    },
+    {
+      "id": "it_c3_u5_35",
+      "text": "nowhere",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 无处；任何地方都不；毫无结果；n. 无处；任何地方；无名之地；adj. 不存在的；毫无结果的；不知名的"
+    },
+    {
+      "id": "it_c3_u5_36",
+      "text": "in case",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 以防万一；作为准备；如果；免得〔用作连词〕"
+    },
+    {
+      "id": "it_c3_u5_37",
+      "text": "extent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 程度；范围；长度"
+    },
+    {
+      "id": "it_c3_u5_38",
+      "text": "to ... extent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "达到某种程度"
+    },
+    {
+      "id": "it_c3_u5_39",
+      "text": "opera",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 歌剧；歌剧院；歌剧团"
+    },
+    {
+      "id": "it_c3_u5_40",
+      "text": "musical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 音乐的；悦耳的；n. 音乐片"
+    },
+    {
+      "id": "it_c3_u5_41",
+      "text": "dinosaur",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 恐龙；过时、落伍的人或事物"
+    },
+    {
+      "id": "it_c3_u5_42",
+      "text": "hug",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拥抱；紧抱；固执；vi. 拥抱；紧抱在一起；挤在一起；vt. 拥抱；紧抱；抱有，坚持"
+    },
+    {
+      "id": "it_c3_u5_43",
+      "text": "pursue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 追赶；继续进行；vt. 继续；从事；追赶；纠缠"
+    },
+    {
+      "id": "it_c3_u5_44",
+      "text": "duty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 责任；[税收] 关税；职务"
+    },
+    {
+      "id": "it_c3_u5_45",
+      "text": "on duty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 在工作时间内；上班；值班"
+    },
+    {
+      "id": "it_c3_u5_46",
+      "text": "hesitate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 踌躇，犹豫；有疑虑，不愿意；vi. 踌躇，犹豫；不愿"
+    },
+    {
+      "id": "it_c3_u5_47",
+      "text": "sequence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [数][计] 序列；顺序；续发事件；vt. 按顺序排好"
+    },
+    {
+      "id": "it_c3_u5_48",
+      "text": "eventually",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 最后，终于"
+    },
+    {
+      "id": "it_c3_u5_49",
+      "text": "tailor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 裁缝；vt. 剪裁；使合适；vi. 做裁缝"
+    },
+    {
+      "id": "it_c3_u5_50",
+      "text": "clerk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 职员，办事员；店员；书记；记账员；<古>牧师，教士；vi. 当销售员，当店员；当职员"
+    },
+    {
+      "id": "it_c3_u5_51",
+      "text": "manner",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 方式；习惯；种类；规矩；风俗"
+    },
+    {
+      "id": "it_c3_u5_52",
+      "text": "in a ... manner",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 在某种意义上；多少"
+    },
+    {
+      "id": "it_c3_u5_53",
+      "text": "downstairs",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 楼下；adj. 楼下的；adv. 在楼下"
+    },
+    {
+      "id": "it_c3_u5_54",
+      "text": "stair",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 楼梯，阶梯；梯级"
+    },
+    {
+      "id": "it_c3_u5_55",
+      "text": "aside",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在…旁边；n. 旁白；私语，悄悄话；离题的话；adv. 离开，撇开；在旁边"
+    },
+    {
+      "id": "it_c3_u5_56",
+      "text": "frown",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 皱眉，蹙额；vt. 皱眉，蹙额；vi. 皱眉；不同意"
+    },
+    {
+      "id": "it_c3_u5_57",
+      "text": "in that case",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 既然是那样"
+    },
+    {
+      "id": "it_c3_u5_58",
+      "text": "option",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计] 选项；选择权；买卖的特权"
+    },
+    {
+      "id": "it_c3_u5_59",
+      "text": "broad",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 宽阔部分；adj. 宽的，辽阔的；显著的；大概的；adv. 宽阔地"
+    },
+    {
+      "id": "it_c3_u5_60",
+      "text": "indeed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 的确；实在；真正地；甚至；int. 真的（表示惊讶、怀疑、讽刺等）"
+    },
+    {
+      "id": "it_c3_u5_61",
+      "text": "normal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 正常的；正规的，标准的；n. 正常；标准；常态"
+    },
+    {
+      "id": "it_c3_u5_62",
+      "text": "willing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 乐意的；自愿的；心甘情愿的；v. 决心；用意志力驱使；将（财产等）遗赠某人（will的现在分词）"
+    },
+    {
+      "id": "it_c3_u5_63",
+      "text": "be willing to do sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 乐意进行"
+    },
+    {
+      "id": "it_c3_u5_64",
+      "text": "element",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 元素；要素；原理；成分；自然环境"
+    },
+    {
+      "id": "it_c3_u5_65",
+      "text": "plot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 情节；图；阴谋；vt. 密谋；绘图；划分；标绘；vi. 密谋；策划；绘制"
+    },
+    {
+      "id": "it_c3_u5_66",
+      "text": "ambassador",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大使；代表；使节"
+    },
+    {
+      "id": "it_c3_u5_67",
+      "text": "upper-class",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 上层社会；adj. 上流社会的；上层阶级的；中学三年级，四年级的"
+    },
+    {
+      "id": "it_c3_u5_68",
+      "text": "upper",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 上面的，上部的；较高的"
+    },
+    {
+      "id": "it_c3_u5_69",
+      "text": "the upper class",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 上流社会；上等阶层"
+    },
+    {
+      "id": "it_c3_u5_70",
+      "text": "maintain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 维持；继续；维修；主张；供养"
+    },
+    {
+      "id": "it_c3_u5_71",
+      "text": "permission",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 允许，许可"
+    },
+    {
+      "id": "it_c3_u5_72",
+      "text": "permit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 许可证，执照；vt. 许可；允许；vi. 许可；允许"
+    },
+    {
+      "id": "it_c3_u5_73",
+      "text": "saying",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 话；谚语；言论；v. 说（say的ing形式）"
+    },
+    {
+      "id": "it_c3_u5_74",
+      "text": "external",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 外部；外观；外面；adj. 外部的；表面的；[药] 外用的；外国的；外面的"
+    },
+    {
+      "id": "it_c3_u5_75",
+      "text": "Roderick",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罗德里克（亦作Roderic）(m.)"
+    },
+    {
+      "id": "it_c3_u5_76",
+      "text": "Oliver",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奥利弗（男子名）"
+    },
+    {
+      "id": "it_c3_u5_77",
+      "text": "Henry Adams",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u5_78",
+      "text": "The Phantom of the Opera",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "歌剧魅影；剧院魅影；歌声魅影"
+    },
+    {
+      "id": "it_c3_u5_79",
+      "text": "Reid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 里德（等于Read，男子名）"
+    },
+    {
+      "id": "it_c3_u5_80",
+      "text": "Todd",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 托德（姓氏，英国化学家，曾获1957年诺贝尔化学奖）"
+    },
+    {
+      "id": "it_c3_u5_81",
+      "text": "Portia Langham",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

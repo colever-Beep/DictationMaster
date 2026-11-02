@@ -1,0 +1,772 @@
+{
+  "schema": 1,
+  "id": "pep_o2_u5",
+  "name": "人教版选择性必修第二册 · Unit 5",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o2_u5_1",
+      "text": "sense of touch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 触觉"
+    },
+    {
+      "id": "it_o2_u5_2",
+      "text": "radiation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 辐射；发光；放射物"
+    },
+    {
+      "id": "it_o2_u5_3",
+      "text": "acid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 酸；<俚>迷幻药；adj. 酸的；讽刺的；刻薄的"
+    },
+    {
+      "id": "it_o2_u5_4",
+      "text": "millimetre",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 毫米；公厘"
+    },
+    {
+      "id": "it_o2_u5_5",
+      "text": "minor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 未成年的；次要的；较小的；小调的；二流的；n. 未成年人；小调；副修科目；vi. 副修"
+    },
+    {
+      "id": "it_o2_u5_6",
+      "text": "layer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 层，层次；膜；[植]压条；放置者，计划者；vt. 把…分层堆放；借助压条法；生根繁殖；将（头发）剪成不同层次；vi. 形成或分成层次；[植]通过压条法而生根"
+    },
+    {
+      "id": "it_o2_u5_7",
+      "text": "electric",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 电；电气车辆；带电体；adj. 电的；电动的；发电的；导电的；令人震惊的"
+    },
+    {
+      "id": "it_o2_u5_8",
+      "text": "electric shock",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 触电；电击；电休克"
+    },
+    {
+      "id": "it_o2_u5_9",
+      "text": "victim",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 受害人；牺牲品；牺牲者"
+    },
+    {
+      "id": "it_o2_u5_10",
+      "text": "swollen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 肿胀的，浮肿的；浮夸的；激动兴奋的"
+    },
+    {
+      "id": "it_o2_u5_11",
+      "text": "swell",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 肿胀；隆起；vt. 使膨胀；使隆起；adj. 漂亮的；一流的；vi. 膨胀；肿胀；隆起"
+    },
+    {
+      "id": "it_o2_u5_12",
+      "text": "swelled",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 膨胀；隆起；增大（swell的过去分词）；adj. 骄傲自大；自负的"
+    },
+    {
+      "id": "it_o2_u5_13",
+      "text": "swollen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 肿胀的，浮肿的；浮夸的；激动兴奋的"
+    },
+    {
+      "id": "it_o2_u5_14",
+      "text": "blister",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 水泡；水疱；气泡；砂眼；起泡剂；vt. 使起水泡；痛打；猛烈抨击；vi. 起水泡"
+    },
+    {
+      "id": "it_o2_u5_15",
+      "text": "underneath",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在…的下面；在…的形式下；在…的支配下；n. 下面；底部；adj. 下面的；底层的；adv. 在下面；在底下"
+    },
+    {
+      "id": "it_o2_u5_16",
+      "text": "nerve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 神经；勇气；[植] 叶脉；vt. 鼓起勇气"
+    },
+    {
+      "id": "it_o2_u5_17",
+      "text": "fabric",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 织物；布；组织；构造；建筑物"
+    },
+    {
+      "id": "it_o2_u5_18",
+      "text": "loose",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 宽松的；散漫的；不牢固的；不精确的；vt. 释放；开船；放枪；vi. 变松；开火；adv. 松散地；n. 放纵；放任；发射"
+    },
+    {
+      "id": "it_o2_u5_19",
+      "text": "urgent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 紧急的；急迫的"
+    },
+    {
+      "id": "it_o2_u5_20",
+      "text": "ease",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 轻松，舒适；安逸，悠闲；vt. 减轻，缓和；使安心；vi. 减轻，缓和；放松；灵活地移动"
+    },
+    {
+      "id": "it_o2_u5_21",
+      "text": "paramedic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 护理人员；伞兵军医；伞降医务人员"
+    },
+    {
+      "id": "it_o2_u5_22",
+      "text": "swallow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 燕子；一次吞咽的量；vt. 忍受；吞没；vi. 吞下；咽下"
+    },
+    {
+      "id": "it_o2_u5_23",
+      "text": "wrap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 外套；围巾；vt. 包；缠绕；隐藏；掩护；vi. 包起来；缠绕；穿外衣"
+    },
+    {
+      "id": "it_o2_u5_24",
+      "text": "bathtub",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 浴缸"
+    },
+    {
+      "id": "it_o2_u5_25",
+      "text": "bath",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 沐浴；浴室；浴盆；vt. 洗澡；vi. 洗澡"
+    },
+    {
+      "id": "it_o2_u5_26",
+      "text": "bathtub",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 浴缸"
+    },
+    {
+      "id": "it_o2_u5_27",
+      "text": "bathe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洗澡；游泳；vt. 沐浴；用水洗；vi. 洗澡；沐浴"
+    },
+    {
+      "id": "it_o2_u5_28",
+      "text": "slip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滑，滑倒；片，纸片；错误；下跌；事故；abbr. 串行线路接口协议，是旧式的协议（Serial Line Interface Protocol）；adj. 滑动的；有活结的；活络的；vt. 使滑动；滑过；摆脱；塞入；闪开；vi. 滑动；滑倒；犯错；失足；减退"
+    },
+    {
+      "id": "it_o2_u5_29",
+      "text": "mosquito",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蚊子"
+    },
+    {
+      "id": "it_o2_u5_30",
+      "text": "elderly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 上了年纪的；过了中年的；稍老的"
+    },
+    {
+      "id": "it_o2_u5_31",
+      "text": "carpet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 地毯；地毯状覆盖物；vt. 在…上铺地毯，把地毯铺在…上；斥责"
+    },
+    {
+      "id": "it_o2_u5_32",
+      "text": "operator",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 经营者；操作员；话务员；行家"
+    },
+    {
+      "id": "it_o2_u5_33",
+      "text": "ambulance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [车辆][医] 救护车；战时流动医院"
+    },
+    {
+      "id": "it_o2_u5_34",
+      "text": "delay",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 延期；耽搁；被耽搁或推迟的时间；vt. 延期；耽搁；vi. 延期；耽搁"
+    },
+    {
+      "id": "it_o2_u5_35",
+      "text": "needle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 针；指针；刺激；针状物；vi. 缝纫；做针线；vt. 刺激；用针缝"
+    },
+    {
+      "id": "it_o2_u5_36",
+      "text": "IV needle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u5_37",
+      "text": "ward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 病房；保卫；监视；vt. 避开；保卫；守护"
+    },
+    {
+      "id": "it_o2_u5_38",
+      "text": "drown",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 淹没；把…淹死；vi. 淹死；溺死"
+    },
+    {
+      "id": "it_o2_u5_39",
+      "text": "sprain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 扭伤；vt. 扭伤"
+    },
+    {
+      "id": "it_o2_u5_40",
+      "text": "ankle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 踝关节，踝"
+    },
+    {
+      "id": "it_o2_u5_41",
+      "text": "bleeding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 出血；渗色；v. 出血；渗出（bleed的ing形式）；感到疼痛；adj. 流血的；同情的"
+    },
+    {
+      "id": "it_o2_u5_42",
+      "text": "bleed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使出血；榨取；vi. 流血；渗出；悲痛"
+    },
+    {
+      "id": "it_o2_u5_43",
+      "text": "panic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 恐慌，惊慌；大恐慌；adj. 恐慌的；没有理由的；vt. 使恐慌；vi. 十分惊慌"
+    },
+    {
+      "id": "it_o2_u5_44",
+      "text": "interrupt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 中断；vt. 中断；打断；插嘴；妨碍；vi. 打断；打扰"
+    },
+    {
+      "id": "it_o2_u5_45",
+      "text": "scream",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 尖叫声；尖锐刺耳的声音；极其滑稽可笑的人；vi. 尖叫；呼啸；发出尖锐刺耳的声音；令人触目惊心；vt. 尖声喊叫；大叫大嚷着要求"
+    },
+    {
+      "id": "it_o2_u5_46",
+      "text": "fellow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 家伙；朋友；同事；会员；adj. 同伴的，同事的；同道的；vt. 使…与另一个对等；使…与另一个匹敌"
+    },
+    {
+      "id": "it_o2_u5_47",
+      "text": "diner",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 用餐者；路边小饭店；餐车式简便餐厅"
+    },
+    {
+      "id": "it_o2_u5_48",
+      "text": "choke",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 窒息；噎；[动力] 阻气门；vi. 窒息；阻塞；说不出话来；vt. 呛；使窒息；阻塞；抑制；扑灭"
+    },
+    {
+      "id": "it_o2_u5_49",
+      "text": "steak",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 牛排；肉排；鱼排"
+    },
+    {
+      "id": "it_o2_u5_50",
+      "text": "throat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喉咙；嗓子，嗓音；窄路；vt. 开沟于；用喉音说"
+    },
+    {
+      "id": "it_o2_u5_51",
+      "text": "desperate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不顾一切的；令人绝望的；极度渴望的"
+    },
+    {
+      "id": "it_o2_u5_52",
+      "text": "slap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 掴；侮辱；掌击；拍打声；vt. 拍击；侮辱；掌击；掴…的耳光；vi. 掴；拍击；adv. 直接地；猛然地；恰好"
+    },
+    {
+      "id": "it_o2_u5_53",
+      "text": "help sb. to one's feet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u5_54",
+      "text": "practical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 实际的；实用性的"
+    },
+    {
+      "id": "it_o2_u5_55",
+      "text": "obstruction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 障碍；阻碍；妨碍"
+    },
+    {
+      "id": "it_o2_u5_56",
+      "text": "fist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拳，拳头；〈口〉笔迹；掌握；[印]指标参见号；vt. 紧握；握成拳；用拳打"
+    },
+    {
+      "id": "it_o2_u5_57",
+      "text": "grab",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 攫取；霸占；夺取之物；vt. 攫取；霸占；将…深深吸引；vi. 攫取；夺取"
+    },
+    {
+      "id": "it_o2_u5_58",
+      "text": "tightly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 紧紧地；坚固地"
+    },
+    {
+      "id": "it_o2_u5_59",
+      "text": "tight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 紧的；密封的；绷紧的；麻烦的；严厉的；没空的；吝啬的；adv. 紧紧地；彻底地"
+    },
+    {
+      "id": "it_o2_u5_60",
+      "text": "motion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 动作；移动；手势；请求；意向；议案；vi. 运动；打手势；vt. 运动；向…打手势"
+    },
+    {
+      "id": "it_o2_u5_61",
+      "text": "face up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 面对"
+    },
+    {
+      "id": "it_o2_u5_62",
+      "text": "face down",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 〈美口〉同“face off”；摊牌；adv. 面朝下地"
+    },
+    {
+      "id": "it_o2_u5_63",
+      "text": "justify",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 证明合法；整理版面；vt. 证明…是正当的；替…辩护"
+    },
+    {
+      "id": "it_o2_u5_64",
+      "text": "welfare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 福利；幸福；福利事业；安宁；adj. 福利的；接受社会救济的"
+    },
+    {
+      "id": "it_o2_u5_65",
+      "text": "collapse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 倒塌；失败；衰竭；vt. 使倒塌，使崩溃；使萎陷；折叠；vi. 倒塌；瓦解；暴跌"
+    },
+    {
+      "id": "it_o2_u5_66",
+      "text": "manual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 手工的；体力的；n. 手册，指南"
+    },
+    {
+      "id": "it_o2_u5_67",
+      "text": "sleep in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 睡懒觉；〈英〉(佣人)住在东家家里；睡过头"
+    },
+    {
+      "id": "it_o2_u5_68",
+      "text": "out of shape",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 变形"
+    },
+    {
+      "id": "it_o2_u5_69",
+      "text": "foggy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有雾的；模糊的，朦胧的"
+    },
+    {
+      "id": "it_o2_u5_70",
+      "text": "suburb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 郊区；边缘"
+    },
+    {
+      "id": "it_o2_u5_71",
+      "text": "membership",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 资格；成员资格；会员身份"
+    },
+    {
+      "id": "it_o2_u5_72",
+      "text": "Taylor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 泰勒"
+    },
+    {
+      "id": "it_o2_u5_73",
+      "text": "CPR",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 加拿大太平洋铁路（Canadian Pacific Railways）；现行页面寄存器（Current Page Register）；心肺复苏术（cardiopulmonary resuscitation）"
+    },
+    {
+      "id": "it_o2_u5_74",
+      "text": "cardiopulmonary resuscitation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 心肺复苏"
+    },
+    {
+      "id": "it_o2_u5_75",
+      "text": "mouth-to-mouth rescue breathing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u5_76",
+      "text": "Heimlich manoeuvre",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "海姆立克急救法；哈姆立克急救法"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

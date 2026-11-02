@@ -1,0 +1,582 @@
+{
+  "schema": 1,
+  "id": "pep_c1_u1",
+  "name": "人教版必修第一册 · Welcome Unit · 预备单元",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c1_u1_1",
+      "text": "exchange",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 交换；交流；交易所；兑换；vt. 交换；交易；兑换；vi. 交换；交易；兑换"
+    },
+    {
+      "id": "it_c1_u1_2",
+      "text": "lecture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 演讲；讲稿；教训；vt. 演讲；训诫；vi. 讲课；讲演"
+    },
+    {
+      "id": "it_c1_u1_3",
+      "text": "registration",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 登记；注册；挂号"
+    },
+    {
+      "id": "it_c1_u1_4",
+      "text": "register",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 登记；注册；记录；寄存器；登记簿；vt. 登记；注册；记录；挂号邮寄；把…挂号；正式提出；vi. 登记；注册；挂号"
+    },
+    {
+      "id": "it_c1_u1_5",
+      "text": "sex",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 性；性别；性行为；色情；vt. 引起…的性欲；区别…的性别"
+    },
+    {
+      "id": "it_c1_u1_6",
+      "text": "female",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 女人；[动] 雌性动物；adj. 女性的；雌性的；柔弱的，柔和的"
+    },
+    {
+      "id": "it_c1_u1_7",
+      "text": "male",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 男性的；雄性的；有力的；n. 男人；雄性动物"
+    },
+    {
+      "id": "it_c1_u1_8",
+      "text": "nationality",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 国籍，国家；民族；部落"
+    },
+    {
+      "id": "it_c1_u1_9",
+      "text": "nation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 国家；民族；国民"
+    },
+    {
+      "id": "it_c1_u1_10",
+      "text": "designer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 设计师；谋划者；adj. 由设计师专门设计的；享有盛名的；赶时髦的"
+    },
+    {
+      "id": "it_c1_u1_11",
+      "text": "design",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 设计；图案；vt. 设计；计划；构思；vi. 设计"
+    },
+    {
+      "id": "it_c1_u1_12",
+      "text": "campus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （大学）校园；大学，大学生活；校园内的草地"
+    },
+    {
+      "id": "it_c1_u1_13",
+      "text": "formal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 正式的社交活动；夜礼服；adj. 正式的；拘谨的；有条理的"
+    },
+    {
+      "id": "it_c1_u1_14",
+      "text": "anxious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 焦虑的；担忧的；渴望的；急切的"
+    },
+    {
+      "id": "it_c1_u1_15",
+      "text": "annoyed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 使烦恼；打扰（annoy的过去分词）；adj. 恼怒的；烦闷的"
+    },
+    {
+      "id": "it_c1_u1_16",
+      "text": "annoy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烦恼（等于annoyance）；vt. 骚扰；惹恼；打搅；vi. 惹恼；令人讨厌；打搅"
+    },
+    {
+      "id": "it_c1_u1_17",
+      "text": "frightened",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 害怕；使吃惊；吓走（frighten的过去分词）；adj. 害怕的；受惊的；受恐吓的"
+    },
+    {
+      "id": "it_c1_u1_18",
+      "text": "p.m.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. (=prime minister)总理；首相；午后；n. 总理（全写为 prime minister）"
+    },
+    {
+      "id": "it_c1_u1_19",
+      "text": "a.m.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 上午，午前（ante meridiem）"
+    },
+    {
+      "id": "it_c1_u1_20",
+      "text": "senior",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 上司；较年长者；毕业班学生；adj. 高级的；年长的；地位较高的；年资较深的，资格较老的"
+    },
+    {
+      "id": "it_c1_u1_21",
+      "text": "senior high school",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （美国）高中"
+    },
+    {
+      "id": "it_c1_u1_22",
+      "text": "at last",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 终于"
+    },
+    {
+      "id": "it_c1_u1_23",
+      "text": "outgoing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 对人友好的，开朗的；出发的，外出的；即将离职的；乐于助人的；n. 外出；流出；开支；v. 超过；优于（outgo的ing形式）"
+    },
+    {
+      "id": "it_c1_u1_24",
+      "text": "impression",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 印象；效果，影响；压痕，印记；感想；曝光（衡量广告被显示的次数。打开一个带有该广告的网页，则该广告的impression 次数增加一次）"
+    },
+    {
+      "id": "it_c1_u1_25",
+      "text": "impress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 印象，印记；特征，痕迹；vi. 给人印象；vt. 盖印；强征；传送；给予某人深刻印象"
+    },
+    {
+      "id": "it_c1_u1_26",
+      "text": "make an impression",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "留下印象；留给她印象；给人留下…的印象"
+    },
+    {
+      "id": "it_c1_u1_27",
+      "text": "what if",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 应如何"
+    },
+    {
+      "id": "it_c1_u1_28",
+      "text": "guy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 男人，家伙；vt. 嘲弄，取笑；vi. 逃跑"
+    },
+    {
+      "id": "it_c1_u1_29",
+      "text": "concentrate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 浓缩，精选；浓缩液；vi. 集中；浓缩；全神贯注；聚集；vt. 集中；浓缩"
+    },
+    {
+      "id": "it_c1_u1_30",
+      "text": "concentrate on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 集中在；专心于"
+    },
+    {
+      "id": "it_c1_u1_31",
+      "text": "experiment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 实验，试验；尝试；vi. 尝试；进行实验"
+    },
+    {
+      "id": "it_c1_u1_32",
+      "text": "leave ... alone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 丢下不管；不要管"
+    },
+    {
+      "id": "it_c1_u1_33",
+      "text": "awkward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 尴尬的；笨拙的；棘手的；不合适的"
+    },
+    {
+      "id": "it_c1_u1_34",
+      "text": "junior",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 年少的；后进的；下级的；n. 年少者，晚辈；地位较低者；大学三年"
+    },
+    {
+      "id": "it_c1_u1_35",
+      "text": "junior high school",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （美国）初级中学"
+    },
+    {
+      "id": "it_c1_u1_36",
+      "text": "explore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 探索；探测；探险；vt. 探索；探测；探险"
+    },
+    {
+      "id": "it_c1_u1_37",
+      "text": "confident",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 自信的；确信的"
+    },
+    {
+      "id": "it_c1_u1_38",
+      "text": "confidence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 信心；信任；秘密；adj. （美）诈骗的；骗得信任的"
+    },
+    {
+      "id": "it_c1_u1_39",
+      "text": "forward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 前锋；adj. 向前的；早的；迅速的；adv. 向前地；向将来；vt. 促进；转寄；运送"
+    },
+    {
+      "id": "it_c1_u1_40",
+      "text": "forwards",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 向前；今后"
+    },
+    {
+      "id": "it_c1_u1_41",
+      "text": "look forward to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 盼望"
+    },
+    {
+      "id": "it_c1_u1_42",
+      "text": "take notes",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 做记录"
+    },
+    {
+      "id": "it_c1_u1_43",
+      "text": "flash",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 闪光，闪现；一瞬间；adj. 闪光的，火速的；vt. 使闪光；反射；vi. 闪光，闪现；反射"
+    },
+    {
+      "id": "it_c1_u1_44",
+      "text": "flash card",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【教】抽认卡；【IT】闪存卡"
+    },
+    {
+      "id": "it_c1_u1_45",
+      "text": "organise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 组织起来；组织工会；vt. 组织（等于organize）；有机化；给予生机"
+    },
+    {
+      "id": "it_c1_u1_46",
+      "text": "organize",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 组织；使有系统化；给予生机；组织成立工会等；vi. 组织起来；成立组织"
+    },
+    {
+      "id": "it_c1_u1_47",
+      "text": "organisation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 组织；团体（等于organization）"
+    },
+    {
+      "id": "it_c1_u1_48",
+      "text": "organization",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 组织；机构；体制；团体"
+    },
+    {
+      "id": "it_c1_u1_49",
+      "text": "goal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 目标；球门，得分数；终点；vi. 攻门，射门得分"
+    },
+    {
+      "id": "it_c1_u1_50",
+      "text": "strategy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 战略，策略"
+    },
+    {
+      "id": "it_c1_u1_51",
+      "text": "partner",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 伙伴；合伙人；配偶；vt. 使合作；与…合伙；vi. 合伙；合股；成为搭档"
+    },
+    {
+      "id": "it_c1_u1_52",
+      "text": "improve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 改善，增进；提高…的价值；vi. 增加；变得更好"
+    },
+    {
+      "id": "it_c1_u1_53",
+      "text": "curious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 好奇的，有求知欲的；古怪的；爱挑剔的"
+    },
+    {
+      "id": "it_c1_u1_54",
+      "text": "company",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 公司；陪伴，同伴；连队；vt. 陪伴；vi. 交往"
+    },
+    {
+      "id": "it_c1_u1_55",
+      "text": "personality",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 个性；品格；名人"
+    },
+    {
+      "id": "it_c1_u1_56",
+      "text": "style",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 风格；时尚；类型；字体；vt. 设计；称呼；使合潮流；vi. 设计式样；用刻刀作装饰画"
+    },
+    {
+      "id": "it_c1_u1_57",
+      "text": "revise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 修订；校订；vi. 修订；校订；复习功课；vt. 修正；复习；校订"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

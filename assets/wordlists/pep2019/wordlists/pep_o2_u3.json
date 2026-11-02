@@ -1,0 +1,772 @@
+{
+  "schema": 1,
+  "id": "pep_o2_u3",
+  "name": "人教版选择性必修第二册 · Unit 3",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o2_u3_1",
+      "text": "in summary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 扼要"
+    },
+    {
+      "id": "it_o2_u3_2",
+      "text": "generally speaking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 一般地说；一般地说来"
+    },
+    {
+      "id": "it_o2_u3_3",
+      "text": "outcome",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 结果，结局；成果"
+    },
+    {
+      "id": "it_o2_u3_4",
+      "text": "Rome",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罗马（意大利首都）"
+    },
+    {
+      "id": "it_o2_u3_5",
+      "text": "Aisha",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "艾莎；阿以莎（女子名）"
+    },
+    {
+      "id": "it_o2_u3_6",
+      "text": "the Belt and Road Initiative",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u3_7",
+      "text": "cuisine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烹饪，烹调法"
+    },
+    {
+      "id": "it_o2_u3_8",
+      "text": "prior",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 优先的；在先的，在前的；adv. 在前，居先"
+    },
+    {
+      "id": "it_o2_u3_9",
+      "text": "prior to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 前于"
+    },
+    {
+      "id": "it_o2_u3_10",
+      "text": "consist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 由…组成；在于；符合"
+    },
+    {
+      "id": "it_o2_u3_11",
+      "text": "consist of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 由…合成"
+    },
+    {
+      "id": "it_o2_u3_12",
+      "text": "pepper",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 胡椒；辣椒；胡椒粉；vt. 加胡椒粉于；使布满"
+    },
+    {
+      "id": "it_o2_u3_13",
+      "text": "recipe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 食谱；[临床] 处方；秘诀；烹饪法"
+    },
+    {
+      "id": "it_o2_u3_14",
+      "text": "bold",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 大胆的，英勇的；黑体的；厚颜无耻的；险峻的"
+    },
+    {
+      "id": "it_o2_u3_15",
+      "text": "chef",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 厨师，大师傅"
+    },
+    {
+      "id": "it_o2_u3_16",
+      "text": "peppercorn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 干胡椒；象征性租金；空有其名的象征性房租"
+    },
+    {
+      "id": "it_o2_u3_17",
+      "text": "vinegar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 醋"
+    },
+    {
+      "id": "it_o2_u3_18",
+      "text": "stuff",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 东西；材料；填充物；素材资料；vt. 塞满；填塞；让吃饱；vi. 吃得过多"
+    },
+    {
+      "id": "it_o2_u3_19",
+      "text": "slice",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 薄片；部分；菜刀，火铲；vt. 切下；把…分成部分；将…切成薄片；vi. 切开；割破"
+    },
+    {
+      "id": "it_o2_u3_20",
+      "text": "slice ... off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 切开"
+    },
+    {
+      "id": "it_o2_u3_21",
+      "text": "onion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洋葱；洋葱头"
+    },
+    {
+      "id": "it_o2_u3_22",
+      "text": "lamb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 羔羊，小羊；羔羊肉；vt. 生小羊，产羔羊；vi. 生小羊，产羔羊"
+    },
+    {
+      "id": "it_o2_u3_23",
+      "text": "lamb kebab",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u3_24",
+      "text": "elegant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 高雅的，优雅的；讲究的；简炼的；简洁的"
+    },
+    {
+      "id": "it_o2_u3_25",
+      "text": "dim sum",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【食】点心"
+    },
+    {
+      "id": "it_o2_u3_26",
+      "text": "exceptional",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 超常的学生；adj. 异常的，例外的"
+    },
+    {
+      "id": "it_o2_u3_27",
+      "text": "minimum",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 最小值；最低限度；最小化；最小量；adj. 最小的；最低的"
+    },
+    {
+      "id": "it_o2_u3_28",
+      "text": "consume",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 消耗，消费；使…着迷；挥霍；vi. 耗尽，毁灭；耗尽生命"
+    },
+    {
+      "id": "it_o2_u3_29",
+      "text": "temper",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 脾气；（钢等）回火；性情；倾向；vt. 使回火；锻炼；调和；使缓和；vi. 回火；调和"
+    },
+    {
+      "id": "it_o2_u3_30",
+      "text": "vegetarian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 素食者；食草动物；adj. 素食的"
+    },
+    {
+      "id": "it_o2_u3_31",
+      "text": "junk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 垃圾，废物；舢板"
+    },
+    {
+      "id": "it_o2_u3_32",
+      "text": "junk food",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 垃圾食品"
+    },
+    {
+      "id": "it_o2_u3_33",
+      "text": "garlic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大蒜；蒜头"
+    },
+    {
+      "id": "it_o2_u3_34",
+      "text": "bacon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 咸肉；腌肉；熏猪肉"
+    },
+    {
+      "id": "it_o2_u3_35",
+      "text": "ham",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 过火的；做作的；vi. 表演过火；vt. 演得过火；n. 火腿；业余无线电爱好者；蹩脚演员"
+    },
+    {
+      "id": "it_o2_u3_36",
+      "text": "sausage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 香肠；腊肠；装香肠的碎肉"
+    },
+    {
+      "id": "it_o2_u3_37",
+      "text": "cabbage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 卷心菜，甘蓝菜，洋白菜；（俚)脑袋；（非正式、侮辱）植物人（常用于英式英语）；（俚）钱，尤指纸币（常用于美式俚语）"
+    },
+    {
+      "id": "it_o2_u3_38",
+      "text": "bean curd",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 豆腐"
+    },
+    {
+      "id": "it_o2_u3_39",
+      "text": "tofu",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 豆腐"
+    },
+    {
+      "id": "it_o2_u3_40",
+      "text": "brand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 商标，牌子；烙印；vt. 铭刻于，铭记；打烙印于；印…商标于"
+    },
+    {
+      "id": "it_o2_u3_41",
+      "text": "olive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 橄榄；橄榄树；橄榄色；adj. 橄榄的；橄榄色的"
+    },
+    {
+      "id": "it_o2_u3_42",
+      "text": "fig",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 无花果；无花果树；少许，一些；无价值的东西；服装；vt. 打扮；使马跑快"
+    },
+    {
+      "id": "it_o2_u3_43",
+      "text": "ingredient",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 原料；要素；组成部分；adj. 构成组成部分的"
+    },
+    {
+      "id": "it_o2_u3_44",
+      "text": "dessert",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 餐后甜点；甜点心"
+    },
+    {
+      "id": "it_o2_u3_45",
+      "text": "dough",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 生面团；金钱"
+    },
+    {
+      "id": "it_o2_u3_46",
+      "text": "stable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 马厩；牛棚；adj. 稳定的；牢固的；坚定的；vt. 赶入马房；vi. 被关在马厩"
+    },
+    {
+      "id": "it_o2_u3_47",
+      "text": "haggis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （苏格兰）肉馅羊肚；羊肉杂碎布丁"
+    },
+    {
+      "id": "it_o2_u3_48",
+      "text": "canteen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 食堂，小卖部；水壶"
+    },
+    {
+      "id": "it_o2_u3_49",
+      "text": "cafeteria",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 自助餐厅"
+    },
+    {
+      "id": "it_o2_u3_50",
+      "text": "bun",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小圆面包；屁股；圆髻"
+    },
+    {
+      "id": "it_o2_u3_51",
+      "text": "chilli",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 红辣椒"
+    },
+    {
+      "id": "it_o2_u3_52",
+      "text": "pork",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 猪肉；vt. 与女子性交"
+    },
+    {
+      "id": "it_o2_u3_53",
+      "text": "red braised pork",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u3_54",
+      "text": "pearl",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 珍珠；珍珠色；杰出者；珍品；adj. 镶珍珠的；珍珠状的；vt. 使成珠状；用珍珠装饰；使呈珍珠色；vi. 采珍珠；成珍珠状"
+    },
+    {
+      "id": "it_o2_u3_55",
+      "text": "somewhat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 几分；某物；adv. 有点；多少；几分；稍微"
+    },
+    {
+      "id": "it_o2_u3_56",
+      "text": "madam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 夫人；女士；鸨母"
+    },
+    {
+      "id": "it_o2_u3_57",
+      "text": "calorie",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 卡路里（热量单位）"
+    },
+    {
+      "id": "it_o2_u3_58",
+      "text": "association",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 协会，联盟，社团；联合；联想"
+    },
+    {
+      "id": "it_o2_u3_59",
+      "text": "regardless",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不管的；不顾的；不注意的；adv. 不顾后果地；不管怎样，无论如何；不惜费用地"
+    },
+    {
+      "id": "it_o2_u3_60",
+      "text": "regardless of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 不管；不顾；不理会"
+    },
+    {
+      "id": "it_o2_u3_61",
+      "text": "category",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 种类，分类；[数] 范畴"
+    },
+    {
+      "id": "it_o2_u3_62",
+      "text": "vitamin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [生化] 维生素；[生化] 维他命"
+    },
+    {
+      "id": "it_o2_u3_63",
+      "text": "fibre",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 纤维；纤维制品"
+    },
+    {
+      "id": "it_o2_u3_64",
+      "text": "quantity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 量，数量；大量；总量"
+    },
+    {
+      "id": "it_o2_u3_65",
+      "text": "dairy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奶制品；乳牛；制酪场；乳品店；牛奶及乳品业；adj. 乳品的；牛奶的；牛奶制的；产乳的"
+    },
+    {
+      "id": "it_o2_u3_66",
+      "text": "moderation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 适度；节制；温和；缓和"
+    },
+    {
+      "id": "it_o2_u3_67",
+      "text": "ideal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 理想；典范；adj. 理想的；完美的；想象的；不切实际的"
+    },
+    {
+      "id": "it_o2_u3_68",
+      "text": "fundamental",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 基本原理；基本原则；adj. 基本的，根本的"
+    },
+    {
+      "id": "it_o2_u3_69",
+      "text": "chew",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 咀嚼；咀嚼物；vi. 细想，深思；vt. 嚼碎，咀嚼"
+    },
+    {
+      "id": "it_o2_u3_70",
+      "text": "consistent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 始终如一的，一致的；坚持的"
+    },
+    {
+      "id": "it_o2_u3_71",
+      "text": "modest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 谦虚的，谦逊的；适度的；端庄的；羞怯的"
+    },
+    {
+      "id": "it_o2_u3_72",
+      "text": "trick",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 诡计；恶作剧；窍门；花招；骗局；欺诈；adj. 特技的；欺诈的；有决窍的；vt. 欺骗；哄骗；装饰；打扮；vi. 哄骗；戏弄"
+    },
+    {
+      "id": "it_o2_u3_73",
+      "text": "overall",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 全部的；全体的；一切在内的；adv. 全部地；总的说来；n. 工装裤；罩衫"
+    },
+    {
+      "id": "it_o2_u3_74",
+      "text": "Kazak",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 哈萨克族；哈萨克人"
+    },
+    {
+      "id": "it_o2_u3_75",
+      "text": "airline",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航空公司；航线；adj. 航线的"
+    },
+    {
+      "id": "it_o2_u3_76",
+      "text": "bay",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海湾；狗吠声；vt. 向…吠叫；vi. 吠叫；大声叫嚷"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

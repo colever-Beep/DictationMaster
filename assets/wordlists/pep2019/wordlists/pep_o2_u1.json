@@ -1,0 +1,782 @@
+{
+  "schema": 1,
+  "id": "pep_o2_u1",
+  "name": "人教版选择性必修第二册 · Unit 1",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o2_u1_1",
+      "text": "cholera",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [内科] 霍乱"
+    },
+    {
+      "id": "it_o2_u1_2",
+      "text": "severe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 严峻的；严厉的；剧烈的；苛刻的"
+    },
+    {
+      "id": "it_o2_u1_3",
+      "text": "diarrhoea",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 腹泻"
+    },
+    {
+      "id": "it_o2_u1_4",
+      "text": "dehydration",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 脱水"
+    },
+    {
+      "id": "it_o2_u1_5",
+      "text": "frustrated",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 挫败；阻挠（frustrate的过去式和过去分词形式）；adj. 失意的，挫败的；泄气的"
+    },
+    {
+      "id": "it_o2_u1_6",
+      "text": "once and for all",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "ph. 一劳永逸地"
+    },
+    {
+      "id": "it_o2_u1_7",
+      "text": "contradictory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 对立物；矛盾因素；adj. 矛盾的；反对的；反驳的；抗辩的"
+    },
+    {
+      "id": "it_o2_u1_8",
+      "text": "infection",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 感染；传染；影响；传染病"
+    },
+    {
+      "id": "it_o2_u1_9",
+      "text": "infect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 感染，传染"
+    },
+    {
+      "id": "it_o2_u1_10",
+      "text": "germ",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [植] 胚芽，萌芽；细菌；vi. 萌芽"
+    },
+    {
+      "id": "it_o2_u1_11",
+      "text": "subscribe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 签署；赞成；捐助；vi. 订阅；捐款；认购；赞成；签署"
+    },
+    {
+      "id": "it_o2_u1_12",
+      "text": "subscribe to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 同意；赞成；订阅；定期捐款"
+    },
+    {
+      "id": "it_o2_u1_13",
+      "text": "proof",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 证明；证据；校样；考验；验证；试验；adj. 防…的；不能透入的；证明用的；耐…的；vt. 试验；校对；使不被穿透"
+    },
+    {
+      "id": "it_o2_u1_14",
+      "text": "multiple",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 多重的；多样的；许多的；n. 倍数；[电] 并联"
+    },
+    {
+      "id": "it_o2_u1_15",
+      "text": "pump",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 泵，抽水机；打气筒；vt. 打气；用抽水机抽…；vi. 抽水"
+    },
+    {
+      "id": "it_o2_u1_16",
+      "text": "water pump",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 水泵"
+    },
+    {
+      "id": "it_o2_u1_17",
+      "text": "household",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 全家人，一家人；(包括佣工在内的)家庭，户；adj. 家庭的；日常的；王室的"
+    },
+    {
+      "id": "it_o2_u1_18",
+      "text": "suspect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 嫌疑犯；adj. 可疑的；不可信的；vi. 怀疑；猜想；vt. 怀疑；猜想"
+    },
+    {
+      "id": "it_o2_u1_19",
+      "text": "blame",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 责备；责任；过失；vt. 责备；归咎于"
+    },
+    {
+      "id": "it_o2_u1_20",
+      "text": "handle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [建] 把手；柄；手感；口实；vt. 处理；操作；运用；买卖；触摸；vi. 搬运；易于操纵"
+    },
+    {
+      "id": "it_o2_u1_21",
+      "text": "intervention",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 介入；调停；妨碍"
+    },
+    {
+      "id": "it_o2_u1_22",
+      "text": "link",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计] 链环，环节；联系，关系；vt. 连接，连结；联合，结合；vi. 连接起来；联系在一起；将人或物连接或联系起来"
+    },
+    {
+      "id": "it_o2_u1_23",
+      "text": "raw",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 擦伤处；adj. 生的；未加工的；阴冷的；刺痛的；擦掉皮的；无经验的；（在艺术等方面）不成熟的；vt. 擦伤"
+    },
+    {
+      "id": "it_o2_u1_24",
+      "text": "pure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 纯的；纯粹的；纯洁的；清白的；纯理论的"
+    },
+    {
+      "id": "it_o2_u1_25",
+      "text": "substantial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 本质；重要材料；adj. 大量的；实质的；内容充实的"
+    },
+    {
+      "id": "it_o2_u1_26",
+      "text": "decrease",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 减少，减小；减少量；vt. 减少，减小；vi. 减少，减小"
+    },
+    {
+      "id": "it_o2_u1_27",
+      "text": "thanks to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 感谢；幸亏；多亏"
+    },
+    {
+      "id": "it_o2_u1_28",
+      "text": "statistic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 统计数值；adj. 统计的，统计学的"
+    },
+    {
+      "id": "it_o2_u1_29",
+      "text": "transform",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 改变，使…变形；转换；vi. 变换，改变；转化"
+    },
+    {
+      "id": "it_o2_u1_30",
+      "text": "epidemiology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 流行病学；传染病学"
+    },
+    {
+      "id": "it_o2_u1_31",
+      "text": "microscope",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 显微镜"
+    },
+    {
+      "id": "it_o2_u1_32",
+      "text": "thinking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 思考；思想；想法；意见；见解；v. 思考"
+    },
+    {
+      "id": "it_o2_u1_33",
+      "text": "protein",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蛋白质；朊；adj. 蛋白质的"
+    },
+    {
+      "id": "it_o2_u1_34",
+      "text": "cell",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 细胞；电池；蜂房的巢室；单人小室；vi. 住在牢房或小室中"
+    },
+    {
+      "id": "it_o2_u1_35",
+      "text": "virus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [病毒] 病毒；恶毒；毒害"
+    },
+    {
+      "id": "it_o2_u1_36",
+      "text": "finding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 发现；裁决；发现物；v. 找到；感到（find的ing形式）；遇到"
+    },
+    {
+      "id": "it_o2_u1_37",
+      "text": "initial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 词首大写字母；adj. 最初的；字首的；vt. 用姓名的首字母签名"
+    },
+    {
+      "id": "it_o2_u1_38",
+      "text": "vaccine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 疫苗；牛痘苗；adj. 疫苗的；牛痘的"
+    },
+    {
+      "id": "it_o2_u1_39",
+      "text": "framework",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 框架，骨架；结构，构架"
+    },
+    {
+      "id": "it_o2_u1_40",
+      "text": "theoretical framework",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "理论架构；理论框架；理论体系"
+    },
+    {
+      "id": "it_o2_u1_41",
+      "text": "solid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 固体；立方体；adj. 固体的；可靠的；立体的；结实的；一致的"
+    },
+    {
+      "id": "it_o2_u1_42",
+      "text": "cast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 投掷，抛；铸件，[古生] 铸型；演员阵容；脱落物；vt. 投，抛；计算；浇铸；投射（光、影、视线等）；vi. 投，抛垂钓鱼钩；计算，把几个数字加起来"
+    },
+    {
+      "id": "it_o2_u1_43",
+      "text": "shadow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 阴影；影子；幽灵；庇护；隐蔽处；adj. 影子内阁的；vt. 遮蔽；使朦胧；尾随；预示；vi. 渐变；变阴暗"
+    },
+    {
+      "id": "it_o2_u1_44",
+      "text": "rainbow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 彩虹；五彩缤纷的排列；幻想；adj. 五彩缤纷的；彩虹状的；vt. 使呈彩虹状；如彩虹般装饰；vi. 呈彩虹状"
+    },
+    {
+      "id": "it_o2_u1_45",
+      "text": "pour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 倾泻；流出；骤雨；vt. 灌，注；倒；倾泻；倾吐；vi. 倾泻；涌流；斟茶"
+    },
+    {
+      "id": "it_o2_u1_46",
+      "text": "concrete",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 具体物；凝结物；adj. 混凝土的；实在的，具体的；有形的；vt. 使凝固；用混凝土修筑；vi. 凝结"
+    },
+    {
+      "id": "it_o2_u1_47",
+      "text": "plasma",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [等离子] 等离子体；血浆；[矿物] 深绿玉髓"
+    },
+    {
+      "id": "it_o2_u1_48",
+      "text": "aerospace",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航空宇宙；[航] 航空航天空间"
+    },
+    {
+      "id": "it_o2_u1_49",
+      "text": "patriotic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 爱国的"
+    },
+    {
+      "id": "it_o2_u1_50",
+      "text": "mechanical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 机械的；力学的；呆板的；无意识的；手工操作的"
+    },
+    {
+      "id": "it_o2_u1_51",
+      "text": "mechanic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 技工，机修工；adj. 手工的"
+    },
+    {
+      "id": "it_o2_u1_52",
+      "text": "break out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 起；(战争等)突发；(囚犯等)逃脱；【航】起(锚)"
+    },
+    {
+      "id": "it_o2_u1_53",
+      "text": "aviation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航空；飞行术；飞机制造业"
+    },
+    {
+      "id": "it_o2_u1_54",
+      "text": "defend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 保卫；防守；vt. 辩护；防护"
+    },
+    {
+      "id": "it_o2_u1_55",
+      "text": "jet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喷射，喷嘴；喷气式飞机；黑玉；adj. 墨黑的；vt. 射出；vi. 射出；[航] 乘喷气式飞机"
+    },
+    {
+      "id": "it_o2_u1_56",
+      "text": "assistant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 助手，助理，助教；adj. 辅助的，助理的；有帮助的"
+    },
+    {
+      "id": "it_o2_u1_57",
+      "text": "in charge of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 受托…的"
+    },
+    {
+      "id": "it_o2_u1_58",
+      "text": "missile",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 导弹；投射物；adj. 导弹的；可投掷的；用以发射导弹的"
+    },
+    {
+      "id": "it_o2_u1_59",
+      "text": "leadership",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 领导能力；领导阶层"
+    },
+    {
+      "id": "it_o2_u1_60",
+      "text": "trace",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 痕迹，踪迹；微量；[仪] 迹线；缰绳；vt. 追踪，查探；描绘；回溯；vi. 追溯；沿路走"
+    },
+    {
+      "id": "it_o2_u1_61",
+      "text": "outstanding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 杰出的；显著的；未解决的；未偿付的；n. 未偿贷款"
+    },
+    {
+      "id": "it_o2_u1_62",
+      "text": "gifted",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有天赋的；有才华的；v. 给予（gift的过去分词）"
+    },
+    {
+      "id": "it_o2_u1_63",
+      "text": "come down",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 败落；退步；(飞机的)下降"
+    },
+    {
+      "id": "it_o2_u1_64",
+      "text": "abstract",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摘要；抽象；抽象的概念；adj. 抽象的；深奥的；vt. 摘要；提取；使……抽象化；转移(注意力、兴趣等)；使心不在焉；vi. 做摘要；写梗概"
+    },
+    {
+      "id": "it_o2_u1_65",
+      "text": "steady",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 关系固定的情侣；固定支架；adj. 稳定的；不变的；沉着的；vt. 使稳定；稳固；使坚定；adv. 稳定地；稳固地；vi. 稳固"
+    },
+    {
+      "id": "it_o2_u1_66",
+      "text": "concept",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 观念，概念"
+    },
+    {
+      "id": "it_o2_u1_67",
+      "text": "astronomer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 天文学家"
+    },
+    {
+      "id": "it_o2_u1_68",
+      "text": "astronomy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 天文学"
+    },
+    {
+      "id": "it_o2_u1_69",
+      "text": "telescope",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 望远镜；缩叠式旅行袋；vi. 套叠；变短；vt. 压缩；使套叠"
+    },
+    {
+      "id": "it_o2_u1_70",
+      "text": "besides",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 除…之外；adv. 此外；而且"
+    },
+    {
+      "id": "it_o2_u1_71",
+      "text": "brilliant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 灿烂的，闪耀的；杰出的；有才气的；精彩的，绝妙的"
+    },
+    {
+      "id": "it_o2_u1_72",
+      "text": "furthermore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 此外；而且"
+    },
+    {
+      "id": "it_o2_u1_73",
+      "text": "above all",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 最主要的；最重要的是"
+    },
+    {
+      "id": "it_o2_u1_74",
+      "text": "fault",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 故障；[地质] 断层；错误；缺点；毛病；（网球等）发球失误；vt. （通常用于疑问句或否定句）挑剔；vi. 弄错；产生断层"
+    },
+    {
+      "id": "it_o2_u1_75",
+      "text": "shift",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 移动；变化；手段；轮班；vt. 转移；改变；替换；vi. 移动；转变；转换"
+    },
+    {
+      "id": "it_o2_u1_76",
+      "text": "vivid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 生动的；鲜明的；鲜艳的"
+    },
+    {
+      "id": "it_o2_u1_77",
+      "text": "Queen Victoria",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 维多利亚女王"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

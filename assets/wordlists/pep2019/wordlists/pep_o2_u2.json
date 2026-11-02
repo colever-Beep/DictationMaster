@@ -1,0 +1,782 @@
+{
+  "schema": 1,
+  "id": "pep_o2_u2",
+  "name": "人教版选择性必修第二册 · Unit 2",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o2_u2_1",
+      "text": "Cambridge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 剑桥（英国城市）；坎布里奇（美国马萨诸塞州城市）"
+    },
+    {
+      "id": "it_o2_u2_2",
+      "text": "non-Newtonian fluid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "非牛顿流体；非牛顿型流体；非牛顿液"
+    },
+    {
+      "id": "it_o2_u2_3",
+      "text": "the Jet Propulsion Laboratory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u2_4",
+      "text": "Stephen Hawking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "霍金；物理学家霍金；史蒂芬霍金"
+    },
+    {
+      "id": "it_o2_u2_5",
+      "text": "the big bang theory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "生活大爆炸；天才理论传；宅男行不行"
+    },
+    {
+      "id": "it_o2_u2_6",
+      "text": "Fred Hoyle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "弗雷德·霍伊尔"
+    },
+    {
+      "id": "it_o2_u2_7",
+      "text": "complex",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 复合体；综合设施；adj. 复杂的；合成的"
+    },
+    {
+      "id": "it_o2_u2_8",
+      "text": "recall",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 召回；回忆；撤消；vt. 召回；回想起，记起；取消"
+    },
+    {
+      "id": "it_o2_u2_9",
+      "text": "qualification",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 资格；条件；限制；赋予资格"
+    },
+    {
+      "id": "it_o2_u2_10",
+      "text": "qualify",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 取得资格，有资格；vt. 限制；使具有资格；证明…合格"
+    },
+    {
+      "id": "it_o2_u2_11",
+      "text": "ambition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 野心，雄心；抱负，志向；vt. 追求；有…野心"
+    },
+    {
+      "id": "it_o2_u2_12",
+      "text": "ambitious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 野心勃勃的；有雄心的；热望的；炫耀的"
+    },
+    {
+      "id": "it_o2_u2_13",
+      "text": "adaptation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 适应；改编；改编本，改写本"
+    },
+    {
+      "id": "it_o2_u2_14",
+      "text": "comfort",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 安慰；舒适；安慰者；vt. 安慰；使（痛苦等）缓和"
+    },
+    {
+      "id": "it_o2_u2_15",
+      "text": "tutor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 导师；家庭教师；助教；vt. 辅导；约束；vi. 当家庭教师；（美）在家庭教师指导下学习"
+    },
+    {
+      "id": "it_o2_u2_16",
+      "text": "cite",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 引用；传讯；想起；表彰"
+    },
+    {
+      "id": "it_o2_u2_17",
+      "text": "participation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 参与；分享；参股"
+    },
+    {
+      "id": "it_o2_u2_18",
+      "text": "participate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 参与，参加；分享；vt. 分享；分担；[ 过去式participated 过去分词participated 现在分词participating ]"
+    },
+    {
+      "id": "it_o2_u2_19",
+      "text": "participate in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 参加；分享"
+    },
+    {
+      "id": "it_o2_u2_20",
+      "text": "presentation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 展示；描述，陈述；介绍；赠送"
+    },
+    {
+      "id": "it_o2_u2_21",
+      "text": "speak up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. “speak out”的变体"
+    },
+    {
+      "id": "it_o2_u2_22",
+      "text": "feel at home",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 舒松；“be/feel/look at home”的变体"
+    },
+    {
+      "id": "it_o2_u2_23",
+      "text": "engage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 从事；答应，保证；交战；啮合；vt. 吸引，占用；使参加；雇佣；使订婚；预定"
+    },
+    {
+      "id": "it_o2_u2_24",
+      "text": "engage in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 从事；参加"
+    },
+    {
+      "id": "it_o2_u2_25",
+      "text": "involve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 包含；牵涉；使陷于；潜心于"
+    },
+    {
+      "id": "it_o2_u2_26",
+      "text": "get involved in",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 〔兽医〕患病；参加"
+    },
+    {
+      "id": "it_o2_u2_27",
+      "text": "messenger",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 报信者，送信者；先驱"
+    },
+    {
+      "id": "it_o2_u2_28",
+      "text": "edition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 版本；版次；集"
+    },
+    {
+      "id": "it_o2_u2_29",
+      "text": "culture shock",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "文化冲击（突然处于一个与前大不相同的社会和文化环境中因而感到困惑、忧虑、烦恼的心情）"
+    },
+    {
+      "id": "it_o2_u2_30",
+      "text": "zone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "[地名] 地带、地区（德语）"
+    },
+    {
+      "id": "it_o2_u2_31",
+      "text": "comfort zone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 舒适区；最佳状态"
+    },
+    {
+      "id": "it_o2_u2_32",
+      "text": "overwhelming",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 压倒性的；势不可挡的；v. 压倒；淹没（overwhelm的ing形式）；制服"
+    },
+    {
+      "id": "it_o2_u2_33",
+      "text": "homesickness",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 乡愁"
+    },
+    {
+      "id": "it_o2_u2_34",
+      "text": "motivated",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有动机的；有积极性的；v. 使产生动机；激发…的积极性（motivate的过去式和过去分词）"
+    },
+    {
+      "id": "it_o2_u2_35",
+      "text": "motivation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 动机；积极性；推动"
+    },
+    {
+      "id": "it_o2_u2_36",
+      "text": "motivate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 刺激；使有动机；激发…的积极性"
+    },
+    {
+      "id": "it_o2_u2_37",
+      "text": "advisor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 顾问；指导教师；劝告者"
+    },
+    {
+      "id": "it_o2_u2_38",
+      "text": "reasonable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 合理的，公道的；通情达理的"
+    },
+    {
+      "id": "it_o2_u2_39",
+      "text": "expectation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 期待；预期；指望"
+    },
+    {
+      "id": "it_o2_u2_40",
+      "text": "applicant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 申请人，申请者；请求者"
+    },
+    {
+      "id": "it_o2_u2_41",
+      "text": "firm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 公司；商号；adj. 坚定的；牢固的；严格的；结实的；vt. 使坚定；使牢固；adv. 稳固地；vi. 变坚实；变稳固"
+    },
+    {
+      "id": "it_o2_u2_42",
+      "text": "exposure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 暴露；曝光；揭露；陈列"
+    },
+    {
+      "id": "it_o2_u2_43",
+      "text": "expose",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 揭露，揭发；使曝光；显示"
+    },
+    {
+      "id": "it_o2_u2_44",
+      "text": "insight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洞察力；洞悉"
+    },
+    {
+      "id": "it_o2_u2_45",
+      "text": "departure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 离开；出发；违背"
+    },
+    {
+      "id": "it_o2_u2_46",
+      "text": "setting",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 环境；安装；布置；[天] 沉落；v. 放置；沉没；使…处于某位置（set的ing形式）"
+    },
+    {
+      "id": "it_o2_u2_47",
+      "text": "grasp",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 抓住；理解；控制；vi. 抓；vt. 抓住；领会"
+    },
+    {
+      "id": "it_o2_u2_48",
+      "text": "dramatic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 戏剧的；急剧的；引人注目的；激动人心的"
+    },
+    {
+      "id": "it_o2_u2_49",
+      "text": "expense",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 损失，代价；消费；开支；vt. 向…收取费用；vi. 被花掉"
+    },
+    {
+      "id": "it_o2_u2_50",
+      "text": "cost an arm and a leg",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 使付出一大笔钱"
+    },
+    {
+      "id": "it_o2_u2_51",
+      "text": "tremendous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 极大的，巨大的；惊人的；极好的"
+    },
+    {
+      "id": "it_o2_u2_52",
+      "text": "behave",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 表现；（机器等）运转；举止端正；（事物）起某种作用；vt. 使守规矩；使表现得…"
+    },
+    {
+      "id": "it_o2_u2_53",
+      "text": "surroundings",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 环境；周围的事物"
+    },
+    {
+      "id": "it_o2_u2_54",
+      "text": "surrounding",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 环境，周围的事物；adj. 周围的，附近的"
+    },
+    {
+      "id": "it_o2_u2_55",
+      "text": "mature",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 成熟的；充分考虑的；到期的；成年人的；vi. 成熟；到期；vt. 使…成熟；使…长成；慎重作出"
+    },
+    {
+      "id": "it_o2_u2_56",
+      "text": "depressed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 沮丧的；萧条的；压低的；v. 使沮丧；使萧条（depress的过去式和过去分词形式）；压低"
+    },
+    {
+      "id": "it_o2_u2_57",
+      "text": "depress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 压抑；使沮丧；使萧条"
+    },
+    {
+      "id": "it_o2_u2_58",
+      "text": "boom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 繁荣；吊杆；隆隆声；vt. 使兴旺；发隆隆声；vi. 急速发展；发隆隆声"
+    },
+    {
+      "id": "it_o2_u2_59",
+      "text": "strengthen",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 加强；巩固；vi. 变强；变坚挺"
+    },
+    {
+      "id": "it_o2_u2_60",
+      "text": "deny",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 否认；拒绝；vt. 否定，否认；拒绝给予；拒绝…的要求"
+    },
+    {
+      "id": "it_o2_u2_61",
+      "text": "optimistic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 乐观的；乐观主义的"
+    },
+    {
+      "id": "it_o2_u2_62",
+      "text": "gain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 增加；利润；收获；vi. 增加；获利；vt. 获得；增加；赚到"
+    },
+    {
+      "id": "it_o2_u2_63",
+      "text": "perspective",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 观点；远景；透视图；adj. 透视的"
+    },
+    {
+      "id": "it_o2_u2_64",
+      "text": "competence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 能力，胜任；权限；作证能力；足以过舒适生活的收入"
+    },
+    {
+      "id": "it_o2_u2_65",
+      "text": "competent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 胜任的；有能力的；能干的；足够的"
+    },
+    {
+      "id": "it_o2_u2_66",
+      "text": "envoy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 使者；全权公使"
+    },
+    {
+      "id": "it_o2_u2_67",
+      "text": "cooperate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 合作，配合；协力"
+    },
+    {
+      "id": "it_o2_u2_68",
+      "text": "angle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 角度，角，方面；vi. 钓鱼；谋取"
+    },
+    {
+      "id": "it_o2_u2_69",
+      "text": "outlook",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 展望；观点；景色；vt. 比……好看；用目光压倒；vi. 朝外看"
+    },
+    {
+      "id": "it_o2_u2_70",
+      "text": "belt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 带；腰带；地带；vt. 用带子系住；用皮带抽打；vi. 猛击"
+    },
+    {
+      "id": "it_o2_u2_71",
+      "text": "initiative",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 主动权；首创精神；adj. 主动的；自发的；起始的"
+    },
+    {
+      "id": "it_o2_u2_72",
+      "text": "sincerely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 真诚地；由衷地，诚恳地"
+    },
+    {
+      "id": "it_o2_u2_73",
+      "text": "budget",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 预算，预算费；adj. 廉价的；vt. 安排，预定；把…编入预算；vi. 编预算，做预算"
+    },
+    {
+      "id": "it_o2_u2_74",
+      "text": "side with",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 援助；偏袒"
+    },
+    {
+      "id": "it_o2_u2_75",
+      "text": "logical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 合逻辑的，合理的；逻辑学的"
+    },
+    {
+      "id": "it_o2_u2_76",
+      "text": "as far as I know",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. (= so far as I know)就我所知"
+    },
+    {
+      "id": "it_o2_u2_77",
+      "text": "as far as I am concerned",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "就我而言；就个人而言；据我所知"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

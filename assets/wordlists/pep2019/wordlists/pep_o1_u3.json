@@ -1,0 +1,412 @@
+{
+  "schema": 1,
+  "id": "pep_o1_u3",
+  "name": "人教版选择性必修第一册 · Unit 3 Fascinating Parks",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o1_u3_1",
+      "text": "theme",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 主题；主旋律；题目；adj. 以奇想主题布置的"
+    },
+    {
+      "id": "it_o1_u3_2",
+      "text": "theme park",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 主题公园"
+    },
+    {
+      "id": "it_o1_u3_3",
+      "text": "roller coaster",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 过山车；〈比喻〉剧烈起伏(的事物)"
+    },
+    {
+      "id": "it_o1_u3_4",
+      "text": "incredible",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 难以置信的，惊人的"
+    },
+    {
+      "id": "it_o1_u3_5",
+      "text": "appeal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 呼吁，请求；吸引力，感染力；上诉；诉诸裁判；vt. 将…上诉，对…上诉；vi. 呼吁，恳求；上诉；诉诸，求助；有吸引力，迎合爱好；（体育比赛中）诉诸裁判"
+    },
+    {
+      "id": "it_o1_u3_6",
+      "text": "appeal to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 求助于；引起N"
+    },
+    {
+      "id": "it_o1_u3_7",
+      "text": "pirate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海盗；盗版；侵犯专利权者；vt. 掠夺；翻印；剽窃；vi. 做海盗；从事劫掠"
+    },
+    {
+      "id": "it_o1_u3_8",
+      "text": "adorable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 可爱的；可敬重的，值得崇拜的"
+    },
+    {
+      "id": "it_o1_u3_9",
+      "text": "wander",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 徘徊；漫步；迷路；离题；vt. 游荡，漫游"
+    },
+    {
+      "id": "it_o1_u3_10",
+      "text": "amusement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 消遣，娱乐；乐趣"
+    },
+    {
+      "id": "it_o1_u3_11",
+      "text": "amuse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 娱乐；消遣；使发笑；使愉快"
+    },
+    {
+      "id": "it_o1_u3_12",
+      "text": "enormous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 庞大的，巨大的；凶暴的，极恶的"
+    },
+    {
+      "id": "it_o1_u3_13",
+      "text": "swing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摇摆；摆动；秋千；音律；涨落；adj. 旋转的；悬挂的；强节奏爵士音乐的；vt. 使旋转；挥舞；悬挂；vi. 摇摆；转向；悬挂；大摇大摆地行走"
+    },
+    {
+      "id": "it_o1_u3_14",
+      "text": "swung",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 摇摆（swing的过去式和过去分词）"
+    },
+    {
+      "id": "it_o1_u3_15",
+      "text": "swung",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 摇摆（swing的过去式和过去分词）"
+    },
+    {
+      "id": "it_o1_u3_16",
+      "text": "iron",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 熨斗；烙铁；坚强；adj. 铁的；残酷的；刚强的；vt. 熨；用铁铸成；vi. 熨衣；烫平"
+    },
+    {
+      "id": "it_o1_u3_17",
+      "text": "fashion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 时尚；时装；样式；时髦人物；vt. 使用；改变；做成…的形状"
+    },
+    {
+      "id": "it_o1_u3_18",
+      "text": "rare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 稀有的；稀薄的；半熟的；adj. 杰出的；极度的；非常好的；adv. 非常；极其；vi. 用后腿站起；渴望"
+    },
+    {
+      "id": "it_o1_u3_19",
+      "text": "steam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蒸汽；精力；adj. 蒸汽的；vt. 蒸，散发；用蒸汽处理；vi. 蒸，冒水汽"
+    },
+    {
+      "id": "it_o1_u3_20",
+      "text": "superb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 极好的；华丽的；宏伟的"
+    },
+    {
+      "id": "it_o1_u3_21",
+      "text": "aquarium",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 水族馆；养鱼池；玻璃缸"
+    },
+    {
+      "id": "it_o1_u3_22",
+      "text": "up to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 干(着)；到；胜任；…的责任"
+    },
+    {
+      "id": "it_o1_u3_23",
+      "text": "polar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 极面；极线；adj. 极地的；两极的；正好相反的"
+    },
+    {
+      "id": "it_o1_u3_24",
+      "text": "upside down",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 颠倒；倒转；翻转"
+    },
+    {
+      "id": "it_o1_u3_25",
+      "text": "splendid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 辉煌的；灿烂的；极好的；杰出的"
+    },
+    {
+      "id": "it_o1_u3_26",
+      "text": "display",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 显示；炫耀；vt. 显示；表现；陈列；adj. 展览的；陈列用的；vi. [动] 作炫耀行为"
+    },
+    {
+      "id": "it_o1_u3_27",
+      "text": "appetite",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 食欲；嗜好"
+    },
+    {
+      "id": "it_o1_u3_28",
+      "text": "entertainment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 娱乐；消遣；款待"
+    },
+    {
+      "id": "it_o1_u3_29",
+      "text": "column",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 纵队，列；专栏；圆柱，柱形物"
+    },
+    {
+      "id": "it_o1_u3_30",
+      "text": "Sarek National Park",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "萨雷克国家公园；萨勒克国家公园；瑞典的萨勒克国家公园"
+    },
+    {
+      "id": "it_o1_u3_31",
+      "text": "Sweden",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 瑞典（欧洲国家）"
+    },
+    {
+      "id": "it_o1_u3_32",
+      "text": "the Arctic Circle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 北极圈"
+    },
+    {
+      "id": "it_o1_u3_33",
+      "text": "Siberian",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 西伯利亚（人）的；来自西伯利亚的"
+    },
+    {
+      "id": "it_o1_u3_34",
+      "text": "Dollywood",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "多莱坞"
+    },
+    {
+      "id": "it_o1_u3_35",
+      "text": "interaction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 相互作用；[数] 交互作用；n. 互动"
+    },
+    {
+      "id": "it_o1_u3_36",
+      "text": "vary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 变化；变异；违反；vt. 改变；使多样化；变奏"
+    },
+    {
+      "id": "it_o1_u3_37",
+      "text": "appropriate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 适当的；恰当的；合适的；vt. 占用，拨出"
+    },
+    {
+      "id": "it_o1_u3_38",
+      "text": "by contrast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 相比之下；作对比；与此相反"
+    },
+    {
+      "id": "it_o1_u3_39",
+      "text": "approve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 批准；赞成；满意；vt. 批准；赞成；为…提供证据"
+    },
+    {
+      "id": "it_o1_u3_40",
+      "text": "demonstrate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 证明；展示；论证；vi. 示威"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

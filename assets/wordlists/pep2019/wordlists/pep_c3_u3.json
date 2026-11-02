@@ -1,0 +1,832 @@
+{
+  "schema": 1,
+  "id": "pep_c3_u3",
+  "name": "人教版必修第三册 · Unit 3 Diverse Cultures",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c3_u3_1",
+      "text": "diverse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不同的；多种多样的；变化多的"
+    },
+    {
+      "id": "it_c3_u3_2",
+      "text": "diversity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 多样性；差异"
+    },
+    {
+      "id": "it_c3_u3_3",
+      "text": "fortune",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 财富；命运；运气；vt. 给予财富；vi. 偶然发生"
+    },
+    {
+      "id": "it_c3_u3_4",
+      "text": "fortune cookie",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 签饼（中国餐馆提供的薄脆饼，内有预测命运的小纸条）"
+    },
+    {
+      "id": "it_c3_u3_5",
+      "text": "gumbo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 秋葵；加有秋葵的浓汤；坚硬黏土；adj. 粘土的"
+    },
+    {
+      "id": "it_c3_u3_6",
+      "text": "nachos",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （墨西哥人食用的）烤干酪辣味玉米片（nacho的复数）"
+    },
+    {
+      "id": "it_c3_u3_7",
+      "text": "chip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [电子] 芯片；筹码；碎片；(食物的) 小片; 薄片；vt. 削，凿；削成碎片；vi. 剥落；碎裂"
+    },
+    {
+      "id": "it_c3_u3_8",
+      "text": "cheese",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [食品] 奶酪；干酪；要人；adj. 叛变的；胆小的；vt. 停止"
+    },
+    {
+      "id": "it_c3_u3_9",
+      "text": "spicy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 辛辣的；香的，多香料的；下流的"
+    },
+    {
+      "id": "it_c3_u3_10",
+      "text": "ethnic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 种族的；人种的"
+    },
+    {
+      "id": "it_c3_u3_11",
+      "text": "admit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 承认；容许；vt. 承认；准许进入；可容纳"
+    },
+    {
+      "id": "it_c3_u3_12",
+      "text": "definitely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 清楚地，当然；明确地，肯定地"
+    },
+    {
+      "id": "it_c3_u3_13",
+      "text": "occur",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 发生；出现；存在"
+    },
+    {
+      "id": "it_c3_u3_14",
+      "text": "downtown",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 市中心区；三分线以外；adj. 市中心的；adv. 往闹市区；在市区"
+    },
+    {
+      "id": "it_c3_u3_15",
+      "text": "mission",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 使命，任务；代表团；布道；vt. 派遣；向……传教"
+    },
+    {
+      "id": "it_c3_u3_16",
+      "text": "district",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 区域；地方；行政区"
+    },
+    {
+      "id": "it_c3_u3_17",
+      "text": "graffiti",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 墙上乱写乱画的东西（graffito的复数形式）"
+    },
+    {
+      "id": "it_c3_u3_18",
+      "text": "comic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 连环漫画；喜剧演员；滑稽人物；adj. 喜剧的；滑稽的；有趣的"
+    },
+    {
+      "id": "it_c3_u3_19",
+      "text": "afterwards",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 后来；然后"
+    },
+    {
+      "id": "it_c3_u3_20",
+      "text": "head to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "引至, 通到; 〈非正〉引出结果"
+    },
+    {
+      "id": "it_c3_u3_21",
+      "text": "historical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 历史的；史学的；基于史实的"
+    },
+    {
+      "id": "it_c3_u3_22",
+      "text": "seek",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 寻求；寻找；探索；搜索；vi. 寻找；探索；搜索"
+    },
+    {
+      "id": "it_c3_u3_23",
+      "text": "seek one's fortune",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 找出路"
+    },
+    {
+      "id": "it_c3_u3_24",
+      "text": "earn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 赚，赚得；获得，挣得；使得到；博得"
+    },
+    {
+      "id": "it_c3_u3_25",
+      "text": "earn a living",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "谋生；谋生或维持生活；赚钱谋生"
+    },
+    {
+      "id": "it_c3_u3_26",
+      "text": "immigrant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 移民，侨民；adj. 移民的；迁入的"
+    },
+    {
+      "id": "it_c3_u3_27",
+      "text": "select",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 被挑选者；精萃；adj. 精选的；挑选出来的；极好的；vt. 挑选；选拔；vi. 挑选"
+    },
+    {
+      "id": "it_c3_u3_28",
+      "text": "china",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 中国；n. china，瓷器；adj. 中国的；中国制造的；adj. china，瓷制的"
+    },
+    {
+      "id": "it_c3_u3_29",
+      "text": "jazz",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 爵士乐，爵士舞；喧闹；vi. 奏爵士乐，跳爵士舞；游荡；vt. 奏爵士乐；使活泼；adj. 爵士乐的；喧吵的"
+    },
+    {
+      "id": "it_c3_u3_30",
+      "text": "bar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 条，棒；酒吧；障碍；法庭；prep. 除……外；vt. 禁止；阻拦"
+    },
+    {
+      "id": "it_c3_u3_31",
+      "text": "diagram",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 图表；图解；vt. 用图解法表示"
+    },
+    {
+      "id": "it_c3_u3_32",
+      "text": "journal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 日报，杂志；日记；分类账"
+    },
+    {
+      "id": "it_c3_u3_33",
+      "text": "claim",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 要求；声称；索赔；断言；值得；vt. 要求；声称；需要；认领；vi. 提出要求"
+    },
+    {
+      "id": "it_c3_u3_34",
+      "text": "series",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 系列，连续；[电] 串联；级数；丛书"
+    },
+    {
+      "id": "it_c3_u3_35",
+      "text": "series of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "系列分类；系列类；舞步"
+    },
+    {
+      "id": "it_c3_u3_36",
+      "text": "apart from",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 除了…外（都）；要不是；除了…外（还）；此外"
+    },
+    {
+      "id": "it_c3_u3_37",
+      "text": "minority",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 少数民族；少数派；未成年；adj. 少数的；属于少数派的"
+    },
+    {
+      "id": "it_c3_u3_38",
+      "text": "escape",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 逃跑；逃亡；逃走；逃跑工具或方法；野生种；泄漏；vi. 逃脱；避开；溜走；（气体，液体等）漏出；（未受伤或只受了一点伤害而）逃脱；声音（不自觉地）由…发出；vt. 逃避，避开，避免；被忘掉；被忽视"
+    },
+    {
+      "id": "it_c3_u3_39",
+      "text": "bring about",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 造成；带来；【航】(使船)回转"
+    },
+    {
+      "id": "it_c3_u3_40",
+      "text": "Atlantic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大西洋；adj. 大西洋的"
+    },
+    {
+      "id": "it_c3_u3_41",
+      "text": "financial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 金融的；财政的，财务的"
+    },
+    {
+      "id": "it_c3_u3_42",
+      "text": "poetry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 诗；诗意，诗情；诗歌艺术"
+    },
+    {
+      "id": "it_c3_u3_43",
+      "text": "jeans",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 牛仔裤；工装裤"
+    },
+    {
+      "id": "it_c3_u3_44",
+      "text": "boot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 靴子；踢；汽车行李箱；vt. 引导；踢；解雇；使穿靴"
+    },
+    {
+      "id": "it_c3_u3_45",
+      "text": "mushroom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蘑菇，伞菌；蘑菇形物体；暴发户；adj. 蘑菇的；蘑菇形的；迅速生长的；vi. 迅速增加；采蘑菇；迅速生长"
+    },
+    {
+      "id": "it_c3_u3_46",
+      "text": "poisonous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有毒的；恶毒的；讨厌的"
+    },
+    {
+      "id": "it_c3_u3_47",
+      "text": "poison",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 毒药，毒物；酒；有毒害的事物；[助剂] 抑制剂；adj. 有毒的；vt. 污染；使中毒，放毒于；败坏；阻碍；vi. 放毒，下毒"
+    },
+    {
+      "id": "it_c3_u3_48",
+      "text": "fold",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 折痕；信徒；羊栏；vt. 折叠；合拢；抱住；笼罩；vi. 折叠起来；彻底失败"
+    },
+    {
+      "id": "it_c3_u3_49",
+      "text": "super",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 特级品，特大号；临时雇员；adj. 特级的；极好的"
+    },
+    {
+      "id": "it_c3_u3_50",
+      "text": "collection",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 采集，聚集；[税收] 征收；收藏品；募捐"
+    },
+    {
+      "id": "it_c3_u3_51",
+      "text": "accessory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 配件；附件；[法] 从犯；adj. 副的；同谋的；附属的"
+    },
+    {
+      "id": "it_c3_u3_52",
+      "text": "souvenir",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 纪念品；礼物；vt. 把…留作纪念"
+    },
+    {
+      "id": "it_c3_u3_53",
+      "text": "percentage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 百分比；百分率，百分数"
+    },
+    {
+      "id": "it_c3_u3_54",
+      "text": "climate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 气候；风气；思潮；风土"
+    },
+    {
+      "id": "it_c3_u3_55",
+      "text": "mild",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 温和的；轻微的；淡味的；文雅的；不含有害物质的的；n. （英国的一种）淡味麦芽啤酒"
+    },
+    {
+      "id": "it_c3_u3_56",
+      "text": "settle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 有背长椅；vi. 解决；定居；沉淀；下陷；vt. 解决；安排；使…定居"
+    },
+    {
+      "id": "it_c3_u3_57",
+      "text": "construction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 建设；建筑物；解释；造句"
+    },
+    {
+      "id": "it_c3_u3_58",
+      "text": "material",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 重要的；物质的，实质性的；肉体的；n. 材料，原料；物资；布料"
+    },
+    {
+      "id": "it_c3_u3_59",
+      "text": "to name but a few",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 略举数例"
+    },
+    {
+      "id": "it_c3_u3_60",
+      "text": "tai chi",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "太极；太极拳；中国太极"
+    },
+    {
+      "id": "it_c3_u3_61",
+      "text": "clothing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （总称）[服装] 服装；帆装；v. 覆盖（clothe的ing形式）；给…穿衣"
+    },
+    {
+      "id": "it_c3_u3_62",
+      "text": "herbal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 植物志；草本书；adj. 草药的；草本的"
+    },
+    {
+      "id": "it_c3_u3_63",
+      "text": "suit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 诉讼；恳求；套装，西装；一套外衣；vt. 适合；使适应；vi. 合适；相称"
+    },
+    {
+      "id": "it_c3_u3_64",
+      "text": "first hand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 第一手的"
+    },
+    {
+      "id": "it_c3_u3_65",
+      "text": "at first hand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 直接"
+    },
+    {
+      "id": "it_c3_u3_66",
+      "text": "item",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 条款，项目；一则；一件商品（或物品）；adj. 又，同上；v. 记下；逐条列出"
+    },
+    {
+      "id": "it_c3_u3_67",
+      "text": "contain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 含有；自制；vt. 包含；控制；容纳；牵制（敌军）"
+    },
+    {
+      "id": "it_c3_u3_68",
+      "text": "neat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 灵巧的；整洁的；优雅的；齐整的；未搀水的；平滑的"
+    },
+    {
+      "id": "it_c3_u3_69",
+      "text": "San Francisco",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 旧金山"
+    },
+    {
+      "id": "it_c3_u3_70",
+      "text": "Napa Valley",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "纳帕谷；纳帕山谷；那帕谷"
+    },
+    {
+      "id": "it_c3_u3_71",
+      "text": "the Golden Gate Bridge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "金门桥；旧金山金门大桥；全门大桥"
+    },
+    {
+      "id": "it_c3_u3_72",
+      "text": "the Mission District",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u3_73",
+      "text": "Mexico",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 墨西哥"
+    },
+    {
+      "id": "it_c3_u3_74",
+      "text": "California",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 加利福尼亚（美国一个州）"
+    },
+    {
+      "id": "it_c3_u3_75",
+      "text": "Cantonese",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 广东人；广东话；adj. 广州的，广州人的"
+    },
+    {
+      "id": "it_c3_u3_76",
+      "text": "the Richmond District",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u3_77",
+      "text": "Huangguoshu Waterfall",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u3_78",
+      "text": "Journey to the West",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "西游记；西行之旅；新版西游记"
+    },
+    {
+      "id": "it_c3_u3_79",
+      "text": "Tin How Temple",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u3_80",
+      "text": "Bank of Canton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u3_81",
+      "text": "Portsmouth",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 朴茨茅斯（英国港市，美国港市）"
+    },
+    {
+      "id": "it_c3_u3_82",
+      "text": "Robert Louis Stevenson",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "史蒂文生；斯蒂文森；史蒂文森"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

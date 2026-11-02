@@ -1,0 +1,11 @@
+# 听写助手 运行依赖（全局 Python 3.14.7 已验证可用）
+PySide6>=6.6
+PySide6-Fluent-Widgets>=1.11
+edge-tts>=7.3.1  # 7.3.1+ 适配微软 Sec-MS-GEC v2 令牌；7.2.x 会 403 失效
+
+# 离线引擎（可选）：Kokoro 本地 TTS，断网可用。开启「设置 → 离线引擎(Kokoro)」前需安装：
+#   pip install kokoro misaki[zh]
+# 首次使用会自动下载模型（约 90MB），之后完全本地运行。
+
+# 开发/自测（可选）：pytest 用于 tests/ 冒烟测试
+pytest>=8.0

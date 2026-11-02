@@ -1,0 +1,662 @@
+{
+  "schema": 1,
+  "id": "pep_c2_u3",
+  "name": "人教版必修第二册 · Unit 3 The Internet",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c2_u3_1",
+      "text": "blog",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 博客；部落格；网络日志"
+    },
+    {
+      "id": "it_c2_u3_2",
+      "text": "blog post",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "博客文章；博客帖子；部落格文章"
+    },
+    {
+      "id": "it_c2_u3_3",
+      "text": "blogger",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 写博客的人；博客使用者"
+    },
+    {
+      "id": "it_c2_u3_4",
+      "text": "engine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 引擎，发动机；机车，火车头；工具"
+    },
+    {
+      "id": "it_c2_u3_5",
+      "text": "search engine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （计算机）搜索引擎"
+    },
+    {
+      "id": "it_c2_u3_6",
+      "text": "chat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 聊天；闲谈；vt. 与…搭讪；与…攀谈；vi. 聊天；闲谈"
+    },
+    {
+      "id": "it_c2_u3_7",
+      "text": "stream",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 溪流；流动；潮流；光线；vt. 流出；涌出；使飘动；vi. 流；涌进；飘扬"
+    },
+    {
+      "id": "it_c2_u3_8",
+      "text": "identity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 身份；同一性，一致；特性；恒等式"
+    },
+    {
+      "id": "it_c2_u3_9",
+      "text": "identity card",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 身份证；身份卡"
+    },
+    {
+      "id": "it_c2_u3_10",
+      "text": "convenient",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 方便的；[废语]适当的；[口语]近便的；实用的"
+    },
+    {
+      "id": "it_c2_u3_11",
+      "text": "cash",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 现款，现金；vt. 将…兑现；支付现款"
+    },
+    {
+      "id": "it_c2_u3_12",
+      "text": "update",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 更新；现代化；vt. 更新；校正，修正；使现代化"
+    },
+    {
+      "id": "it_c2_u3_13",
+      "text": "database",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 数据库，资料库"
+    },
+    {
+      "id": "it_c2_u3_14",
+      "text": "software",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 软件"
+    },
+    {
+      "id": "it_c2_u3_15",
+      "text": "network",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 网络；广播网；网状物"
+    },
+    {
+      "id": "it_c2_u3_16",
+      "text": "stuck",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 刺（stick的过去式）；adj. 被卡住的；不能动的"
+    },
+    {
+      "id": "it_c2_u3_17",
+      "text": "keep sb. company",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "陪伴；作伴；交往"
+    },
+    {
+      "id": "it_c2_u3_18",
+      "text": "surf",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 作冲浪运动；vt. 在…冲浪；n. 海浪，拍岸浪"
+    },
+    {
+      "id": "it_c2_u3_19",
+      "text": "benefit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 利益，好处；救济金；vt. 有益于，对…有益；vi. 受益，得益"
+    },
+    {
+      "id": "it_c2_u3_20",
+      "text": "distance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 距离；远方；疏远；间隔；vt. 疏远；把…远远甩在后面"
+    },
+    {
+      "id": "it_c2_u3_21",
+      "text": "inspire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 激发；鼓舞；启示；产生；使生灵感"
+    },
+    {
+      "id": "it_c2_u3_22",
+      "text": "now that",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 由于"
+    },
+    {
+      "id": "it_c2_u3_23",
+      "text": "access",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 进入；使用权；通路；vt. 使用；存取；接近"
+    },
+    {
+      "id": "it_c2_u3_24",
+      "text": "charity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 慈善；施舍；慈善团体；宽容；施舍物"
+    },
+    {
+      "id": "it_c2_u3_25",
+      "text": "go through",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 认真检查；仔细地搜；(提案或法案)通过；被批准"
+    },
+    {
+      "id": "it_c2_u3_26",
+      "text": "tough",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 恶棍；adj. 艰苦的，困难的；坚强的，不屈不挠的；坚韧的，牢固的；强壮的，结实的；vt. 坚持；忍受，忍耐；adv. 强硬地，顽强地"
+    },
+    {
+      "id": "it_c2_u3_27",
+      "text": "province",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 省；领域；职权"
+    },
+    {
+      "id": "it_c2_u3_28",
+      "text": "conference",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 会议；讨论；协商；联盟；（正式）讨论会；[工会、工党用语]（每年的）大会；vi. 举行或参加（系列）会议"
+    },
+    {
+      "id": "it_c2_u3_29",
+      "text": "resident",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 居民；住院医生；adj. 居住的；定居的"
+    },
+    {
+      "id": "it_c2_u3_30",
+      "text": "plus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 加，加上；n. 正号，加号；好处；附加额；adj. 正的；附加的"
+    },
+    {
+      "id": "it_c2_u3_31",
+      "text": "function",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 功能；[数] 函数；职责；盛大的集会；vi. 运行；活动；行使职责"
+    },
+    {
+      "id": "it_c2_u3_32",
+      "text": "battery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [电] 电池，蓄电池；n. [法]殴打；n. [军]炮台，炮位"
+    },
+    {
+      "id": "it_c2_u3_33",
+      "text": "confirm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 确认；确定；证实；批准；使巩固"
+    },
+    {
+      "id": "it_c2_u3_34",
+      "text": "Wi-Fi",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 基于IEEE 802.11b标准的无线局域网（Wireless Fidelity）；无线网络模块"
+    },
+    {
+      "id": "it_c2_u3_35",
+      "text": "press",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 压；按；新闻；出版社；[印刷] 印刷机；vt. 压；按；逼迫；紧抱；vi. 压；逼；重压"
+    },
+    {
+      "id": "it_c2_u3_36",
+      "text": "button",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 按钮；纽扣；vt. 扣住；扣紧；在…上装纽扣；vi. 扣住；装有纽扣；扣上纽扣"
+    },
+    {
+      "id": "it_c2_u3_37",
+      "text": "file",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 文件；档案；文件夹；锉刀；vt. 提出；锉；琢磨；把…归档；vi. 列队行进；用锉刀锉"
+    },
+    {
+      "id": "it_c2_u3_38",
+      "text": "in shape",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 完全不；情况；模样"
+    },
+    {
+      "id": "it_c2_u3_39",
+      "text": "keep track of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 追踪；记录；保持联系；密切注意…的动向"
+    },
+    {
+      "id": "it_c2_u3_40",
+      "text": "discount",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 折扣；贴现率；vt. 打折扣；将…贴现；贬损；低估；忽视；vi. 贴现；打折扣出售商品"
+    },
+    {
+      "id": "it_c2_u3_41",
+      "text": "account",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 账户；解释；账目，账单；理由；描述；vt. 认为；把…视为；vi. 解释；导致；报账"
+    },
+    {
+      "id": "it_c2_u3_42",
+      "text": "click",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 单击；滴答声；vi. 作咔哒声；vt. 点击；使发咔哒声"
+    },
+    {
+      "id": "it_c2_u3_43",
+      "text": "privacy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 隐私；秘密；隐居；隐居处"
+    },
+    {
+      "id": "it_c2_u3_44",
+      "text": "theft",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 盗窃；偷；赃物"
+    },
+    {
+      "id": "it_c2_u3_45",
+      "text": "rude",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 粗鲁的；无礼的；狂暴的；未开化的"
+    },
+    {
+      "id": "it_c2_u3_46",
+      "text": "target",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 目标；靶子；vt. 把……作为目标；规定……的指标；瞄准某物"
+    },
+    {
+      "id": "it_c2_u3_47",
+      "text": "troll",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 轮唱；钓鱼；北欧神话中的巨人；vt. 轮唱，使转动；放声高唱；拖饵钓鱼；vi. 参加轮唱；宏亮地唱；拖饵钓鱼"
+    },
+    {
+      "id": "it_c2_u3_48",
+      "text": "cyberbully",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 网霸; 网络欺凌; 是指通过电子邮件、即时对话、站点、博客留言; 以及手机等电子方式；vi. 网霸，（意思同上）；n. 网霸者"
+    },
+    {
+      "id": "it_c2_u3_49",
+      "text": "false",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 错误的；虚伪的；伪造的；adv. 欺诈地"
+    },
+    {
+      "id": "it_c2_u3_50",
+      "text": "particular",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 详细说明；个别项目；adj. 特别的；详细的；独有的；挑剔的"
+    },
+    {
+      "id": "it_c2_u3_51",
+      "text": "embarrassing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 使人尴尬的；令人为难的"
+    },
+    {
+      "id": "it_c2_u3_52",
+      "text": "make fun of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 嘲弄"
+    },
+    {
+      "id": "it_c2_u3_53",
+      "text": "upset",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 混乱；翻倒；颠覆；adj. 心烦的；混乱的；弄翻的；vt. 使心烦；颠覆；扰乱；vi. 翻倒"
+    },
+    {
+      "id": "it_c2_u3_54",
+      "text": "guideline",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 指导方针；参考"
+    },
+    {
+      "id": "it_c2_u3_55",
+      "text": "author",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 作者；作家；创始人；vt. 创作出版"
+    },
+    {
+      "id": "it_c2_u3_56",
+      "text": "tip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小费；尖端；小建议，小窍门；轻拍；vt. 给小费；倾斜；翻倒；装顶端；vi. 给小费；翻倒；倾覆"
+    },
+    {
+      "id": "it_c2_u3_57",
+      "text": "familiar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 常客；密友；adj. 熟悉的；常见的；亲近的"
+    },
+    {
+      "id": "it_c2_u3_58",
+      "text": "keep in mind",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 记在心里；记住；注意"
+    },
+    {
+      "id": "it_c2_u3_59",
+      "text": "keep ... in mind",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 记在心里；记住；注意"
+    },
+    {
+      "id": "it_c2_u3_60",
+      "text": "define",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 定义；使明确；规定"
+    },
+    {
+      "id": "it_c2_u3_61",
+      "text": "case",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 情况；实例；箱；vt. 包围；把…装于容器中"
+    },
+    {
+      "id": "it_c2_u3_62",
+      "text": "the World Wide Web",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 万维网"
+    },
+    {
+      "id": "it_c2_u3_63",
+      "text": "WWW",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 万维网（World Wide Web）；世界气象监视网（World Weather Watch）"
+    },
+    {
+      "id": "it_c2_u3_64",
+      "text": "Jan Tchamani",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u3_65",
+      "text": "Birmingham",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 伯明翰（英国一座城市）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

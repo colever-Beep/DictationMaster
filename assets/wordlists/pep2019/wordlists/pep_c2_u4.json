@@ -1,0 +1,802 @@
+{
+  "schema": 1,
+  "id": "pep_c2_u4",
+  "name": "人教版必修第二册 · Unit 4 History and Traditions",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c2_u4_1",
+      "text": "Confucius",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 孔子（中国哲学家，教育家）"
+    },
+    {
+      "id": "it_c2_u4_2",
+      "text": "mansion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大厦；宅邸"
+    },
+    {
+      "id": "it_c2_u4_3",
+      "text": "cemetery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 墓地；公墓"
+    },
+    {
+      "id": "it_c2_u4_4",
+      "text": "philosophy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 哲学；哲理；人生观"
+    },
+    {
+      "id": "it_c2_u4_5",
+      "text": "descendant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 后裔；子孙；adj. 下降的；祖传的"
+    },
+    {
+      "id": "it_c2_u4_6",
+      "text": "individual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 个人，个体；adj. 个人的；个别的；独特的"
+    },
+    {
+      "id": "it_c2_u4_7",
+      "text": "heel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 脚后跟；踵；vt. 倾侧；vi. 倾侧"
+    },
+    {
+      "id": "it_c2_u4_8",
+      "text": "Achilles' heel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 唯一致命的弱点"
+    },
+    {
+      "id": "it_c2_u4_9",
+      "text": "kingdom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 王国；界；领域"
+    },
+    {
+      "id": "it_c2_u4_10",
+      "text": "chief",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 首领；酋长；主要部分；adj. 首席的；主要的；主任的；adv. 主要地；首要地"
+    },
+    {
+      "id": "it_c2_u4_11",
+      "text": "puzzle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 谜；难题；迷惑；vt. 使…困惑；使…为难；苦思而得出；vi. 迷惑；冥思苦想"
+    },
+    {
+      "id": "it_c2_u4_12",
+      "text": "nearby",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 附近的，邻近的；adv. 在附近；prep. 在…附近"
+    },
+    {
+      "id": "it_c2_u4_13",
+      "text": "join ... to ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 连结；结合；联合:"
+    },
+    {
+      "id": "it_c2_u4_14",
+      "text": "break away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 逃脱；突然离开；突然离去；挣脱"
+    },
+    {
+      "id": "it_c2_u4_15",
+      "text": "break away from sb.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 脱离；离开；断绝与…的关系"
+    },
+    {
+      "id": "it_c2_u4_16",
+      "text": "break away from sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 脱离；离开；断绝与…的关系"
+    },
+    {
+      "id": "it_c2_u4_17",
+      "text": "belong",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 属于，应归入；居住；适宜；应被放置"
+    },
+    {
+      "id": "it_c2_u4_18",
+      "text": "belong to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 属于；附属"
+    },
+    {
+      "id": "it_c2_u4_19",
+      "text": "as well as",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 和…一样；…不用说"
+    },
+    {
+      "id": "it_c2_u4_20",
+      "text": "currency",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 货币；通货"
+    },
+    {
+      "id": "it_c2_u4_21",
+      "text": "military",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 军事的；军人的；适于战争的；n. 军队；军人"
+    },
+    {
+      "id": "it_c2_u4_22",
+      "text": "defence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 防御；防卫；答辩；防卫设备"
+    },
+    {
+      "id": "it_c2_u4_23",
+      "text": "legal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 法律的；合法的；法定的；依照法律的"
+    },
+    {
+      "id": "it_c2_u4_24",
+      "text": "surround",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 围绕物；vt. 围绕；包围；adj. 环绕立体声的"
+    },
+    {
+      "id": "it_c2_u4_25",
+      "text": "evidence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 证据，证明；迹象；明显；vt. 证明"
+    },
+    {
+      "id": "it_c2_u4_26",
+      "text": "achievement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 成就；完成；达到；成绩"
+    },
+    {
+      "id": "it_c2_u4_27",
+      "text": "location",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 位置（形容词locational）；地点；外景拍摄场地"
+    },
+    {
+      "id": "it_c2_u4_28",
+      "text": "conquer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 战胜，征服；攻克，攻取；vi. 胜利；得胜"
+    },
+    {
+      "id": "it_c2_u4_29",
+      "text": "battle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 战役；斗争；vt. 与…作战；vi. 斗争；作战"
+    },
+    {
+      "id": "it_c2_u4_30",
+      "text": "port",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 港口，口岸；（计算机的）端口；左舷；舱门；vt. 持（枪）；左转舵；vi. 转向左舷"
+    },
+    {
+      "id": "it_c2_u4_31",
+      "text": "fascinating",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 迷人的；吸引人的；使人神魂颠倒的；v. 使…着迷；使…陶醉（fascinate的ing形式）"
+    },
+    {
+      "id": "it_c2_u4_32",
+      "text": "keep your eyes open",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "睁开眼睛；睁大眼睛；留意"
+    },
+    {
+      "id": "it_c2_u4_33",
+      "text": "keep your eyes open for",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u4_34",
+      "text": "charge",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 费用；电荷；掌管；控告；命令；负载；vt. 使充电；使承担；指责；装载；对…索费；向…冲去；vi. 充电；控告；索价；向前冲；记在账上"
+    },
+    {
+      "id": "it_c2_u4_35",
+      "text": "announce",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 宣布；述说；预示；播报；vi. 宣布参加竞选；当播音员"
+    },
+    {
+      "id": "it_c2_u4_36",
+      "text": "amount",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 数量；总额，总数；vi. 总计，合计；相当于；共计；产生…结果"
+    },
+    {
+      "id": "it_c2_u4_37",
+      "text": "gallery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 画廊；走廊；旁听席；地道；vt. 在…修建走廊；在…挖地道；vi. 挖地道"
+    },
+    {
+      "id": "it_c2_u4_38",
+      "text": "approach",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 方法；途径；接近；vt. 接近；着手处理；vi. 靠近"
+    },
+    {
+      "id": "it_c2_u4_39",
+      "text": "ensure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 保证，确保；使安全"
+    },
+    {
+      "id": "it_c2_u4_40",
+      "text": "landscape",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式；vt. 对…做景观美化，给…做园林美化；从事庭园设计；vi. 美化（环境等），使景色宜人；从事景观美化工作，做庭园设计师"
+    },
+    {
+      "id": "it_c2_u4_41",
+      "text": "generous",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 慷慨的，大方的；宽宏大量的；有雅量的"
+    },
+    {
+      "id": "it_c2_u4_42",
+      "text": "butter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 黄油；奶油；奉承话；vt. 涂黄油于；讨好"
+    },
+    {
+      "id": "it_c2_u4_43",
+      "text": "honey",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蜂蜜；宝贝；甜蜜；adj. 甘美的；蜂蜜似的；vt. 对…说甜言蜜语；加蜜使甜；vi. 奉承；说甜言蜜语"
+    },
+    {
+      "id": "it_c2_u4_44",
+      "text": "ancestor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 始祖，祖先；被继承人"
+    },
+    {
+      "id": "it_c2_u4_45",
+      "text": "position",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 位置，方位；职位，工作；姿态；站位；vt. 安置；把……放在适当位置"
+    },
+    {
+      "id": "it_c2_u4_46",
+      "text": "courtyard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 庭院，院子；天井"
+    },
+    {
+      "id": "it_c2_u4_47",
+      "text": "snack",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小吃，快餐；一份，部分；vi. 吃快餐，吃点心"
+    },
+    {
+      "id": "it_c2_u4_48",
+      "text": "eager",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 渴望的；热切的；热心的"
+    },
+    {
+      "id": "it_c2_u4_49",
+      "text": "poet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 诗人"
+    },
+    {
+      "id": "it_c2_u4_50",
+      "text": "county",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 郡，县"
+    },
+    {
+      "id": "it_c2_u4_51",
+      "text": "feast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 筵席，宴会；节日；vt. 享受；款待，宴请；vi. 享受；参加宴会"
+    },
+    {
+      "id": "it_c2_u4_52",
+      "text": "roll",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 卷，卷形物；名单；摇晃；vt. 卷；滚动，转动；辗；vi. 卷；滚动；转动；起伏，摇晃"
+    },
+    {
+      "id": "it_c2_u4_53",
+      "text": "dot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 点，圆点；嫁妆；vt. 加小点于；vi. 打上点"
+    },
+    {
+      "id": "it_c2_u4_54",
+      "text": "cattle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 牛；牲畜（骂人的话）；家畜；无价值的人"
+    },
+    {
+      "id": "it_c2_u4_55",
+      "text": "roar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 咆哮；吼；轰鸣；vi. 咆哮；吼叫；喧闹；vt. 咆哮；呼喊；使……轰鸣"
+    },
+    {
+      "id": "it_c2_u4_56",
+      "text": "ocean",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海洋；大量；广阔"
+    },
+    {
+      "id": "it_c2_u4_57",
+      "text": "scent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 气味；嗅觉；痕迹；察觉能力；vt. 闻到；发觉；使充满…的气味；循着遗臭追踪；vi. 发出…的气味；有…的迹象；嗅着气味追赶"
+    },
+    {
+      "id": "it_c2_u4_58",
+      "text": "greet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 欢迎，迎接；致敬，致意；映入眼帘"
+    },
+    {
+      "id": "it_c2_u4_59",
+      "text": "pub",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 酒馆；客栈"
+    },
+    {
+      "id": "it_c2_u4_60",
+      "text": "wine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 酒，葡萄酒；紫红色；vt. 请…喝酒；vi. 喝酒"
+    },
+    {
+      "id": "it_c2_u4_61",
+      "text": "beer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 啤酒；vi. 喝啤酒"
+    },
+    {
+      "id": "it_c2_u4_62",
+      "text": "stew",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 炖，炖汤；烦恼；闷热；鱼塘；vt. 炖，炖汤；焖；忧虑；受闷热；vi. 炖，炖汤；焖；受闷热；忧虑"
+    },
+    {
+      "id": "it_c2_u4_63",
+      "text": "custom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 习惯，惯例；风俗；海关，关税；经常光顾；[总称]（经常性的）顾客；adj. （衣服等）定做的，定制的"
+    },
+    {
+      "id": "it_c2_u4_64",
+      "text": "sensory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 感觉的；知觉的；传递感觉的"
+    },
+    {
+      "id": "it_c2_u4_65",
+      "text": "striking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 打（strike的ing形式）；adj. 显著的，突出的，惊人的；打击的；罢工的"
+    },
+    {
+      "id": "it_c2_u4_66",
+      "text": "transition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 过渡；转变；[分子生物] 转换；变调"
+    },
+    {
+      "id": "it_c2_u4_67",
+      "text": "crowd",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 群众,一伙;一堆,许多,大众；v. 拥挤,挤满,挤进；vt. 挤满,将...塞进;催促,催逼；vi. 挤,拥挤,聚集"
+    },
+    {
+      "id": "it_c2_u4_68",
+      "text": "Wales",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 威尔士（英国大不列颠岛西南部地区）"
+    },
+    {
+      "id": "it_c2_u4_69",
+      "text": "Scotland",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 苏格兰"
+    },
+    {
+      "id": "it_c2_u4_70",
+      "text": "Northern Ireland",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 北爱尔兰"
+    },
+    {
+      "id": "it_c2_u4_71",
+      "text": "Anglo-Saxon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 盎格鲁-撒克逊"
+    },
+    {
+      "id": "it_c2_u4_72",
+      "text": "Viking",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 北欧海盗"
+    },
+    {
+      "id": "it_c2_u4_73",
+      "text": "Norman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 诺曼第语的；诺曼第人的；n. 法国诺曼第人"
+    },
+    {
+      "id": "it_c2_u4_74",
+      "text": "the Normans",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u4_75",
+      "text": "Battle of Hastings",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 海斯汀斯战役"
+    },
+    {
+      "id": "it_c2_u4_76",
+      "text": "Roman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罗马人；古罗马语；adj. 罗马的；罗马人的"
+    },
+    {
+      "id": "it_c2_u4_77",
+      "text": "Van Gogh",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "梵高；梵谷；凡高"
+    },
+    {
+      "id": "it_c2_u4_78",
+      "text": "the Emerald Isle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 绿宝石岛"
+    },
+    {
+      "id": "it_c2_u4_79",
+      "text": "Irish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 爱尔兰人；爱尔兰语；爱尔兰；adj. 爱尔兰的；爱尔兰人的"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

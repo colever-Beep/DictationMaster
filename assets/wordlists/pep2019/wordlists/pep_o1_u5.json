@@ -1,0 +1,772 @@
+{
+  "schema": 1,
+  "id": "pep_o1_u5",
+  "name": "人教版选择性必修第一册 · Unit 5 Working the Land",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o1_u5_1",
+      "text": "hybrid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 杂种，混血儿；混合物；adj. 混合的；杂种的"
+    },
+    {
+      "id": "it_o1_u5_2",
+      "text": "devote",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 致力于；奉献"
+    },
+    {
+      "id": "it_o1_u5_3",
+      "text": "devote ... to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 把…贡献给"
+    },
+    {
+      "id": "it_o1_u5_4",
+      "text": "shortage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 缺乏，缺少；不足"
+    },
+    {
+      "id": "it_o1_u5_5",
+      "text": "tackle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滑车；装备；用具；扭倒；vi. 扭倒；拦截抢球；vt. 处理；抓住；固定；与…交涉"
+    },
+    {
+      "id": "it_o1_u5_6",
+      "text": "crisis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 危机；危险期；决定性时刻；adj. 危机的；用于处理危机的"
+    },
+    {
+      "id": "it_o1_u5_7",
+      "text": "boost",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 推动；帮助；宣扬；vi. 宣扬；偷窃；vt. 促进；增加；支援"
+    },
+    {
+      "id": "it_o1_u5_8",
+      "text": "yield",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 产量；收益；vt. 屈服；出产，产生；放弃；vi. 屈服，投降"
+    },
+    {
+      "id": "it_o1_u5_9",
+      "text": "convince",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 说服；使确信，使信服"
+    },
+    {
+      "id": "it_o1_u5_10",
+      "text": "characteristic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 特征；特性；特色；adj. 典型的；特有的；表示特性的"
+    },
+    {
+      "id": "it_o1_u5_11",
+      "text": "attain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 成就；vt. 达到，实现；获得；到达；vi. 达到；获得；到达"
+    },
+    {
+      "id": "it_o1_u5_12",
+      "text": "conventional",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 符合习俗的，传统的；常见的；惯例的"
+    },
+    {
+      "id": "it_o1_u5_13",
+      "text": "pollinate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 对...授粉"
+    },
+    {
+      "id": "it_o1_u5_14",
+      "text": "assumption",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 假定；设想；担任；采取"
+    },
+    {
+      "id": "it_o1_u5_15",
+      "text": "intense",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 强烈的；紧张的；非常的；热情的"
+    },
+    {
+      "id": "it_o1_u5_16",
+      "text": "overcome",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 克服；胜过；vi. 克服；得胜"
+    },
+    {
+      "id": "it_o1_u5_17",
+      "text": "overcame",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 克服（overcome的过去式）"
+    },
+    {
+      "id": "it_o1_u5_18",
+      "text": "overcome",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 克服；胜过；vi. 克服；得胜"
+    },
+    {
+      "id": "it_o1_u5_19",
+      "text": "expand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 扩张；使膨胀；详述；vi. 发展；张开，展开"
+    },
+    {
+      "id": "it_o1_u5_20",
+      "text": "output",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 输出，输出量；产量；出产；vt. 输出"
+    },
+    {
+      "id": "it_o1_u5_21",
+      "text": "output",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 输出，输出量；产量；出产；vt. 输出"
+    },
+    {
+      "id": "it_o1_u5_22",
+      "text": "output",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 输出，输出量；产量；出产；vt. 输出"
+    },
+    {
+      "id": "it_o1_u5_23",
+      "text": "estimate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 估计，估价；判断，看法；vt. 估计，估量；判断，评价；vi. 估计，估价"
+    },
+    {
+      "id": "it_o1_u5_24",
+      "text": "domestic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 国货；佣人；adj. 国内的；家庭的；驯养的；一心只管家务的"
+    },
+    {
+      "id": "it_o1_u5_25",
+      "text": "consumption",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 消费；消耗；肺痨"
+    },
+    {
+      "id": "it_o1_u5_26",
+      "text": "comprise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 包含；由…组成"
+    },
+    {
+      "id": "it_o1_u5_27",
+      "text": "be comprised of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "强调由什么成分所组成；由…组成；长期被批评或认为是错误的"
+    },
+    {
+      "id": "it_o1_u5_28",
+      "text": "generate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使形成；发生；生殖；产生物理反应"
+    },
+    {
+      "id": "it_o1_u5_29",
+      "text": "strain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 张力；拉紧；负担；扭伤；血缘；vt. 拉紧；滥用；滤去；竭力；vi. 拉紧；尽力；n. （植物、动物的）品种；种类"
+    },
+    {
+      "id": "it_o1_u5_30",
+      "text": "leisure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 闲暇；空闲；安逸；adj. 空闲的；有闲的；业余的"
+    },
+    {
+      "id": "it_o1_u5_31",
+      "text": "deep down",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "本质上; 实际上; 事实上; 在内心深处"
+    },
+    {
+      "id": "it_o1_u5_32",
+      "text": "soil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 土地；土壤；国家；粪便；务农；温床；vt. 弄脏；污辱；vi. 变脏"
+    },
+    {
+      "id": "it_o1_u5_33",
+      "text": "celebrity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 名人；名声"
+    },
+    {
+      "id": "it_o1_u5_34",
+      "text": "envision",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 想象；预想"
+    },
+    {
+      "id": "it_o1_u5_35",
+      "text": "sorghum",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 高粱；[作物] 蜀黍；甜得发腻的东西"
+    },
+    {
+      "id": "it_o1_u5_36",
+      "text": "broom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 扫帚；金雀花；vt. 扫除；vi. 桩顶开花或开裂"
+    },
+    {
+      "id": "it_o1_u5_37",
+      "text": "grain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 粮食；颗粒；[作物] 谷物；纹理；vt. 使成谷粒；vi. 成谷粒"
+    },
+    {
+      "id": "it_o1_u5_38",
+      "text": "vision",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 视力；美景；眼力；幻象；想象力；幻视（漫威漫画旗下超级英雄）；vt. 想象；显现；梦见"
+    },
+    {
+      "id": "it_o1_u5_39",
+      "text": "reality",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 现实；实际；真实"
+    },
+    {
+      "id": "it_o1_u5_40",
+      "text": "salty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 咸的；含盐的"
+    },
+    {
+      "id": "it_o1_u5_41",
+      "text": "urban",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 城市的；住在都市的"
+    },
+    {
+      "id": "it_o1_u5_42",
+      "text": "bomb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 炸弹；vt. 轰炸，投弹于；vi. 轰炸，投弹；失败"
+    },
+    {
+      "id": "it_o1_u5_43",
+      "text": "tunnel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 隧道；坑道；洞穴通道；vt. 挖；在…打开通道；在…挖掘隧道；vi. 挖掘隧道；打开通道"
+    },
+    {
+      "id": "it_o1_u5_44",
+      "text": "extension",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 延长；延期；扩大；伸展；电话分机"
+    },
+    {
+      "id": "it_o1_u5_45",
+      "text": "chemical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 化学制品，化学药品；adj. 化学的"
+    },
+    {
+      "id": "it_o1_u5_46",
+      "text": "wheat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小麦；小麦色"
+    },
+    {
+      "id": "it_o1_u5_47",
+      "text": "flavour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 香味；滋味；vt. 给……调味；给……增添风趣"
+    },
+    {
+      "id": "it_o1_u5_48",
+      "text": "flavor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 情味，风味；香料；滋味；vt. 加味于"
+    },
+    {
+      "id": "it_o1_u5_49",
+      "text": "fertiliser",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 化肥（等于fertilizer）"
+    },
+    {
+      "id": "it_o1_u5_50",
+      "text": "fertilizer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [肥料] 肥料；受精媒介物；促进发展者"
+    },
+    {
+      "id": "it_o1_u5_51",
+      "text": "nutritional",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 营养的；滋养的"
+    },
+    {
+      "id": "it_o1_u5_52",
+      "text": "nutritious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有营养的，滋养的"
+    },
+    {
+      "id": "it_o1_u5_53",
+      "text": "nutrition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 营养，营养学；营养品"
+    },
+    {
+      "id": "it_o1_u5_54",
+      "text": "alleviate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 减轻，缓和"
+    },
+    {
+      "id": "it_o1_u5_55",
+      "text": "poverty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 贫困；困难；缺少；低劣"
+    },
+    {
+      "id": "it_o1_u5_56",
+      "text": "organic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. [有化] 有机的；组织的；器官的；根本的"
+    },
+    {
+      "id": "it_o1_u5_57",
+      "text": "pesticide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 杀虫剂"
+    },
+    {
+      "id": "it_o1_u5_58",
+      "text": "widespread",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 普遍的，广泛的；分布广的"
+    },
+    {
+      "id": "it_o1_u5_59",
+      "text": "bacterium",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [微] 细菌；杆菌属"
+    },
+    {
+      "id": "it_o1_u5_60",
+      "text": "bacteria",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [微] 细菌"
+    },
+    {
+      "id": "it_o1_u5_61",
+      "text": "in turn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 挨次"
+    },
+    {
+      "id": "it_o1_u5_62",
+      "text": "digest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 文摘；摘要；vt. 消化；吸收；融会贯通；vi. 消化"
+    },
+    {
+      "id": "it_o1_u5_63",
+      "text": "essential",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 本质；要素；要点；必需品；adj. 基本的；必要的；本质的；精华的"
+    },
+    {
+      "id": "it_o1_u5_64",
+      "text": "mineral",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 矿物；（英）矿泉水；无机物；苏打水（常用复数表示）；adj. 矿物的；矿质的"
+    },
+    {
+      "id": "it_o1_u5_65",
+      "text": "alternative",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 二中择一；供替代的选择；adj. 供选择的；选择性的；交替的"
+    },
+    {
+      "id": "it_o1_u5_66",
+      "text": "grocery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 食品杂货店；食品杂货"
+    },
+    {
+      "id": "it_o1_u5_67",
+      "text": "instance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 实例；情况；建议；vt. 举...为例"
+    },
+    {
+      "id": "it_o1_u5_68",
+      "text": "for instance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 例如"
+    },
+    {
+      "id": "it_o1_u5_69",
+      "text": "depth",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [海洋] 深度；深奥"
+    },
+    {
+      "id": "it_o1_u5_70",
+      "text": "root",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 根；根源；词根；祖先；vt. 生根，固定；根源在于；vi. 生根；根除"
+    },
+    {
+      "id": "it_o1_u5_71",
+      "text": "entirely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 完全地，彻底地"
+    },
+    {
+      "id": "it_o1_u5_72",
+      "text": "aspect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 方面；方向；形势；外貌"
+    },
+    {
+      "id": "it_o1_u5_73",
+      "text": "Vietnam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 越南（东南亚国家）"
+    },
+    {
+      "id": "it_o1_u5_74",
+      "text": "LED",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 发光二极管（light-emitting diode）"
+    },
+    {
+      "id": "it_o1_u5_75",
+      "text": "light-emitting diode",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 发光两极管"
+    },
+    {
+      "id": "it_o1_u5_76",
+      "text": "DDT",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 数字资料发送机（Digital Data Transmitter）；开发与技术部（Department of Development and Technology）；二氯二苯三氯乙烷（Dichloro-Diphenyl-Tricgloroethane）；数字调试带（Digital Debugging Tape）；双二极-三极管（Double Diode-Triode）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

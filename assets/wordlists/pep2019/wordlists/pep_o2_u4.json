@@ -1,0 +1,772 @@
+{
+  "schema": 1,
+  "id": "pep_o2_u4",
+  "name": "人教版选择性必修第二册 · Unit 4",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o2_u4_1",
+      "text": "craft",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 工艺；手艺；太空船；vt. 精巧地制作"
+    },
+    {
+      "id": "it_o2_u4_2",
+      "text": "antique",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 古董，古玩；古风，古希腊和古罗马艺术风格；adj. 古老的，年代久远的；过时的，古董的；古风的，古式的；vi. 觅购古玩"
+    },
+    {
+      "id": "it_o2_u4_3",
+      "text": "pleasant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 令人愉快的，舒适的；讨人喜欢的，和蔼可亲的"
+    },
+    {
+      "id": "it_o2_u4_4",
+      "text": "arise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 出现；上升；起立"
+    },
+    {
+      "id": "it_o2_u4_5",
+      "text": "massive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 大量的；巨大的，厚重的；魁伟的"
+    },
+    {
+      "id": "it_o2_u4_6",
+      "text": "literally",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 照字面地；逐字地；不夸张地；正确地；简直"
+    },
+    {
+      "id": "it_o2_u4_7",
+      "text": "breath",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 呼吸，气息；一口气，（呼吸的）一次；瞬间，瞬息；微风；迹象；无声音，气音"
+    },
+    {
+      "id": "it_o2_u4_8",
+      "text": "take sb.'s breath away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o2_u4_9",
+      "text": "bound",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 范围；跳跃；adj. 有义务的；必定的；受约束的；装有封面的；vt. 束缚；使跳跃；vi. 限制；弹起"
+    },
+    {
+      "id": "it_o2_u4_10",
+      "text": "scenery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 风景；景色；舞台布景"
+    },
+    {
+      "id": "it_o2_u4_11",
+      "text": "awesome",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 令人敬畏的；使人畏惧的；可怕的；极好的"
+    },
+    {
+      "id": "it_o2_u4_12",
+      "text": "spectacular",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 壮观的，惊人的；公开展示的"
+    },
+    {
+      "id": "it_o2_u4_13",
+      "text": "peak",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 山峰；最高点；顶点；帽舌；adj. 最高的；最大值的；vt. 使达到最高点；使竖起；vi. 消瘦；到达最高点；变憔悴"
+    },
+    {
+      "id": "it_o2_u4_14",
+      "text": "highlight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 最精彩的部分；最重要的事情；加亮区；vt. 突出；强调；使显著；加亮"
+    },
+    {
+      "id": "it_o2_u4_15",
+      "text": "goat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 山羊；替罪羊（美俚）；色鬼（美俚）"
+    },
+    {
+      "id": "it_o2_u4_16",
+      "text": "grizzly bear",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【动】灰熊"
+    },
+    {
+      "id": "it_o2_u4_17",
+      "text": "drill",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 训练；钻孔机；钻子；播种机；vt. 钻孔；训练；条播；vi. 钻孔；训练"
+    },
+    {
+      "id": "it_o2_u4_18",
+      "text": "freezing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 冰冻的；严寒的；冷冻用的"
+    },
+    {
+      "id": "it_o2_u4_19",
+      "text": "freezing cold",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "冰冷；极冷；滴水成冰"
+    },
+    {
+      "id": "it_o2_u4_20",
+      "text": "freeze",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冻结；凝固；vt. 使…冻住；使…结冰；vi. 冻结；冷冻；僵硬"
+    },
+    {
+      "id": "it_o2_u4_21",
+      "text": "mall",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 购物商场；林荫路；铁圈球场"
+    },
+    {
+      "id": "it_o2_u4_22",
+      "text": "shopping mall",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 商业区林荫路"
+    },
+    {
+      "id": "it_o2_u4_23",
+      "text": "prairie",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大草原；牧场"
+    },
+    {
+      "id": "it_o2_u4_24",
+      "text": "anticipate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 预期，期望；占先，抢先；提前使用"
+    },
+    {
+      "id": "it_o2_u4_25",
+      "text": "bunch",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 群；串；突出物；vt. 使成一串；使打褶；vi. 隆起；打褶；形成一串"
+    },
+    {
+      "id": "it_o2_u4_26",
+      "text": "a bunch of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "det. 一束"
+    },
+    {
+      "id": "it_o2_u4_27",
+      "text": "thunder",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雷；轰隆声；恐吓；vt. 轰隆地发出；大声喊出；vi. 打雷；怒喝"
+    },
+    {
+      "id": "it_o2_u4_28",
+      "text": "frost",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 霜；冰冻，严寒；冷淡；vi. 结霜；受冻；vt. 结霜于；冻坏"
+    },
+    {
+      "id": "it_o2_u4_29",
+      "text": "curtain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 幕；窗帘；vt. 遮蔽；装上门帘"
+    },
+    {
+      "id": "it_o2_u4_30",
+      "text": "border",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 边境；边界；国界；vt. 接近；与…接壤；在…上镶边；vi. 接界；近似"
+    },
+    {
+      "id": "it_o2_u4_31",
+      "text": "duration",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 持续，持续的时间，期间；[语音学]音长，音延"
+    },
+    {
+      "id": "it_o2_u4_32",
+      "text": "harbour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海港（等于harbor）；避难所；vt. 庇护；藏匿；入港停泊；vi. 藏匿；入港停泊；庇护"
+    },
+    {
+      "id": "it_o2_u4_33",
+      "text": "harbor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海港；避难所；vt. 庇护；怀有；vi. 居住，生存；入港停泊；躲藏"
+    },
+    {
+      "id": "it_o2_u4_34",
+      "text": "enrol",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 注册；参军；vt. 登记；卷起；入学；使入会"
+    },
+    {
+      "id": "it_o2_u4_35",
+      "text": "enroll",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 参加；登记；注册；记入名册；vt. 登记；使加入；把...记入名册；使入伍"
+    },
+    {
+      "id": "it_o2_u4_36",
+      "text": "quarry",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 采石场；猎物；来源；vt. 挖出；努力挖掘；vi. 费力地找"
+    },
+    {
+      "id": "it_o2_u4_37",
+      "text": "idiom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 成语，习语；土话"
+    },
+    {
+      "id": "it_o2_u4_38",
+      "text": "contrary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 相反；反面；adj. 相反的；对立的；adv. 相反地"
+    },
+    {
+      "id": "it_o2_u4_39",
+      "text": "contrary to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 跟…相反[相违背]"
+    },
+    {
+      "id": "it_o2_u4_40",
+      "text": "anyhow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 总之；无论如何；不管怎样"
+    },
+    {
+      "id": "it_o2_u4_41",
+      "text": "alongside",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在……旁边；adv. 在旁边"
+    },
+    {
+      "id": "it_o2_u4_42",
+      "text": "proceed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 开始；继续进行；发生；行进；n. 收入，获利"
+    },
+    {
+      "id": "it_o2_u4_43",
+      "text": "proceed to sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 前进；继续进行:"
+    },
+    {
+      "id": "it_o2_u4_44",
+      "text": "shore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海滨；支柱；vt. 支撑，使稳住；用支柱撑住"
+    },
+    {
+      "id": "it_o2_u4_45",
+      "text": "astonish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使惊讶"
+    },
+    {
+      "id": "it_o2_u4_46",
+      "text": "misty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 模糊的；有雾的"
+    },
+    {
+      "id": "it_o2_u4_47",
+      "text": "mist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 薄雾；视线模糊不清；模糊不清之物；vi. 下雾；变模糊；vt. 使模糊；使蒙上薄雾"
+    },
+    {
+      "id": "it_o2_u4_48",
+      "text": "steel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 钢铁；钢制品；坚固；adj. 钢制的；钢铁业的；坚强的；vt. 钢化；使冷酷"
+    },
+    {
+      "id": "it_o2_u4_49",
+      "text": "dusk",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 黄昏，薄暮；幽暗，昏暗；vt. 使变微暗；adj. 微暗的；vi. 变微暗"
+    },
+    {
+      "id": "it_o2_u4_50",
+      "text": "advertisement",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 广告，宣传"
+    },
+    {
+      "id": "it_o2_u4_51",
+      "text": "accent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 口音；重音；强调；特点；重音符号；vt. 强调；重读；带…口音讲话"
+    },
+    {
+      "id": "it_o2_u4_52",
+      "text": "photographer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 摄影师；照相师"
+    },
+    {
+      "id": "it_o2_u4_53",
+      "text": "owe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 欠；感激；应给予；应该把……归功于；vi. 欠钱"
+    },
+    {
+      "id": "it_o2_u4_54",
+      "text": "owe sth. to sb.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 由于；把…归功于"
+    },
+    {
+      "id": "it_o2_u4_55",
+      "text": "toast",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 干杯；烤面包；接受敬酒的人；（在某领域）广受赞誉的人；vt. 向…祝酒，为…干杯；vi. 烤火，取暖；使暖和；烘烤（面包片等）"
+    },
+    {
+      "id": "it_o2_u4_56",
+      "text": "cobblestone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鹅卵石；圆石"
+    },
+    {
+      "id": "it_o2_u4_57",
+      "text": "coherent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 连贯的，一致的；明了的；清晰的；凝聚性的；互相耦合的；粘在一起的"
+    },
+    {
+      "id": "it_o2_u4_58",
+      "text": "Halifax",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 哈利法克斯港或哈利法克斯市；哈里法克斯（财富500强公司之一，总部所在地英国；主要经营银行）"
+    },
+    {
+      "id": "it_o2_u4_59",
+      "text": "Vancouver",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 温哥华（加拿大主要港市）"
+    },
+    {
+      "id": "it_o2_u4_60",
+      "text": "Lake Louise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "[地名] 莱克路易斯 ( 加 )"
+    },
+    {
+      "id": "it_o2_u4_61",
+      "text": "Jasper",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 碧玉；墨绿色"
+    },
+    {
+      "id": "it_o2_u4_62",
+      "text": "Toronto",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 多伦多（加拿大城市）"
+    },
+    {
+      "id": "it_o2_u4_63",
+      "text": "Edmonton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 埃德蒙顿（加拿大西南部城市）"
+    },
+    {
+      "id": "it_o2_u4_64",
+      "text": "Winnipeg",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 温尼伯（加拿大城市）"
+    },
+    {
+      "id": "it_o2_u4_65",
+      "text": "Ontario",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 安大略湖（北美五大湖之一）"
+    },
+    {
+      "id": "it_o2_u4_66",
+      "text": "Lake Huron",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 休伦湖"
+    },
+    {
+      "id": "it_o2_u4_67",
+      "text": "Quebec City",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "魁北克市（加拿大城市）"
+    },
+    {
+      "id": "it_o2_u4_68",
+      "text": "Montreal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蒙特利尔（加拿大东南部港市）"
+    },
+    {
+      "id": "it_o2_u4_69",
+      "text": "Niagara Falls",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 尼亚加拉大瀑布; [地名] [加拿大·美国] 尼亚加拉瀑布; [地名] [加拿大、美国] 尼亚加拉瀑布城; [电影]尼亚拉加瀑布"
+    },
+    {
+      "id": "it_o2_u4_70",
+      "text": "St Lawrence River",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 圣劳仑斯河"
+    },
+    {
+      "id": "it_o2_u4_71",
+      "text": "Nova Scotia",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 新斯科舍"
+    },
+    {
+      "id": "it_o2_u4_72",
+      "text": "technique",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 技巧，技术；手法"
+    },
+    {
+      "id": "it_o2_u4_73",
+      "text": "leaflet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小叶；传单"
+    },
+    {
+      "id": "it_o2_u4_74",
+      "text": "organ",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [生物] 器官；机构；风琴；管风琴；嗓音"
+    },
+    {
+      "id": "it_o2_u4_75",
+      "text": "toxin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 毒素；毒质"
+    },
+    {
+      "id": "it_o2_u4_76",
+      "text": "ray",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 射线；光线；【鱼类】鳐形目(Rajiformes)鱼；vt. 放射；显出；vi. 放射光线；浮现"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

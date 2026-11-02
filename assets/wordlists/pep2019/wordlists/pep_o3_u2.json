@@ -1,0 +1,732 @@
+{
+  "schema": 1,
+  "id": "pep_o3_u2",
+  "name": "人教版选择性必修第三册 · Unit 2",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o3_u2_1",
+      "text": "Leonardo da Vinci",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "(达)芬奇(1452-1519, 意大利文艺复兴时期伟大画家, 雕刻家, 建筑学家)"
+    },
+    {
+      "id": "it_o3_u2_2",
+      "text": "Michelangelo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 米开朗基罗（意大利文艺复兴时期成就卓著的科学家，艺术家）"
+    },
+    {
+      "id": "it_o3_u2_3",
+      "text": "Raphael",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拉斐尔（姓氏）；拉斐尔（意大利画家、建筑学家）"
+    },
+    {
+      "id": "it_o3_u2_4",
+      "text": "Rembrandt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "伦布兰特(van Rijn [Ryn], 1609-1669, 荷兰画家)"
+    },
+    {
+      "id": "it_o3_u2_5",
+      "text": "Impressionism",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 印象派，印象主义"
+    },
+    {
+      "id": "it_o3_u2_6",
+      "text": "Claude Monet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "莫内；莫奈；克劳德·莫奈"
+    },
+    {
+      "id": "it_o3_u2_7",
+      "text": "Renoir",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雷诺阿（人名）"
+    },
+    {
+      "id": "it_o3_u2_8",
+      "text": "Picasso",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 毕加索(法国画家)"
+    },
+    {
+      "id": "it_o3_u2_9",
+      "text": "Cubism",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 立体派；立体主义"
+    },
+    {
+      "id": "it_o3_u2_10",
+      "text": "Giverny",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "吉维尼；纪梵尼；吉凡尼"
+    },
+    {
+      "id": "it_o3_u2_11",
+      "text": "Tadpoles Searching for Mother",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u2_12",
+      "text": "The Cowboy's Flute",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u2_13",
+      "text": "Feeling from Mountain and Water",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u2_14",
+      "text": "Clearing After Snow on a Mountain Pass",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u2_15",
+      "text": "tobacco",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烟草，烟叶；烟草制品；抽烟"
+    },
+    {
+      "id": "it_o3_u2_16",
+      "text": "alcohol",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 酒精，乙醇"
+    },
+    {
+      "id": "it_o3_u2_17",
+      "text": "abuse",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滥用；虐待；辱骂；弊端；恶习，陋习；vt. 滥用；虐待；辱骂"
+    },
+    {
+      "id": "it_o3_u2_18",
+      "text": "physical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 体格检查；adj. [物] 物理的；身体的；物质的；根据自然规律的，符合自然法则的"
+    },
+    {
+      "id": "it_o3_u2_19",
+      "text": "dominate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 控制；支配；占优势；在…中占主要地位；vi. 占优势；处于支配地位"
+    },
+    {
+      "id": "it_o3_u2_20",
+      "text": "repeatedly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 反复地；再三地；屡次地"
+    },
+    {
+      "id": "it_o3_u2_21",
+      "text": "psychology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 心理学；心理状态"
+    },
+    {
+      "id": "it_o3_u2_22",
+      "text": "cue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 提示，暗示；线索；vt. 给…暗示"
+    },
+    {
+      "id": "it_o3_u2_23",
+      "text": "in response to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 应…而"
+    },
+    {
+      "id": "it_o3_u2_24",
+      "text": "reward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [劳经] 报酬；报答；酬谢；vt. [劳经] 奖励；奖赏"
+    },
+    {
+      "id": "it_o3_u2_25",
+      "text": "rely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 依靠；信赖"
+    },
+    {
+      "id": "it_o3_u2_26",
+      "text": "rely on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 依靠；信赖"
+    },
+    {
+      "id": "it_o3_u2_27",
+      "text": "facilitate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 促进；帮助；使容易"
+    },
+    {
+      "id": "it_o3_u2_28",
+      "text": "examine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 检查；调查； 检测；考试；vi. 检查；调查"
+    },
+    {
+      "id": "it_o3_u2_29",
+      "text": "negative",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. [数] 负的；消极的；否定的；阴性的；n. 否定；负数；[摄] 底片；vt. 否定；拒绝"
+    },
+    {
+      "id": "it_o3_u2_30",
+      "text": "escalator",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （美）自动扶梯；电动扶梯"
+    },
+    {
+      "id": "it_o3_u2_31",
+      "text": "straight away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 马上"
+    },
+    {
+      "id": "it_o3_u2_32",
+      "text": "pessimistic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 悲观的，厌世的；悲观主义的"
+    },
+    {
+      "id": "it_o3_u2_33",
+      "text": "discipline",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 学科；纪律；训练；惩罚；vt. 训练，训导；惩戒"
+    },
+    {
+      "id": "it_o3_u2_34",
+      "text": "pill",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 药丸；弹丸，子弹；口服避孕药；vt. 把…制成丸剂；使服用药丸；抢劫，掠夺（古语）；vi. 做成药丸；服药丸"
+    },
+    {
+      "id": "it_o3_u2_35",
+      "text": "delete",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 删除"
+    },
+    {
+      "id": "it_o3_u2_36",
+      "text": "decide on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 决心"
+    },
+    {
+      "id": "it_o3_u2_37",
+      "text": "make up one's mind",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 决心 (to do)"
+    },
+    {
+      "id": "it_o3_u2_38",
+      "text": "compose",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 构成；写作；使平静；排…的版；vi. 组成；作曲；排字"
+    },
+    {
+      "id": "it_o3_u2_39",
+      "text": "be composed of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 由…组成"
+    },
+    {
+      "id": "it_o3_u2_40",
+      "text": "surgeon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 外科医生"
+    },
+    {
+      "id": "it_o3_u2_41",
+      "text": "surgery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 外科；外科手术；手术室；诊疗室"
+    },
+    {
+      "id": "it_o3_u2_42",
+      "text": "liberation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 释放，解放"
+    },
+    {
+      "id": "it_o3_u2_43",
+      "text": "shave",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 剃须，剃毛；vt. 剃，削去；修剪；切成薄片；掠；n. 刮脸，剃胡子；修面；<口>侥幸逃过，幸免；剃刀，刮刀"
+    },
+    {
+      "id": "it_o3_u2_44",
+      "text": "shave off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 剃掉；削去"
+    },
+    {
+      "id": "it_o3_u2_45",
+      "text": "beard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 胡须；颌毛；vt. 公然反对；抓…的胡须；vi. 充当掩护；充当男随员"
+    },
+    {
+      "id": "it_o3_u2_46",
+      "text": "disturb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 打扰；妨碍；使不安；弄乱；使恼怒；vi. 打扰；妨碍"
+    },
+    {
+      "id": "it_o3_u2_47",
+      "text": "cigarette",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 香烟；纸烟"
+    },
+    {
+      "id": "it_o3_u2_48",
+      "text": "specialist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 专家；专门医师；adj. 专家的；专业的"
+    },
+    {
+      "id": "it_o3_u2_49",
+      "text": "consultant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 顾问；咨询者；会诊医生"
+    },
+    {
+      "id": "it_o3_u2_50",
+      "text": "drug",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 药；毒品；麻醉药；滞销货；vt. 使服麻醉药；使服毒品；掺麻醉药于；vi. 吸毒"
+    },
+    {
+      "id": "it_o3_u2_51",
+      "text": "skip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 跳跃；跳读；vt. 跳过；遗漏；vi. 跳跃；跳绳；遗漏；跳读"
+    },
+    {
+      "id": "it_o3_u2_52",
+      "text": "dizzy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 晕眩的；使人头晕的；昏乱的；心不在焉的；愚蠢的；vt. 使头晕眼花；使混乱；使茫然"
+    },
+    {
+      "id": "it_o3_u2_53",
+      "text": "flu",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 流感"
+    },
+    {
+      "id": "it_o3_u2_54",
+      "text": "stimulate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 起刺激作用；起促进作用；vt. 刺激；鼓舞，激励"
+    },
+    {
+      "id": "it_o3_u2_55",
+      "text": "dentist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 牙科医生；牙医诊所"
+    },
+    {
+      "id": "it_o3_u2_56",
+      "text": "sugary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 含糖的；甜的；糖状的；甜言蜜语的"
+    },
+    {
+      "id": "it_o3_u2_57",
+      "text": "nut",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 螺母，螺帽；坚果；难对付的人，难解的问题；vi. 采坚果"
+    },
+    {
+      "id": "it_o3_u2_58",
+      "text": "skateboard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 溜冰板；vi. 用滑板滑行"
+    },
+    {
+      "id": "it_o3_u2_59",
+      "text": "dynamic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 动态；动力；adj. 动态的；动力的；动力学的；有活力的"
+    },
+    {
+      "id": "it_o3_u2_60",
+      "text": "stressed out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. “stress”的过去式和过去分词"
+    },
+    {
+      "id": "it_o3_u2_61",
+      "text": "worn out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 破烂不堪的；废旧的；疲惫不堪；精疲力竭"
+    },
+    {
+      "id": "it_o3_u2_62",
+      "text": "bowling",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滚木球戏；保龄球戏；v. 打保龄球（bowl的现在分词）"
+    },
+    {
+      "id": "it_o3_u2_63",
+      "text": "comedy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 喜剧；喜剧性；有趣的事情"
+    },
+    {
+      "id": "it_o3_u2_64",
+      "text": "monthly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 每月的，每月一次的；有效期为一个月的；n. 月刊；adv. 每月，每月一次"
+    },
+    {
+      "id": "it_o3_u2_65",
+      "text": "enhance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 提高；加强；增加"
+    },
+    {
+      "id": "it_o3_u2_66",
+      "text": "refresh",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 更新；使……恢复；使……清新；消除……的疲劳；vi. 恢复精神；喝饮料，吃点心；补充给养"
+    },
+    {
+      "id": "it_o3_u2_67",
+      "text": "absorb",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 吸收；吸引；承受；理解；使…全神贯注"
+    },
+    {
+      "id": "it_o3_u2_68",
+      "text": "Aristotle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 亚里士多德"
+    },
+    {
+      "id": "it_o3_u2_69",
+      "text": "People's Liberation Army",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "中国人民解放军；中国人民解放军海军；中国人民解放军总部"
+    },
+    {
+      "id": "it_o3_u2_70",
+      "text": "PLA",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "abbr. 中国人民解放军（Chinese People's Liberation Army）；原生质树脂活动（plasma resin activity）"
+    },
+    {
+      "id": "it_o3_u2_71",
+      "text": "Lao Zi",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "老子；太上老君点化六诏；李耳"
+    },
+    {
+      "id": "it_o3_u2_72",
+      "text": "graph",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 图表；曲线图；vt. 用曲线图表示"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

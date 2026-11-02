@@ -1,0 +1,822 @@
+{
+  "schema": 1,
+  "id": "pep_c1_u5",
+  "name": "人教版必修第一册 · Unit 4 Natural Disasters",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c1_u5_1",
+      "text": "disaster",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灾难，灾祸；不幸"
+    },
+    {
+      "id": "it_c1_u5_2",
+      "text": "tornado",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [气象] 龙卷风；旋风；暴风；大雷雨"
+    },
+    {
+      "id": "it_c1_u5_3",
+      "text": "tornadoes",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [气象] 龙卷风（tornado的复数）"
+    },
+    {
+      "id": "it_c1_u5_4",
+      "text": "tornados",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 龙卷风，旋风( tornado的名词复数 )"
+    },
+    {
+      "id": "it_c1_u5_5",
+      "text": "drought",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 干旱；缺乏"
+    },
+    {
+      "id": "it_c1_u5_6",
+      "text": "landslide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [地质] 山崩；大胜利；vi. 发生山崩；以压倒优势获胜"
+    },
+    {
+      "id": "it_c1_u5_7",
+      "text": "landfall",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 着陆；[水运] 初见陆地；到达陆地"
+    },
+    {
+      "id": "it_c1_u5_8",
+      "text": "slide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滑动；幻灯片；滑梯；雪崩；vt. 滑动；使滑动；悄悄地迅速放置；vi. 滑动；滑落；不知不觉陷入"
+    },
+    {
+      "id": "it_c1_u5_9",
+      "text": "tsunami",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海啸"
+    },
+    {
+      "id": "it_c1_u5_10",
+      "text": "flood",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洪水；泛滥；一大批；vt. 淹没；充满；溢出；vi. 涌出；涌进；为水淹没"
+    },
+    {
+      "id": "it_c1_u5_11",
+      "text": "volcanic eruption",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 火山爆发；火山喷发"
+    },
+    {
+      "id": "it_c1_u5_12",
+      "text": "magnitude",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大小；量级；[地震] 震级；重要；光度"
+    },
+    {
+      "id": "it_c1_u5_13",
+      "text": "rescue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 营救；援救；解救；vt. 营救；援救"
+    },
+    {
+      "id": "it_c1_u5_14",
+      "text": "damage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 损害；损毁；vt. 损害，毁坏；n. 损害；损毁；赔偿金"
+    },
+    {
+      "id": "it_c1_u5_15",
+      "text": "destroy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 破坏；消灭；毁坏"
+    },
+    {
+      "id": "it_c1_u5_16",
+      "text": "evacuate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 疏散，撤退；排泄；vi. 疏散；撤退；排泄"
+    },
+    {
+      "id": "it_c1_u5_17",
+      "text": "helicopter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [航] 直升飞机；vt. 由直升机运送；vi. [航] 乘直升飞机"
+    },
+    {
+      "id": "it_c1_u5_18",
+      "text": "death",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 死；死亡；死神；毁灭"
+    },
+    {
+      "id": "it_c1_u5_19",
+      "text": "affect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 情感；引起感情的因素；vt. 影响；感染；感动；假装；vi. 倾向；喜欢"
+    },
+    {
+      "id": "it_c1_u5_20",
+      "text": "shelter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 庇护；避难所；遮盖物；vt. 保护；使掩蔽；vi. 躲避，避难"
+    },
+    {
+      "id": "it_c1_u5_21",
+      "text": "crack",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 裂缝；声变；噼啪声；adj. 最好的；高明的；vi. 破裂；爆裂；vt. 使破裂；打开；变声"
+    },
+    {
+      "id": "it_c1_u5_22",
+      "text": "as if",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 彷佛；活像"
+    },
+    {
+      "id": "it_c1_u5_23",
+      "text": "ruin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 废墟；毁坏；灭亡；vt. 毁灭；使破产；vi. 破产；堕落；被毁灭"
+    },
+    {
+      "id": "it_c1_u5_24",
+      "text": "in ruins",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "成为废墟；一片废墟；成废墟"
+    },
+    {
+      "id": "it_c1_u5_25",
+      "text": "percent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 百分比，百分率；部分；百分数；adj. 百分之…的；adv. 以百分之…地"
+    },
+    {
+      "id": "it_c1_u5_26",
+      "text": "brick",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 砖，砖块；砖形物；心肠好的人；adj. 用砖做的；似砖的；vt. 用砖砌"
+    },
+    {
+      "id": "it_c1_u5_27",
+      "text": "metal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 金属；合金；vt. 以金属覆盖；adj. 金属制的"
+    },
+    {
+      "id": "it_c1_u5_28",
+      "text": "shock",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 休克；震惊；震动；打击；禾束堆；adj. 浓密的；蓬乱的；vt. 使休克；使震惊；使震动；使受电击；把…堆成禾束堆；vi. 感到震惊；受到震动；堆成禾束堆"
+    },
+    {
+      "id": "it_c1_u5_29",
+      "text": "in shock",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "震惊；震惊地；处于极度震惊状态"
+    },
+    {
+      "id": "it_c1_u5_30",
+      "text": "electricity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 电力；电流；强烈的紧张情绪"
+    },
+    {
+      "id": "it_c1_u5_31",
+      "text": "trap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 陷阱；圈套；[建] 存水湾；vt. 诱捕；使…受限制；使…陷入困境；vi. 设陷阱"
+    },
+    {
+      "id": "it_c1_u5_32",
+      "text": "bury",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 埋葬；隐藏"
+    },
+    {
+      "id": "it_c1_u5_33",
+      "text": "breathe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 呼吸；低语；松口气；（风）轻拂；vt. 呼吸；使喘息；流露；低声说"
+    },
+    {
+      "id": "it_c1_u5_34",
+      "text": "revive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使复兴；使苏醒；回想起；重演，重播；vi. 复兴；复活；苏醒；恢复精神"
+    },
+    {
+      "id": "it_c1_u5_35",
+      "text": "revival",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 复兴；复活；苏醒；恢复精神；再生效"
+    },
+    {
+      "id": "it_c1_u5_36",
+      "text": "effort",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 努力；成就"
+    },
+    {
+      "id": "it_c1_u5_37",
+      "text": "unify",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 统一；使相同，使一致"
+    },
+    {
+      "id": "it_c1_u5_38",
+      "text": "wisdom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 智慧，才智；明智；学识；至理名言"
+    },
+    {
+      "id": "it_c1_u5_39",
+      "text": "context",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 环境；上下文；来龙去脉"
+    },
+    {
+      "id": "it_c1_u5_40",
+      "text": "suffer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 遭受，忍受；受痛苦；经验；受损害；vt. 遭受；忍受；经历"
+    },
+    {
+      "id": "it_c1_u5_41",
+      "text": "volcano",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 火山"
+    },
+    {
+      "id": "it_c1_u5_42",
+      "text": "erupt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 爆发；喷出；发疹；长牙；vt. 爆发；喷出"
+    },
+    {
+      "id": "it_c1_u5_43",
+      "text": "supply",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 供给，补给；供应品；vt. 供给，提供；补充；vi. 供给；替代"
+    },
+    {
+      "id": "it_c1_u5_44",
+      "text": "typhoon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [气象] 台风"
+    },
+    {
+      "id": "it_c1_u5_45",
+      "text": "in the open air",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 在户外[野外]"
+    },
+    {
+      "id": "it_c1_u5_46",
+      "text": "hurricane",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 飓风，暴风"
+    },
+    {
+      "id": "it_c1_u5_47",
+      "text": "survive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 幸存；活下来；vt. 幸存；生还；幸免于；比...活得长"
+    },
+    {
+      "id": "it_c1_u5_48",
+      "text": "power",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 力量，能力；电力，功率；政权，势力；[数] 幂；adj. 借影响有权势人物以操纵权力的；vt. 激励；供以动力；使…有力量；vi. 快速前进"
+    },
+    {
+      "id": "it_c1_u5_49",
+      "text": "tap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 水龙头；轻打；vt. 轻敲；轻打；装上嘴子；vi. 轻拍；轻击；轻叩；vt. 采用，利用"
+    },
+    {
+      "id": "it_c1_u5_50",
+      "text": "pipe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 管；烟斗；笛；vt. 用管道输送；尖声唱；用管乐器演奏；vi. 吹笛；尖叫"
+    },
+    {
+      "id": "it_c1_u5_51",
+      "text": "whistle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 口哨；汽笛；呼啸声；vt. 吹口哨；鸣汽笛"
+    },
+    {
+      "id": "it_c1_u5_52",
+      "text": "emergency",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 紧急情况；突发事件；非常时刻；adj. 紧急的；备用的"
+    },
+    {
+      "id": "it_c1_u5_53",
+      "text": "calm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 风平浪静；adj. 静的，平静的；沉着的；vt. 使平静；使镇定；vi. 平静下来；镇定下来"
+    },
+    {
+      "id": "it_c1_u5_54",
+      "text": "aid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 援助；帮助；助手；帮助者；vt. 援助；帮助；有助于；vi. 帮助"
+    },
+    {
+      "id": "it_c1_u5_55",
+      "text": "kit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 工具箱；成套工具；vt. 装备；vi. 装备"
+    },
+    {
+      "id": "it_c1_u5_56",
+      "text": "first aid kit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 急救包；急救药箱"
+    },
+    {
+      "id": "it_c1_u5_57",
+      "text": "on hand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 现有；〈美〉出席；〈美〉在近处"
+    },
+    {
+      "id": "it_c1_u5_58",
+      "text": "crash",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 撞碎；坠毁；破产；轰隆声；睡觉；vi. 摔碎；坠落；发出隆隆声；(金融企业等)破产；vt. 打碎；使坠毁、撞坏；擅自闯入"
+    },
+    {
+      "id": "it_c1_u5_59",
+      "text": "sweep",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 打扫，扫除；范围；全胜；vt. 扫除；猛拉；掸去；vi. 扫，打扫；席卷；扫视；袭击"
+    },
+    {
+      "id": "it_c1_u5_60",
+      "text": "swept",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 扫除（sweep的过去式和过去分词）；adj. 扫频的"
+    },
+    {
+      "id": "it_c1_u5_61",
+      "text": "swept",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 扫除（sweep的过去式和过去分词）；adj. 扫频的"
+    },
+    {
+      "id": "it_c1_u5_62",
+      "text": "sweep away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 扫清；肃清；冲走"
+    },
+    {
+      "id": "it_c1_u5_63",
+      "text": "wave",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 波动；波浪；高潮；挥手示意；卷曲；vt. 卷（烫）发；向…挥手示意；使成波浪形；vi. 波动；起伏；挥手示意；摇动；呈波形"
+    },
+    {
+      "id": "it_c1_u5_64",
+      "text": "strike",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罢工；打击；殴打；vi. 打，打击；罢工；敲，敲击；抓；打动；穿透；vt. 打，击；罢工；撞击，冲击；侵袭；打动；到达"
+    },
+    {
+      "id": "it_c1_u5_65",
+      "text": "struck",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 罢工，打击，撞击（strike的过去式和过去分词）；adj. 受罢工影响的"
+    },
+    {
+      "id": "it_c1_u5_66",
+      "text": "struck",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 罢工，打击，撞击（strike的过去式和过去分词）；adj. 受罢工影响的"
+    },
+    {
+      "id": "it_c1_u5_67",
+      "text": "stricken",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 患病的；受挫折的；受…侵袭的；遭殃的"
+    },
+    {
+      "id": "it_c1_u5_68",
+      "text": "deliver",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 投球；vt. 交付；发表；递送；释放；给予（打击）；给…接生；vi. 实现；传送；履行；投递"
+    },
+    {
+      "id": "it_c1_u5_69",
+      "text": "summary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 概要，摘要，总结；adj. 简易的；扼要的"
+    },
+    {
+      "id": "it_c1_u5_70",
+      "text": "effect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 影响；效果；作用；vt. 产生；达到目的"
+    },
+    {
+      "id": "it_c1_u5_71",
+      "text": "length",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 长度，长；时间的长短；（语）音长"
+    },
+    {
+      "id": "it_c1_u5_72",
+      "text": "Ecuador",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 厄瓜多尔（位于拉丁美洲）"
+    },
+    {
+      "id": "it_c1_u5_73",
+      "text": "Memphis",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 孟斐斯（古埃及城市，废墟在今开罗之南）；孟菲斯市（美国田纳西州城市名）"
+    },
+    {
+      "id": "it_c1_u5_74",
+      "text": "Alberta",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 亚伯达（加拿大西部的一个省）"
+    },
+    {
+      "id": "it_c1_u5_75",
+      "text": "Colombo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 科伦坡（斯里兰卡首都）"
+    },
+    {
+      "id": "it_c1_u5_76",
+      "text": "Sri Lanka",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【国】斯里兰卡；印度洋上的岛国"
+    },
+    {
+      "id": "it_c1_u5_77",
+      "text": "Indonesia",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 印尼，印度尼西亚（东南亚岛国）"
+    },
+    {
+      "id": "it_c1_u5_78",
+      "text": "Thailand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 泰国（东南亚国家名）"
+    },
+    {
+      "id": "it_c1_u5_79",
+      "text": "Malaysia",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 马来西亚；马来群岛"
+    },
+    {
+      "id": "it_c1_u5_80",
+      "text": "Sumatra Island",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "苏门答腊岛；今印度尼西亚苏门答腊岛；苏门达腊岛"
+    },
+    {
+      "id": "it_c1_u5_81",
+      "text": "Chandra Theeravit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

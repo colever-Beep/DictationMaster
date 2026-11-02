@@ -1,0 +1,702 @@
+{
+  "schema": 1,
+  "id": "pep_o1_u4",
+  "name": "人教版选择性必修第一册 · Unit 4 Body Language",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o1_u4_1",
+      "text": "gesture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 姿态；手势；vt. 用动作表示；vi. 作手势；用动作示意"
+    },
+    {
+      "id": "it_o1_u4_2",
+      "text": "witness",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 证人；目击者；证据；vt. 目击；证明；为…作证；vi. 作证人"
+    },
+    {
+      "id": "it_o1_u4_3",
+      "text": "employ",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 使用；雇用；vt. 使用，采用；雇用；使忙于，使从事于"
+    },
+    {
+      "id": "it_o1_u4_4",
+      "text": "identical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 完全相同的事物；adj. 同一的；完全相同的"
+    },
+    {
+      "id": "it_o1_u4_5",
+      "text": "interpret",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 解释；翻译；vt. 说明；口译"
+    },
+    {
+      "id": "it_o1_u4_6",
+      "text": "differ",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 相异；意见分歧；vt. 使…相异；使…不同"
+    },
+    {
+      "id": "it_o1_u4_7",
+      "text": "by comparison",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 比较起来"
+    },
+    {
+      "id": "it_o1_u4_8",
+      "text": "cheek",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 面颊，脸颊；臀部；vt. 无礼地向…讲话，对…大胆无礼"
+    },
+    {
+      "id": "it_o1_u4_9",
+      "text": "favour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 偏爱；赞同；善行；vt. 赞成；喜爱；有助于"
+    },
+    {
+      "id": "it_o1_u4_10",
+      "text": "bow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 弓；鞠躬；船首；adj. 弯曲的；vi. 鞠躬；弯腰；vt. 鞠躬；弯腰"
+    },
+    {
+      "id": "it_o1_u4_11",
+      "text": "waist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 腰，腰部"
+    },
+    {
+      "id": "it_o1_u4_12",
+      "text": "make inferences",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o1_u4_13",
+      "text": "break down",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 分解；抛锚；分析；划分"
+    },
+    {
+      "id": "it_o1_u4_14",
+      "text": "barrier",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 障碍物，屏障；界线；vt. 把…关入栅栏"
+    },
+    {
+      "id": "it_o1_u4_15",
+      "text": "fake",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 假货；骗子；假动作；adj. 伪造的；vt. 捏造；假装…的样子；vi. 假装；做假动作"
+    },
+    {
+      "id": "it_o1_u4_16",
+      "text": "anger",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 怒，愤怒；忿怒；vt. 使发怒，激怒；恼火；vi. 发怒；恼火"
+    },
+    {
+      "id": "it_o1_u4_17",
+      "text": "reliable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 可靠的人；adj. 可靠的；可信赖的"
+    },
+    {
+      "id": "it_o1_u4_18",
+      "text": "incident",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 事件，事变；插曲；adj. [光] 入射的；附带的；易发生的，伴随而来的"
+    },
+    {
+      "id": "it_o1_u4_19",
+      "text": "trial",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 试验；审讯；努力；磨炼；adj. 试验的；审讯的"
+    },
+    {
+      "id": "it_o1_u4_20",
+      "text": "slight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 怠慢；轻蔑；adj. 轻微的，少量的；脆弱的；细长的；不重要的；vt. 轻视，忽略；怠慢"
+    },
+    {
+      "id": "it_o1_u4_21",
+      "text": "slightly",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 些微地，轻微地；纤细地"
+    },
+    {
+      "id": "it_o1_u4_22",
+      "text": "twin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 双胞胎中一人；adj. 双胞胎的；vt. 使成对；vi. 成对；生双胞胎"
+    },
+    {
+      "id": "it_o1_u4_23",
+      "text": "nonverbal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不用语言的；不用动词的"
+    },
+    {
+      "id": "it_o1_u4_24",
+      "text": "assessment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 评定；估价"
+    },
+    {
+      "id": "it_o1_u4_25",
+      "text": "assess",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 评定；估价；对…征税"
+    },
+    {
+      "id": "it_o1_u4_26",
+      "text": "internal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 内脏；本质；adj. 内部的；里面的；体内的；（机构）内部的"
+    },
+    {
+      "id": "it_o1_u4_27",
+      "text": "straighten up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 改善；正派地过日子"
+    },
+    {
+      "id": "it_o1_u4_28",
+      "text": "slump",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 使降低；使衰落；使倒下；n. 衰退；暴跌；消沉；vi. 下降，衰落；倒下；大幅度下降，暴跌"
+    },
+    {
+      "id": "it_o1_u4_29",
+      "text": "pose",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 摆姿势；佯装；矫揉造作；vt. 造成，形成；摆姿势；装模作样；提出…讨论；n. 姿势，姿态；装模作样"
+    },
+    {
+      "id": "it_o1_u4_30",
+      "text": "bend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 弯曲；vt. 使弯曲；使屈服；使致力；使朝向；vi. 弯曲，转弯；屈服；倾向；专心于"
+    },
+    {
+      "id": "it_o1_u4_31",
+      "text": "bent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 爱好，嗜好；adj. 弯曲的；决心的"
+    },
+    {
+      "id": "it_o1_u4_32",
+      "text": "bent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 爱好，嗜好；adj. 弯曲的；决心的"
+    },
+    {
+      "id": "it_o1_u4_33",
+      "text": "reveal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 揭露；暴露；门侧，窗侧；vt. 显示；透露；揭露；泄露"
+    },
+    {
+      "id": "it_o1_u4_34",
+      "text": "clarify",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 澄清；阐明；vi. 得到澄清；变得明晰；得到净化"
+    },
+    {
+      "id": "it_o1_u4_35",
+      "text": "in other words",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 换句话说"
+    },
+    {
+      "id": "it_o1_u4_36",
+      "text": "educator",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 教育家；教育工作者；教师"
+    },
+    {
+      "id": "it_o1_u4_37",
+      "text": "tick",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滴答声；扁虱；记号；赊欠；vt. 标记号于；滴答地记录；vi. 发出滴答声；标以记号"
+    },
+    {
+      "id": "it_o1_u4_38",
+      "text": "tendency",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 倾向，趋势；癖好"
+    },
+    {
+      "id": "it_o1_u4_39",
+      "text": "lower",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 减弱，减少；放下，降下；贬低；vi. 降低；减弱；跌落；adj. 下游的；下级的；下等的"
+    },
+    {
+      "id": "it_o1_u4_40",
+      "text": "imply",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 意味；暗示；隐含"
+    },
+    {
+      "id": "it_o1_u4_41",
+      "text": "barely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 仅仅，勉强；几乎不；公开地；贫乏地"
+    },
+    {
+      "id": "it_o1_u4_42",
+      "text": "chin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 下巴；聊天；引体向上动作；vt. 用下巴夹住；与…聊天；在单杠上作引体向上动作；vi. 闲谈；作引体向上动作"
+    },
+    {
+      "id": "it_o1_u4_43",
+      "text": "occupy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 占据，占领；居住；使忙碌"
+    },
+    {
+      "id": "it_o1_u4_44",
+      "text": "stare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 凝视；注视；vt. 凝视，盯着看；vi. 凝视，盯着看；显眼"
+    },
+    {
+      "id": "it_o1_u4_45",
+      "text": "ceiling",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 天花板；上限"
+    },
+    {
+      "id": "it_o1_u4_46",
+      "text": "distract",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 转移；分心"
+    },
+    {
+      "id": "it_o1_u4_47",
+      "text": "perceive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 察觉，感觉；理解；认知；vi. 感到，感知；认识到"
+    },
+    {
+      "id": "it_o1_u4_48",
+      "text": "distinguish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 区别，区分；辨别；vt. 区分；辨别；使杰出，使表现突出"
+    },
+    {
+      "id": "it_o1_u4_49",
+      "text": "anxiety",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 焦虑；渴望；挂念；令人焦虑的事"
+    },
+    {
+      "id": "it_o1_u4_50",
+      "text": "chest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 胸，胸部；衣柜；箱子；金库"
+    },
+    {
+      "id": "it_o1_u4_51",
+      "text": "embarrassed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 使...困窘；使...局促不安（embarrass的过去分词形式）；adj. 尴尬的；窘迫的"
+    },
+    {
+      "id": "it_o1_u4_52",
+      "text": "ashamed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 惭愧的，感到难为情的；耻于……的"
+    },
+    {
+      "id": "it_o1_u4_53",
+      "text": "merely",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 仅仅，只不过；只是"
+    },
+    {
+      "id": "it_o1_u4_54",
+      "text": "call on",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 号召；指名要(某人)去干(某事)；请求；访问"
+    },
+    {
+      "id": "it_o1_u4_55",
+      "text": "bother",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 麻烦；烦恼；vt. 烦扰，打扰；使……不安；使……恼怒；vi. 操心，麻烦；烦恼"
+    },
+    {
+      "id": "it_o1_u4_56",
+      "text": "weep",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 哭泣；眼泪；滴下；vt. 哭泣；流泪；悲叹；流出或渗出液体；vi. 哭泣；流泪；哀悼；滴落；渗出液体"
+    },
+    {
+      "id": "it_o1_u4_57",
+      "text": "at work",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 做着；在工作；起着作用；运转中"
+    },
+    {
+      "id": "it_o1_u4_58",
+      "text": "conflict",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冲突，矛盾；斗争；争执；vi. 冲突，抵触；争执；战斗"
+    },
+    {
+      "id": "it_o1_u4_59",
+      "text": "inquire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 询问；查究；询价；vt. 询问；查究；问明"
+    },
+    {
+      "id": "it_o1_u4_60",
+      "text": "enquire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 询问；调查；问候（等于inquire）；vt. 询问；打听"
+    },
+    {
+      "id": "it_o1_u4_61",
+      "text": "ultimately",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 最后；根本；基本上"
+    },
+    {
+      "id": "it_o1_u4_62",
+      "text": "adjust",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 调整，使…适合；校准；vi. 调整，校准；适应"
+    },
+    {
+      "id": "it_o1_u4_63",
+      "text": "intervene",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 干涉；调停；插入"
+    },
+    {
+      "id": "it_o1_u4_64",
+      "text": "react",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 反应；影响；反抗；起反作用；vt. 使发生相互作用；使起化学反应"
+    },
+    {
+      "id": "it_o1_u4_65",
+      "text": "component",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 成分；组件；[电子] 元件；adj. 组成的，构成的"
+    },
+    {
+      "id": "it_o1_u4_66",
+      "text": "tone",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 语气；色调；音调；音色；vt. 增强；用某种调子说；vi. 颜色调和；呈现悦目色调"
+    },
+    {
+      "id": "it_o1_u4_67",
+      "text": "Brazil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 巴西（拉丁美洲国家）"
+    },
+    {
+      "id": "it_o1_u4_68",
+      "text": "Bulgaria",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 保加利亚"
+    },
+    {
+      "id": "it_o1_u4_69",
+      "text": "Albania",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 阿尔巴尼亚（位于欧洲）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

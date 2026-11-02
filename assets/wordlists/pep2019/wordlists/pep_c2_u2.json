@@ -1,0 +1,882 @@
+{
+  "schema": 1,
+  "id": "pep_c2_u2",
+  "name": "人教版必修第二册 · Unit 2 Wildlife Protection",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c2_u2_1",
+      "text": "illegal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 非法移民，非法劳工；adj. [法] 非法的；违法的；违反规则的"
+    },
+    {
+      "id": "it_c2_u2_2",
+      "text": "illegally",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 非法地"
+    },
+    {
+      "id": "it_c2_u2_3",
+      "text": "hunt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 狩猎；搜寻；vt. 打猎；搜索；vi. 打猎；搜寻"
+    },
+    {
+      "id": "it_c2_u2_4",
+      "text": "hunter",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 猎人；猎犬；搜寻者"
+    },
+    {
+      "id": "it_c2_u2_5",
+      "text": "immediately",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "conj. 一…就；adv. 立即，立刻；直接地"
+    },
+    {
+      "id": "it_c2_u2_6",
+      "text": "species",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [生物] 物种；种类；adj. 物种上的"
+    },
+    {
+      "id": "it_c2_u2_7",
+      "text": "shark",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鲨鱼；骗子；vt. 敲诈；vi. 诈骗"
+    },
+    {
+      "id": "it_c2_u2_8",
+      "text": "fin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鳍；鱼翅；鳍状物；vt. 切除鳍；装上翅；vi. 猛挥鳍；潜泳"
+    },
+    {
+      "id": "it_c2_u2_9",
+      "text": "on earth",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 到底；在地球上；全然"
+    },
+    {
+      "id": "it_c2_u2_10",
+      "text": "die out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 死绝"
+    },
+    {
+      "id": "it_c2_u2_11",
+      "text": "alarming",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 令人担忧的；使人惊恐的；v. 使惊恐（alarm的ing形式）"
+    },
+    {
+      "id": "it_c2_u2_12",
+      "text": "alarm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 闹钟；警报，警告器；惊慌；vt. 警告；使惊恐"
+    },
+    {
+      "id": "it_c2_u2_13",
+      "text": "rate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 比率，率；速度；价格；等级；vt. 认为；估价；责骂；vi. 责骂；被评价"
+    },
+    {
+      "id": "it_c2_u2_14",
+      "text": "rating",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 等级；等级评定；额定功率；v. 对…评价（rate的ing形式）"
+    },
+    {
+      "id": "it_c2_u2_15",
+      "text": "extinct",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 灭绝的，绝种的；熄灭的；vt. 使熄灭"
+    },
+    {
+      "id": "it_c2_u2_16",
+      "text": "extinction",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灭绝；消失；消灭；废止"
+    },
+    {
+      "id": "it_c2_u2_17",
+      "text": "mass",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 块，团；群众，民众；大量，众多；质量；adj. 群众的，民众的；大规模的，集中的；vi. 聚集起来，聚集；vt. 使集合"
+    },
+    {
+      "id": "it_c2_u2_18",
+      "text": "habitat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [生态] 栖息地，产地"
+    },
+    {
+      "id": "it_c2_u2_19",
+      "text": "aware",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 意识到的；知道的；有…方面知识的；懂世故的"
+    },
+    {
+      "id": "it_c2_u2_20",
+      "text": "aware of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 有见识；清楚；注意到；听到"
+    },
+    {
+      "id": "it_c2_u2_21",
+      "text": "endanger",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 危及；使遭到危险"
+    },
+    {
+      "id": "it_c2_u2_22",
+      "text": "average",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平均；平均数；海损；adj. 平均的；普通的；通常的；vt. 算出…的平均数；将…平均分配；使…平衡；vi. 平均为；呈中间色"
+    },
+    {
+      "id": "it_c2_u2_23",
+      "text": "on average",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "平均；平均起来；通常"
+    },
+    {
+      "id": "it_c2_u2_24",
+      "text": "prince",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 王子，国君；亲王；贵族"
+    },
+    {
+      "id": "it_c2_u2_25",
+      "text": "make progress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 前进；进展"
+    },
+    {
+      "id": "it_c2_u2_26",
+      "text": "concern",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 关系；关心；关心的事；忧虑；vt. 涉及，关系到；使担心"
+    },
+    {
+      "id": "it_c2_u2_27",
+      "text": "concerned",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 关心（concern的过去时和过去分词）；与…有关；adj. 有关的；关心的"
+    },
+    {
+      "id": "it_c2_u2_28",
+      "text": "concerned about",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "担忧；关注；对…担忧"
+    },
+    {
+      "id": "it_c2_u2_29",
+      "text": "living",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 活的；现存的；活跃的；逼真的；n. 生活；生存；生计；v. 生活；居住（live的ing形式）；度过"
+    },
+    {
+      "id": "it_c2_u2_30",
+      "text": "adapt",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 适应；vt. 使适应；改编"
+    },
+    {
+      "id": "it_c2_u2_31",
+      "text": "adapt to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 使(自己行动)配合(同伴)"
+    },
+    {
+      "id": "it_c2_u2_32",
+      "text": "measure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 测量；措施；程度；尺寸；vt. 测量；估量；权衡；vi. 测量；估量"
+    },
+    {
+      "id": "it_c2_u2_33",
+      "text": "authority",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 权威；权力；当局"
+    },
+    {
+      "id": "it_c2_u2_34",
+      "text": "pressure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 压力；压迫，[物] 压强；vt. 迫使；密封；使……增压"
+    },
+    {
+      "id": "it_c2_u2_35",
+      "text": "under pressure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 在压力下"
+    },
+    {
+      "id": "it_c2_u2_36",
+      "text": "whale",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鲸；巨大的东西；vt. 猛揍；使惨败；vi. 捕鲸"
+    },
+    {
+      "id": "it_c2_u2_37",
+      "text": "antelope",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 羚羊；羚羊皮革"
+    },
+    {
+      "id": "it_c2_u2_38",
+      "text": "Tibetan antelope",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【动】藏羚羊"
+    },
+    {
+      "id": "it_c2_u2_39",
+      "text": "reserve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 储备，储存；自然保护区；预备队；缄默；[金融] 储备金；vt. 储备；保留；预约；vi. 预订"
+    },
+    {
+      "id": "it_c2_u2_40",
+      "text": "plain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平原；无格式；朴实无华的东西；adj. 平的；简单的；朴素的；清晰的；adv. 清楚地；平易地"
+    },
+    {
+      "id": "it_c2_u2_41",
+      "text": "make out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 理解；发现；起草；证明"
+    },
+    {
+      "id": "it_c2_u2_42",
+      "text": "herd",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 兽群，畜群；放牧人；vt. 放牧；使成群；vi. 成群，聚在一起"
+    },
+    {
+      "id": "it_c2_u2_43",
+      "text": "observe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 庆祝；vt. 观察；遵守；说；注意到；评论；vi. 观察；说；注意到；评论"
+    },
+    {
+      "id": "it_c2_u2_44",
+      "text": "beauty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 美；美丽；美人；美好的东西"
+    },
+    {
+      "id": "it_c2_u2_45",
+      "text": "remind",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 提醒；使想起"
+    },
+    {
+      "id": "it_c2_u2_46",
+      "text": "remind sb. of sb.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 提醒"
+    },
+    {
+      "id": "it_c2_u2_47",
+      "text": "remind sb. of sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 提醒"
+    },
+    {
+      "id": "it_c2_u2_48",
+      "text": "fur",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 皮，皮子；毛皮；软毛；n. 水垢；vt. 用毛皮覆盖；使穿毛皮服装"
+    },
+    {
+      "id": "it_c2_u2_49",
+      "text": "sacred",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 神的；神圣的；宗教的；庄严的"
+    },
+    {
+      "id": "it_c2_u2_50",
+      "text": "shoot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 射击；摄影；狩猎；急流；vt. 射击，射中；拍摄；发芽；使爆炸；给…注射；vi. 射击；发芽；拍电影"
+    },
+    {
+      "id": "it_c2_u2_51",
+      "text": "shot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 发射；炮弹；射手；镜头；v. 射击（shoot的过去式和过去分词）；adj. 用尽的；破旧的；杂色的，闪光的"
+    },
+    {
+      "id": "it_c2_u2_52",
+      "text": "shot",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 发射；炮弹；射手；镜头；v. 射击（shoot的过去式和过去分词）；adj. 用尽的；破旧的；杂色的，闪光的"
+    },
+    {
+      "id": "it_c2_u2_53",
+      "text": "profit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 利润；利益；vt. 有益于；vi. 获利；有益"
+    },
+    {
+      "id": "it_c2_u2_54",
+      "text": "watch over",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 监视；留心；看护"
+    },
+    {
+      "id": "it_c2_u2_55",
+      "text": "day and night",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "夜以继日地， 日夜; 不舍昼夜; 日日夜夜; 白天黑夜"
+    },
+    {
+      "id": "it_c2_u2_56",
+      "text": "attack",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 攻击；抨击；疾病发作；vt. 攻击；抨击；动手干；vi. 攻击；腐蚀"
+    },
+    {
+      "id": "it_c2_u2_57",
+      "text": "effective",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有效的，起作用的；实际的，实在的；给人深刻印象"
+    },
+    {
+      "id": "it_c2_u2_58",
+      "text": "recover",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 还原至预备姿势；vt. 恢复；弥补；重新获得；vi. 恢复；胜诉；重新得球"
+    },
+    {
+      "id": "it_c2_u2_59",
+      "text": "remove",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 移动；距离；搬家；vt. 移动，迁移；开除；调动；vi. 移动，迁移；搬家"
+    },
+    {
+      "id": "it_c2_u2_60",
+      "text": "intend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 有打算；vt. 打算；想要；意指"
+    },
+    {
+      "id": "it_c2_u2_61",
+      "text": "threat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 威胁，恐吓；凶兆"
+    },
+    {
+      "id": "it_c2_u2_62",
+      "text": "threaten",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 威胁；恐吓；预示；vi. 威胁；可能来临"
+    },
+    {
+      "id": "it_c2_u2_63",
+      "text": "exist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 存在；生存；生活；继续存在"
+    },
+    {
+      "id": "it_c2_u2_64",
+      "text": "harmony",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 协调；和睦；融洽；调和"
+    },
+    {
+      "id": "it_c2_u2_65",
+      "text": "goods",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 商品；动产；合意的人；真本领"
+    },
+    {
+      "id": "it_c2_u2_66",
+      "text": "creature",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 动物，生物；人；创造物"
+    },
+    {
+      "id": "it_c2_u2_67",
+      "text": "deer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 鹿"
+    },
+    {
+      "id": "it_c2_u2_68",
+      "text": "kangaroo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 袋鼠"
+    },
+    {
+      "id": "it_c2_u2_69",
+      "text": "reduce",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 减少；缩小；归纳为；vt. 减少；降低；使处于；把…分解"
+    },
+    {
+      "id": "it_c2_u2_70",
+      "text": "due",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 应付款；应得之物；adj. 到期的；预期的；应付的；应得的；adv. 正（置于方位词前）"
+    },
+    {
+      "id": "it_c2_u2_71",
+      "text": "due to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 由于；预定；因为；亏"
+    },
+    {
+      "id": "it_c2_u2_72",
+      "text": "insect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 昆虫；卑鄙的人"
+    },
+    {
+      "id": "it_c2_u2_73",
+      "text": "net",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 网；网络；净利；实价；vi. 编网；vt. 得到；净赚；用网捕；adj. 纯粹的；净余的"
+    },
+    {
+      "id": "it_c2_u2_74",
+      "text": "neighbourhood",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 邻近；周围；邻居关系；附近一带"
+    },
+    {
+      "id": "it_c2_u2_75",
+      "text": "binoculars",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [光] 双筒望远镜；[光] 双筒镜，[光] 双目镜"
+    },
+    {
+      "id": "it_c2_u2_76",
+      "text": "bird field guide",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c2_u2_77",
+      "text": "search for",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 寻找；寻求；探求"
+    },
+    {
+      "id": "it_c2_u2_78",
+      "text": "dolphin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海豚"
+    },
+    {
+      "id": "it_c2_u2_79",
+      "text": "Yangtze River dolphin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "白鳍豚；白暨豚；江豚"
+    },
+    {
+      "id": "it_c2_u2_80",
+      "text": "koala",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 树袋熊，无尾熊（产于澳大利亚，又名考拉）"
+    },
+    {
+      "id": "it_c2_u2_81",
+      "text": "stir",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 搅拌；轰动；vi. 搅动；传播；走动；vt. 搅拌；激起；惹起"
+    },
+    {
+      "id": "it_c2_u2_82",
+      "text": "stir up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 转播；重播；搅拌；煽动"
+    },
+    {
+      "id": "it_c2_u2_83",
+      "text": "emotion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 情感；情绪"
+    },
+    {
+      "id": "it_c2_u2_84",
+      "text": "skin",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 皮肤；外皮；vt. 剥皮；vi. 愈合；长皮"
+    },
+    {
+      "id": "it_c2_u2_85",
+      "text": "unusual",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 不寻常的；与众不同的；不平常的"
+    },
+    {
+      "id": "it_c2_u2_86",
+      "text": "Tibetan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 藏语；西藏人；adj. 西藏的；藏族的"
+    },
+    {
+      "id": "it_c2_u2_87",
+      "text": "Tibet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 西藏（中国一自治区）"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

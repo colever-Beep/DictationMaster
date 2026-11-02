@@ -1,0 +1,982 @@
+{
+  "schema": 1,
+  "id": "pep_c3_u2",
+  "name": "人教版必修第三册 · Unit 2 Morals and Virtues",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c3_u2_1",
+      "text": "moral",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 道德的；精神上的；品性端正的；n. 道德；寓意"
+    },
+    {
+      "id": "it_c3_u2_2",
+      "text": "virtue",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 美德；优点；贞操；功效"
+    },
+    {
+      "id": "it_c3_u2_3",
+      "text": "dilemma",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 困境；进退两难；两刀论法"
+    },
+    {
+      "id": "it_c3_u2_4",
+      "text": "moral dilemma",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "道德两难；道德困境；伦理两难"
+    },
+    {
+      "id": "it_c3_u2_5",
+      "text": "faint",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [中医] 昏厥，昏倒；adj. 模糊的；头晕的；虚弱的；[医] 衰弱的；vi. 昏倒；变得微弱；变得没气力"
+    },
+    {
+      "id": "it_c3_u2_6",
+      "text": "illustrate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 举例；vt. 阐明，举例说明；图解"
+    },
+    {
+      "id": "it_c3_u2_7",
+      "text": "precious",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 宝贵的；珍贵的；矫揉造作的"
+    },
+    {
+      "id": "it_c3_u2_8",
+      "text": "entrust",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 委托，信托"
+    },
+    {
+      "id": "it_c3_u2_9",
+      "text": "carry sb. through sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 完成(计划等)；坚持到底"
+    },
+    {
+      "id": "it_c3_u2_10",
+      "text": "marriage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 结婚；婚姻生活；密切结合，合并"
+    },
+    {
+      "id": "it_c3_u2_11",
+      "text": "majority",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 多数；成年"
+    },
+    {
+      "id": "it_c3_u2_12",
+      "text": "complain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 投诉；发牢骚；诉说；vt. 抱怨；控诉"
+    },
+    {
+      "id": "it_c3_u2_13",
+      "text": "tuition",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 学费；讲授"
+    },
+    {
+      "id": "it_c3_u2_14",
+      "text": "fee",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 费用；酬金；小费；vt. 付费给……"
+    },
+    {
+      "id": "it_c3_u2_15",
+      "text": "tuition fees",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "学费；学习费用；学杂费专区"
+    },
+    {
+      "id": "it_c3_u2_16",
+      "text": "respond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 应答；唱和；vi. 回答；作出反应；承担责任；vt. 以…回答"
+    },
+    {
+      "id": "it_c3_u2_17",
+      "text": "response",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 响应；反应；回答"
+    },
+    {
+      "id": "it_c3_u2_18",
+      "text": "union",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 联盟，协会；工会；联合"
+    },
+    {
+      "id": "it_c3_u2_19",
+      "text": "scholarship",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 奖学金；学识，学问"
+    },
+    {
+      "id": "it_c3_u2_20",
+      "text": "hire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 雇用，租用；租金，工钱；vt. 雇用；出租；vi. 雇用，租用；受雇"
+    },
+    {
+      "id": "it_c3_u2_21",
+      "text": "physician",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [医] 医师；内科医师"
+    },
+    {
+      "id": "it_c3_u2_22",
+      "text": "resident physician",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 内科住院医师"
+    },
+    {
+      "id": "it_c3_u2_23",
+      "text": "colleague",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 同事，同僚"
+    },
+    {
+      "id": "it_c3_u2_24",
+      "text": "reject",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 被弃之物或人；次品；vt. 拒绝；排斥；抵制；丢弃"
+    },
+    {
+      "id": "it_c3_u2_25",
+      "text": "rejection",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 抛弃；拒绝；被抛弃的东西；盖帽"
+    },
+    {
+      "id": "it_c3_u2_26",
+      "text": "appoint",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 任命；指定；约定；vi. 任命；委派"
+    },
+    {
+      "id": "it_c3_u2_27",
+      "text": "clinic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 临床；诊所"
+    },
+    {
+      "id": "it_c3_u2_28",
+      "text": "faraway",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 遥远的；恍惚的"
+    },
+    {
+      "id": "it_c3_u2_29",
+      "text": "elect",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 被选的人；特殊阶层；上帝的选民；adj. 选出的；当选的；卓越的；vi. 作出选择；进行选举；vt. 选举；选择；推选"
+    },
+    {
+      "id": "it_c3_u2_30",
+      "text": "election",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 选举；当选；选择权；上帝的选拔"
+    },
+    {
+      "id": "it_c3_u2_31",
+      "text": "decade",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 十年，十年期；十"
+    },
+    {
+      "id": "it_c3_u2_32",
+      "text": "elsewhere",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 在别处；到别处"
+    },
+    {
+      "id": "it_c3_u2_33",
+      "text": "tend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 照料，照管；vi. 趋向，倾向；照料，照顾"
+    },
+    {
+      "id": "it_c3_u2_34",
+      "text": "tend to do sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "倾向于做某事；倾向去做某事；倾向做某事"
+    },
+    {
+      "id": "it_c3_u2_35",
+      "text": "publish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 出版；发行；刊印；vt. 出版；发表；公布"
+    },
+    {
+      "id": "it_c3_u2_36",
+      "text": "staff",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 职员；参谋；棒；支撑；adj. 职员的；行政工作的；vt. 供给人员；给…配备职员；vi. 雇用工作人员"
+    },
+    {
+      "id": "it_c3_u2_37",
+      "text": "retire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 退休；退隐；退兵信号；vi. 退休；撤退；退却；vt. 退休；离开；收回"
+    },
+    {
+      "id": "it_c3_u2_38",
+      "text": "saving",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 节约；挽救；存款；prep. 考虑到；除...之外；adj. 节约的；挽救的；补偿的；保留的"
+    },
+    {
+      "id": "it_c3_u2_39",
+      "text": "kindergarten",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 幼儿园；幼稚园"
+    },
+    {
+      "id": "it_c3_u2_40",
+      "text": "principle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 原理，原则；主义，道义；本质，本义；根源，源泉"
+    },
+    {
+      "id": "it_c3_u2_41",
+      "text": "passive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 被动语态；adj. 被动的，消极的；被动语态的"
+    },
+    {
+      "id": "it_c3_u2_42",
+      "text": "scared",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 使害怕（scare的过去分词）；adj. 害怕的"
+    },
+    {
+      "id": "it_c3_u2_43",
+      "text": "scare",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 恐慌；惊吓；惊恐；vt. 惊吓；把…吓跑；adj. （美）骇人的；vi. 受惊"
+    },
+    {
+      "id": "it_c3_u2_44",
+      "text": "sharp",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 尖头；骗子；内行；adj. 急剧的；锋利的；强烈的；敏捷的；刺耳的；vt. 磨快；把音调升高；adv. 急剧地；锐利地；突然地；vi. 打扮；升音演奏"
+    },
+    {
+      "id": "it_c3_u2_45",
+      "text": "insurance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 保险；保险费；保险契约；赔偿金"
+    },
+    {
+      "id": "it_c3_u2_46",
+      "text": "energetic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 精力充沛的；积极的；有力的"
+    },
+    {
+      "id": "it_c3_u2_47",
+      "text": "replace",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 取代，代替；替换，更换；归还，偿还；把…放回原处"
+    },
+    {
+      "id": "it_c3_u2_48",
+      "text": "accident",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 事故；意外；[法] 意外事件；机遇"
+    },
+    {
+      "id": "it_c3_u2_49",
+      "text": "operation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 操作；经营；[外科] 手术；[数][计] 运算"
+    },
+    {
+      "id": "it_c3_u2_50",
+      "text": "whisper",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 私语；谣传；飒飒的声音；vi. 耳语；密谈；飒飒地响；vt. 低声说出"
+    },
+    {
+      "id": "it_c3_u2_51",
+      "text": "midnight",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 午夜，半夜12点钟；adj. 半夜的；漆黑的"
+    },
+    {
+      "id": "it_c3_u2_52",
+      "text": "import",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 进口，进口货；输入；意思，含义；重要性；vt. 输入，进口；含…的意思；vi. 输入，进口"
+    },
+    {
+      "id": "it_c3_u2_53",
+      "text": "export",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 输出，出口；出口商品；vt. 输出，出口；vi. 输出物资"
+    },
+    {
+      "id": "it_c3_u2_54",
+      "text": "pole",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 杆；极点；电极；vt. 用竿支撑"
+    },
+    {
+      "id": "it_c3_u2_55",
+      "text": "lap",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 一圈；膝盖；下摆；山坳；vt. 使重叠；拍打；包围；vi. 重叠；轻拍；围住"
+    },
+    {
+      "id": "it_c3_u2_56",
+      "text": "bite",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 咬；一口；咬伤；刺痛；abbr. 机内测试设备（Built-In Test Equipment）；vt. 咬；刺痛；vi. 咬；刺痛"
+    },
+    {
+      "id": "it_c3_u2_57",
+      "text": "lip",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 嘴唇；边缘；vt. 以嘴唇碰；adj. 口头上的；vi. 用嘴唇"
+    },
+    {
+      "id": "it_c3_u2_58",
+      "text": "assist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 帮助；助攻；vi. 参加；出席；vt. 帮助；促进"
+    },
+    {
+      "id": "it_c3_u2_59",
+      "text": "first aid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 急救"
+    },
+    {
+      "id": "it_c3_u2_60",
+      "text": "pass away",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 消失；Vi. 经过；去；终止"
+    },
+    {
+      "id": "it_c3_u2_61",
+      "text": "chairman",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 主席，会长；董事长"
+    },
+    {
+      "id": "it_c3_u2_62",
+      "text": "memory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 记忆，记忆力；内存，[计] 存储器；回忆"
+    },
+    {
+      "id": "it_c3_u2_63",
+      "text": "in memory of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 纪念…"
+    },
+    {
+      "id": "it_c3_u2_64",
+      "text": "chain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 链；束缚；枷锁；vt. 束缚；囚禁；用铁链锁住"
+    },
+    {
+      "id": "it_c3_u2_65",
+      "text": "café",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u2_66",
+      "text": "waitress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 女服务员；女侍者；vi. 做女服务生"
+    },
+    {
+      "id": "it_c3_u2_67",
+      "text": "pregnant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 怀孕的；富有意义的"
+    },
+    {
+      "id": "it_c3_u2_68",
+      "text": "disguise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 伪装；假装；用作伪装的东西；vt. 掩饰；假装；隐瞒"
+    },
+    {
+      "id": "it_c3_u2_69",
+      "text": "maple",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 枫树；淡棕色"
+    },
+    {
+      "id": "it_c3_u2_70",
+      "text": "cart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 二轮运货马车；vt. 用车装载；vi. 驾运货马车；用运货车运送"
+    },
+    {
+      "id": "it_c3_u2_71",
+      "text": "spill",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 溢出，溅出；溢出量；摔下；小塞子；vi. 溢出，流出；摔下；涌流；vt. 使溢出，使流出；使摔下"
+    },
+    {
+      "id": "it_c3_u2_72",
+      "text": "trip over",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 绊在障碍物上而跌跤:"
+    },
+    {
+      "id": "it_c3_u2_73",
+      "text": "limp",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 柔软的，无力的；软弱的；vi. 跛行，一拐一拐地走；缓慢费力地前进；n. 跛行"
+    },
+    {
+      "id": "it_c3_u2_74",
+      "text": "tear",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 流泪, 撕破；n. 眼泪, （撕破的）洞或裂缝, 撕扯；vt. 撕掉, 扯下, 扰乱"
+    },
+    {
+      "id": "it_c3_u2_75",
+      "text": "in tears",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 流着泪"
+    },
+    {
+      "id": "it_c3_u2_76",
+      "text": "harm",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 伤害；损害；vt. 伤害；危害；损害"
+    },
+    {
+      "id": "it_c3_u2_77",
+      "text": "despair",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 绝望；令人绝望的人或事；vi. 绝望，丧失信心"
+    },
+    {
+      "id": "it_c3_u2_78",
+      "text": "in despair",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 绝望地"
+    },
+    {
+      "id": "it_c3_u2_79",
+      "text": "might",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 力量；威力；势力；v. 可以；或许（may的过去式）；应该；aux. 可能；也许"
+    },
+    {
+      "id": "it_c3_u2_80",
+      "text": "a great deal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 很多"
+    },
+    {
+      "id": "it_c3_u2_81",
+      "text": "a great deal of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "det. 很多；重重"
+    },
+    {
+      "id": "it_c3_u2_82",
+      "text": "fable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 寓言；无稽之谈；vt. 煞有介事地讲述；虚构；vi. 编寓言；虚构"
+    },
+    {
+      "id": "it_c3_u2_83",
+      "text": "court",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 法院；球场；朝廷；奉承；vt. 招致（失败、危险等）；向…献殷勤；设法获得；vi. 求爱"
+    },
+    {
+      "id": "it_c3_u2_84",
+      "text": "flexible",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 灵活的；柔韧的；易弯曲的"
+    },
+    {
+      "id": "it_c3_u2_85",
+      "text": "income",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 收入，收益；所得"
+    },
+    {
+      "id": "it_c3_u2_86",
+      "text": "per",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 每；经；按照；每一"
+    },
+    {
+      "id": "it_c3_u2_87",
+      "text": "therefore",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 因此；所以"
+    },
+    {
+      "id": "it_c3_u2_88",
+      "text": "tension",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 张力，拉力；紧张，不安；电压；vt. 使紧张；使拉紧"
+    },
+    {
+      "id": "it_c3_u2_89",
+      "text": "Peking Union Medical College",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u2_90",
+      "text": "the Wenhai Scholarship",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u2_91",
+      "text": "the OB-GYN department",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_c3_u2_92",
+      "text": "Department of Obstetrics and Gynecology",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "《英汉医学词典》Department of obstetrics and gynecology；妇科"
+    },
+    {
+      "id": "it_c3_u2_93",
+      "text": "the People's Republic of China",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "中华人民共和国；中国；国家中华人民共和国"
+    },
+    {
+      "id": "it_c3_u2_94",
+      "text": "the National People's Congress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "全国人民代表大会；人大；全国人大常委会"
+    },
+    {
+      "id": "it_c3_u2_95",
+      "text": "the North Pole",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 北极"
+    },
+    {
+      "id": "it_c3_u2_96",
+      "text": "the South Pole",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 南极"
+    },
+    {
+      "id": "it_c3_u2_97",
+      "text": "Henry Norman Bethune",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

@@ -1,0 +1,712 @@
+{
+  "schema": 1,
+  "id": "pep_o4_u3",
+  "name": "人教版选择性必修第四册 · Unit 3",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o4_u3_1",
+      "text": "a handful of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "det. 一把；一小撮；少数"
+    },
+    {
+      "id": "it_o4_u3_2",
+      "text": "fence",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 栅栏；围墙；剑术；vt. 防护；用篱笆围住；练习剑术；vi. 击剑；搪塞；围以栅栏；跳过栅栏"
+    },
+    {
+      "id": "it_o4_u3_3",
+      "text": "prison",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 监狱；监禁；拘留所；vt. 监禁，关押"
+    },
+    {
+      "id": "it_o4_u3_4",
+      "text": "grand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 大钢琴；一千美元；adj. 宏伟的；豪华的；极重要的"
+    },
+    {
+      "id": "it_o4_u3_5",
+      "text": "Aborigine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 土著；土著居民"
+    },
+    {
+      "id": "it_o4_u3_6",
+      "text": "Sydney",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 悉尼（澳大利亚港市）"
+    },
+    {
+      "id": "it_o4_u3_7",
+      "text": "Bondi Beach",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【旅】邦迪海滩"
+    },
+    {
+      "id": "it_o4_u3_8",
+      "text": "Chiang Mai",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 【旅】清迈"
+    },
+    {
+      "id": "it_o4_u3_9",
+      "text": "the Bay of Islands",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u3_10",
+      "text": "the haka",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u3_11",
+      "text": "Edmonds",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "[人名] [英格兰人姓氏] 埃德蒙兹取自父名，来源于Edmond,含义是“埃德蒙之子”(son of Edmond); [地名] [美国] 埃德蒙兹"
+    },
+    {
+      "id": "it_o4_u3_12",
+      "text": "Felicity",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 幸福；快乐；幸运"
+    },
+    {
+      "id": "it_o4_u3_13",
+      "text": "Tasmanian devil",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "袋獾；塔斯马尼亚恶魔；魔鬼"
+    },
+    {
+      "id": "it_o4_u3_14",
+      "text": "Tasmania",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 塔斯马尼亚岛（位于澳洲东南方）"
+    },
+    {
+      "id": "it_o4_u3_15",
+      "text": "duck-billed platypus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "鸭嘴兽"
+    },
+    {
+      "id": "it_o4_u3_16",
+      "text": "tale",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 故事；传说；叙述；流言蜚语"
+    },
+    {
+      "id": "it_o4_u3_17",
+      "text": "merchant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 商人，批发商；店主；adj. 商业的，商人的"
+    },
+    {
+      "id": "it_o4_u3_18",
+      "text": "set sail",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 张帆；开船"
+    },
+    {
+      "id": "it_o4_u3_19",
+      "text": "extend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价；vi. 延伸；扩大；伸展；使疏开"
+    },
+    {
+      "id": "it_o4_u3_20",
+      "text": "negotiate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 谈判，商议；转让；越过；vi. 谈判，交涉"
+    },
+    {
+      "id": "it_o4_u3_21",
+      "text": "fleet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 舰队；港湾；小河；adj. 快速的，敏捷的；vt. 消磨；vi. 飞逝；疾驰；掠过"
+    },
+    {
+      "id": "it_o4_u3_22",
+      "text": "behold",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 看；注视；把...视为；vi. 看；int. 瞧；看呀"
+    },
+    {
+      "id": "it_o4_u3_23",
+      "text": "beheld",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 见到；观察（behold的过去式和过去分词）"
+    },
+    {
+      "id": "it_o4_u3_24",
+      "text": "league",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 联盟；社团；范畴；vt. 使…结盟；与…联合；vi. 团结；结盟"
+    },
+    {
+      "id": "it_o4_u3_25",
+      "text": "in a league of one's own",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u3_26",
+      "text": "royal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 王室；王室成员；adj. 皇家的；盛大的；女王的；高贵的；第一流的"
+    },
+    {
+      "id": "it_o4_u3_27",
+      "text": "spice",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 香料；情趣；调味品；少许；vt. 加香料于…；使…增添趣味"
+    },
+    {
+      "id": "it_o4_u3_28",
+      "text": "withdraw",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 撤退；收回；撤消；拉开；vi. 撤退；离开"
+    },
+    {
+      "id": "it_o4_u3_29",
+      "text": "withdrew",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 收回（withdraw的过去式）"
+    },
+    {
+      "id": "it_o4_u3_30",
+      "text": "withdrawn",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 取出；撤退（withdraw的过去分词）；adj. 偏僻的；沉默寡言的；孤独的"
+    },
+    {
+      "id": "it_o4_u3_31",
+      "text": "withdraw from",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "退出；撤出；离开"
+    },
+    {
+      "id": "it_o4_u3_32",
+      "text": "channel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 通道；频道；海峡；vt. 引导，开导；形成河道"
+    },
+    {
+      "id": "it_o4_u3_33",
+      "text": "maritime",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 海的；海事的；沿海的；海员的"
+    },
+    {
+      "id": "it_o4_u3_34",
+      "text": "bond",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 债券；结合；约定；粘合剂；纽带；vt. 使结合；以…作保；vi. 结合，团结在一起"
+    },
+    {
+      "id": "it_o4_u3_35",
+      "text": "in hand",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 现有；(工作)正在进行；控制住"
+    },
+    {
+      "id": "it_o4_u3_36",
+      "text": "politics",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 政治，政治学；政治活动；政纲"
+    },
+    {
+      "id": "it_o4_u3_37",
+      "text": "profession",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 职业，专业；声明，宣布，表白"
+    },
+    {
+      "id": "it_o4_u3_38",
+      "text": "tournament",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 锦标赛，联赛；比赛"
+    },
+    {
+      "id": "it_o4_u3_39",
+      "text": "mixture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 混合；混合物；混合剂"
+    },
+    {
+      "id": "it_o4_u3_40",
+      "text": "laptop",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 膝上型轻便电脑，笔记本电脑"
+    },
+    {
+      "id": "it_o4_u3_41",
+      "text": "coverage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 覆盖，覆盖范围；新闻报道"
+    },
+    {
+      "id": "it_o4_u3_42",
+      "text": "press conference",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 新闻发布会；记者招待会"
+    },
+    {
+      "id": "it_o4_u3_43",
+      "text": "applaud",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 赞同；称赞；向…喝彩；vi. 喝彩；鼓掌欢迎"
+    },
+    {
+      "id": "it_o4_u3_44",
+      "text": "tax",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 税金；重负；vt. 向…课税；使负重担"
+    },
+    {
+      "id": "it_o4_u3_45",
+      "text": "manned",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 有人驾驶的；有人操纵的；配备齐船员的；v. 给…配备人员（man的过去分词）"
+    },
+    {
+      "id": "it_o4_u3_46",
+      "text": "submersible",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 能潜水的；能沉入水中的"
+    },
+    {
+      "id": "it_o4_u3_47",
+      "text": "underwater",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 水下；adj. 在水中的；水面下的；adv. 在水下"
+    },
+    {
+      "id": "it_o4_u3_48",
+      "text": "capsule",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 胶囊；[植] 蒴果；太空舱；小容器；adj. 压缩的；概要的；vt. 压缩；简述"
+    },
+    {
+      "id": "it_o4_u3_49",
+      "text": "coral",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 珊瑚；珊瑚虫；adj. 珊瑚的；珊瑚色的"
+    },
+    {
+      "id": "it_o4_u3_50",
+      "text": "migration",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 迁移；移民；移动"
+    },
+    {
+      "id": "it_o4_u3_51",
+      "text": "directory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计] 目录；工商名录；姓名地址录；adj. 指导的；咨询的"
+    },
+    {
+      "id": "it_o4_u3_52",
+      "text": "meanwhile",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 同时，其间；n. 其间，其时"
+    },
+    {
+      "id": "it_o4_u3_53",
+      "text": "exploit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 勋绩；功绩；vt. 开发，开拓；剥削；开采"
+    },
+    {
+      "id": "it_o4_u3_54",
+      "text": "gallon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 加仑（容量单位）"
+    },
+    {
+      "id": "it_o4_u3_55",
+      "text": "murder",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 谋杀，凶杀；n. 谋杀，凶杀；vi. 杀人，犯杀人罪"
+    },
+    {
+      "id": "it_o4_u3_56",
+      "text": "mercy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 仁慈，宽容；怜悯；幸运；善行"
+    },
+    {
+      "id": "it_o4_u3_57",
+      "text": "possession",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拥有；财产；领地；自制；着迷"
+    },
+    {
+      "id": "it_o4_u3_58",
+      "text": "opponent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 对手；反对者；敌手；adj. 对立的；敌对的"
+    },
+    {
+      "id": "it_o4_u3_59",
+      "text": "Log",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 伐木；vt. 切；伐木；航行；n. 记录；航行日志；原木"
+    },
+    {
+      "id": "it_o4_u3_60",
+      "text": "marine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 船舶的；海生的；海产的；航海的，海运的；n. 海运业；舰队；水兵；（海军）士兵或军官"
+    },
+    {
+      "id": "it_o4_u3_61",
+      "text": "arrest",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 逮捕；监禁；vt. 逮捕；阻止；吸引"
+    },
+    {
+      "id": "it_o4_u3_62",
+      "text": "Marco Polo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 马可波罗"
+    },
+    {
+      "id": "it_o4_u3_63",
+      "text": "Columbus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 哥伦布（美国一座城市）；哥伦布（意大利航海家）"
+    },
+    {
+      "id": "it_o4_u3_64",
+      "text": "Ceylon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 锡兰（印度以南一岛国，现以更名为斯里兰卡Srilanka）"
+    },
+    {
+      "id": "it_o4_u3_65",
+      "text": "Churchill",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 邱吉尔（英国政治家及作家）"
+    },
+    {
+      "id": "it_o4_u3_66",
+      "text": "Ferdinand Magellan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "麦哲伦；航海家麦哲伦；葡萄牙航海家麦哲仑"
+    },
+    {
+      "id": "it_o4_u3_67",
+      "text": "Zac Sunderland",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u3_68",
+      "text": "Robin Lee Graham",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u3_69",
+      "text": "parcel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 包裹，小包；vt. 打包；捆扎"
+    },
+    {
+      "id": "it_o4_u3_70",
+      "text": "jam",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 果酱；拥挤；困境；扣篮；vt. 使堵塞；挤进，使塞满；混杂；压碎；vi. 堵塞；轧住"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

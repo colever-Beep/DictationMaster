@@ -1,0 +1,622 @@
+{
+  "schema": 1,
+  "id": "pep_c1_u4",
+  "name": "人教版必修第一册 · Unit 3 Sports and Fitness",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_c1_u4_1",
+      "text": "fitness",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 健康；适当；适合性"
+    },
+    {
+      "id": "it_c1_u4_2",
+      "text": "soccer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 英式足球，足球"
+    },
+    {
+      "id": "it_c1_u4_3",
+      "text": "stadium",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 体育场；露天大型运动场"
+    },
+    {
+      "id": "it_c1_u4_4",
+      "text": "boxing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拳击；装箱；围模；做箱的材料；v. 将…装入盒中（box的ing形式）"
+    },
+    {
+      "id": "it_c1_u4_5",
+      "text": "badminton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 羽毛球"
+    },
+    {
+      "id": "it_c1_u4_6",
+      "text": "marathon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 马拉松赛跑；耐力的考验；adj. 马拉松式的；有耐力的；vi. 参加马拉松赛跑"
+    },
+    {
+      "id": "it_c1_u4_7",
+      "text": "event",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 事件，大事；项目；结果"
+    },
+    {
+      "id": "it_c1_u4_8",
+      "text": "come along",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 进步；同意；一道来；请过来"
+    },
+    {
+      "id": "it_c1_u4_9",
+      "text": "ski",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 滑雪橇；vi. 滑雪；adj. 滑雪（用）的"
+    },
+    {
+      "id": "it_c1_u4_10",
+      "text": "host",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [计] 主机；主人；主持人；许多；vt. 主持；当主人招待；vi. 群集；做主人"
+    },
+    {
+      "id": "it_c1_u4_11",
+      "text": "track",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 轨道；足迹，踪迹；小道；vt. 追踪；通过；循路而行；用纤拉；vi. 追踪；走；留下足迹"
+    },
+    {
+      "id": "it_c1_u4_12",
+      "text": "track and field",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 田径运动"
+    },
+    {
+      "id": "it_c1_u4_13",
+      "text": "gym",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 健身房；体育；体育馆"
+    },
+    {
+      "id": "it_c1_u4_14",
+      "text": "gymnastics",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 体操；体育；体操运动"
+    },
+    {
+      "id": "it_c1_u4_15",
+      "text": "work out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 作出；拟定；制定；计划一下"
+    },
+    {
+      "id": "it_c1_u4_16",
+      "text": "sweat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 汗；水珠；焦急；苦差使；vt. 使出汗；流出；使干苦活；剥削；藉出汗减轻；焦急地期待；vi. 出汗；辛苦工作；懊恼；结水珠"
+    },
+    {
+      "id": "it_c1_u4_17",
+      "text": "make it",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 赶到；办成功；规定时间；〔美俚〕性交"
+    },
+    {
+      "id": "it_c1_u4_18",
+      "text": "legend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 传奇；说明；图例；刻印文字"
+    },
+    {
+      "id": "it_c1_u4_19",
+      "text": "athlete",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 运动员，体育家；身强力壮的人"
+    },
+    {
+      "id": "it_c1_u4_20",
+      "text": "master",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 控制；精通；征服；n. 硕士；主人；大师；教师；adj. 主人的；主要的；熟练的"
+    },
+    {
+      "id": "it_c1_u4_21",
+      "text": "set an example",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 树立榜样；示范；以身作则"
+    },
+    {
+      "id": "it_c1_u4_22",
+      "text": "honour",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 荣誉；尊敬；勋章；vt. 尊敬；[金融] 承兑；承兑远期票据"
+    },
+    {
+      "id": "it_c1_u4_23",
+      "text": "glory",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 光荣，荣誉；赞颂；vi. 自豪，骄傲；狂喜"
+    },
+    {
+      "id": "it_c1_u4_24",
+      "text": "medal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 勋章，奖章；纪念章"
+    },
+    {
+      "id": "it_c1_u4_25",
+      "text": "championship",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 锦标赛；冠军称号；冠军的地位"
+    },
+    {
+      "id": "it_c1_u4_26",
+      "text": "champion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 冠军；拥护者；战士；adj. 优胜的；第一流的；vt. 支持；拥护"
+    },
+    {
+      "id": "it_c1_u4_27",
+      "text": "determination",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 决心；果断；测定"
+    },
+    {
+      "id": "it_c1_u4_28",
+      "text": "apart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 分离的；与众不同的；adv. 相距；与众不同地；分离着"
+    },
+    {
+      "id": "it_c1_u4_29",
+      "text": "fall apart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 土崩瓦解"
+    },
+    {
+      "id": "it_c1_u4_30",
+      "text": "injure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 伤害，损害"
+    },
+    {
+      "id": "it_c1_u4_31",
+      "text": "injured",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 受伤的；受损害的"
+    },
+    {
+      "id": "it_c1_u4_32",
+      "text": "injury",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 伤害，损害；受伤处"
+    },
+    {
+      "id": "it_c1_u4_33",
+      "text": "captain",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 队长，首领；船长；上尉；海军上校；vt. 指挥；率领"
+    },
+    {
+      "id": "it_c1_u4_34",
+      "text": "lose heart",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 沮丧"
+    },
+    {
+      "id": "it_c1_u4_35",
+      "text": "graceful",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 优雅的；优美的"
+    },
+    {
+      "id": "it_c1_u4_36",
+      "text": "strength",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 力量；力气；兵力；长处"
+    },
+    {
+      "id": "it_c1_u4_37",
+      "text": "failure",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 失败；故障；失败者；破产"
+    },
+    {
+      "id": "it_c1_u4_38",
+      "text": "give up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 放弃；断绝；投降；自首"
+    },
+    {
+      "id": "it_c1_u4_39",
+      "text": "compete",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 竞争；比赛；对抗"
+    },
+    {
+      "id": "it_c1_u4_40",
+      "text": "make sense",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. (话等)有意义；合理；有道理；讲得通"
+    },
+    {
+      "id": "it_c1_u4_41",
+      "text": "pretend",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 假装，伪装，模拟；adj. 假装的；vi. 假装，伪装，佯装"
+    },
+    {
+      "id": "it_c1_u4_42",
+      "text": "pretend to do sth.",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "假装做某事；假装干；假装去做某事"
+    },
+    {
+      "id": "it_c1_u4_43",
+      "text": "even if",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 即使…也"
+    },
+    {
+      "id": "it_c1_u4_44",
+      "text": "even though",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. “even if”的变体"
+    },
+    {
+      "id": "it_c1_u4_45",
+      "text": "million",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 百万；无数；adj. 百万的；无数的；num. 百万"
+    },
+    {
+      "id": "it_c1_u4_46",
+      "text": "cheat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 欺骗，作弊；骗子；vt. 欺骗；骗取；vi. 欺骗；作弊"
+    },
+    {
+      "id": "it_c1_u4_47",
+      "text": "audience",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 观众；听众；读者；接见；正式会见；拜会"
+    },
+    {
+      "id": "it_c1_u4_48",
+      "text": "positive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 正数；[摄] 正片；adj. 积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的"
+    },
+    {
+      "id": "it_c1_u4_49",
+      "text": "slim",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 苗条的；修长的；微小的；差的；vt. 使…体重减轻；使…苗条；vi. 减轻体重；变细"
+    },
+    {
+      "id": "it_c1_u4_50",
+      "text": "diet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 饮食；食物；规定饮食；vt. [医] 照规定饮食；vi. 节食"
+    },
+    {
+      "id": "it_c1_u4_51",
+      "text": "make a difference",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 发生差别；使…有差别；(结果等)是重要的"
+    },
+    {
+      "id": "it_c1_u4_52",
+      "text": "rather",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 宁可，宁愿；相当；int. 当然啦（回答问题时用）"
+    },
+    {
+      "id": "it_c1_u4_53",
+      "text": "rather than",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 而不"
+    },
+    {
+      "id": "it_c1_u4_54",
+      "text": "push-up",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 俯卧撑；模面挤凹"
+    },
+    {
+      "id": "it_c1_u4_55",
+      "text": "cut ... out",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 割掉；除去；剪下；开辟"
+    },
+    {
+      "id": "it_c1_u4_56",
+      "text": "now and then",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "偶尔；时而；不时"
+    },
+    {
+      "id": "it_c1_u4_57",
+      "text": "compare ... with ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 和…比较[对照]"
+    },
+    {
+      "id": "it_c1_u4_58",
+      "text": "compare ... to ...",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "un. 核对记录；商量了一番；比较；和…相仿"
+    },
+    {
+      "id": "it_c1_u4_59",
+      "text": "jog",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 慢跑；轻推；蹒跚行进；使颠簸；vi. 慢跑；轻推；蹒跚行进；颠簸着移动；n. 慢跑；轻推，轻撞"
+    },
+    {
+      "id": "it_c1_u4_60",
+      "text": "stress",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 压力；强调；紧张；重要性；重读；vt. 强调；使紧张；加压力于；用重音读"
+    },
+    {
+      "id": "it_c1_u4_61",
+      "text": "error",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 误差；错误；过失"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

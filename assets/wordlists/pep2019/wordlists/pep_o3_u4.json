@@ -1,0 +1,722 @@
+{
+  "schema": 1,
+  "id": "pep_o3_u4",
+  "name": "人教版选择性必修第三册 · Unit 4",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o3_u4_1",
+      "text": "qualified",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 限制（qualify的过去分词）；描述；授权予；adj. 合格的；有资格的"
+    },
+    {
+      "id": "it_o3_u4_2",
+      "text": "enthusiastic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 热情的；热心的；狂热的"
+    },
+    {
+      "id": "it_o3_u4_3",
+      "text": "aboard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "prep. 在…上；adv. 在飞机上；[船] 在船上；在火车上"
+    },
+    {
+      "id": "it_o3_u4_4",
+      "text": "cupboard",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 碗柜；食橱"
+    },
+    {
+      "id": "it_o3_u4_5",
+      "text": "assign",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 分配；指派；[计][数] 赋值；vi. 将财产过户（尤指过户给债权人）"
+    },
+    {
+      "id": "it_o3_u4_6",
+      "text": "steward",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 管家；乘务员；膳务员；工会管事；vi. 当服务员；当管事；vt. 管理"
+    },
+    {
+      "id": "it_o3_u4_7",
+      "text": "envy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 嫉妒，妒忌；羡慕；vt. 嫉妒，妒忌；羡慕；vi. 感到妒忌；显示出妒忌"
+    },
+    {
+      "id": "it_o3_u4_8",
+      "text": "crush",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 粉碎；迷恋；压榨；拥挤的人群；vt. 压碎；弄皱，变形；使…挤入；vi. 挤；被压碎"
+    },
+    {
+      "id": "it_o3_u4_9",
+      "text": "sink",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 水槽；洗涤槽；污水坑；vi. 下沉；消沉；渗透；vt. 使下沉；挖掘；使低落"
+    },
+    {
+      "id": "it_o3_u4_10",
+      "text": "abandon",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 放任；狂热；vt. 遗弃；放弃"
+    },
+    {
+      "id": "it_o3_u4_11",
+      "text": "stove",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 火炉；窑；温室；vt. 用火炉烤"
+    },
+    {
+      "id": "it_o3_u4_12",
+      "text": "blanket",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 毛毯，毯子；毯状物，覆盖层；adj. 总括的，全体的；没有限制的；vt. 覆盖，掩盖；用毯覆盖"
+    },
+    {
+      "id": "it_o3_u4_13",
+      "text": "belongings",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [经] 财产，所有物；亲戚"
+    },
+    {
+      "id": "it_o3_u4_14",
+      "text": "banjo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 班卓琴；五弦琴"
+    },
+    {
+      "id": "it_o3_u4_15",
+      "text": "miserable",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 悲惨的；痛苦的；卑鄙的"
+    },
+    {
+      "id": "it_o3_u4_16",
+      "text": "voyage",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航行；航程；旅行记；vt. 飞过；渡过；vi. 航行；航海"
+    },
+    {
+      "id": "it_o3_u4_17",
+      "text": "navy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 海军；深蓝色的"
+    },
+    {
+      "id": "it_o3_u4_18",
+      "text": "decent",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 正派的；得体的；相当好的"
+    },
+    {
+      "id": "it_o3_u4_19",
+      "text": "cosy",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 保温罩；adj. 舒适的；惬意的"
+    },
+    {
+      "id": "it_o3_u4_20",
+      "text": "selfish",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 自私的；利己主义的"
+    },
+    {
+      "id": "it_o3_u4_21",
+      "text": "good-tempered",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 宽容的；和蔼的；脾气好的"
+    },
+    {
+      "id": "it_o3_u4_22",
+      "text": "bad-tempered",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 脾气不好的；易怒的"
+    },
+    {
+      "id": "it_o3_u4_23",
+      "text": "genuine",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 真实的，真正的；诚恳的"
+    },
+    {
+      "id": "it_o3_u4_24",
+      "text": "perseverance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 坚持不懈；不屈不挠；n. 耐性；毅力"
+    },
+    {
+      "id": "it_o3_u4_25",
+      "text": "persevere",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 坚持；不屈不挠；固执己见（在辩论中）"
+    },
+    {
+      "id": "it_o3_u4_26",
+      "text": "resolve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 坚决；决定要做的事；vt. 决定；溶解；使…分解；决心要做…；vi. 解决；决心；分解"
+    },
+    {
+      "id": "it_o3_u4_27",
+      "text": "resolution",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [物] 分辨率；决议；解决；决心"
+    },
+    {
+      "id": "it_o3_u4_28",
+      "text": "crew",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 队，组；全体人员，全体船员；vt. 使当船员；vi. 一起工作"
+    },
+    {
+      "id": "it_o3_u4_29",
+      "text": "cruel",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 残酷的，残忍的；使人痛苦的，让人受难的；无情的，严酷的"
+    },
+    {
+      "id": "it_o3_u4_30",
+      "text": "thorough",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 彻底的；十分的；周密的"
+    },
+    {
+      "id": "it_o3_u4_31",
+      "text": "furniture",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 家具；设备；储藏物"
+    },
+    {
+      "id": "it_o3_u4_32",
+      "text": "unfortunately",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 不幸地"
+    },
+    {
+      "id": "it_o3_u4_33",
+      "text": "fortunately",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 幸运地"
+    },
+    {
+      "id": "it_o3_u4_34",
+      "text": "bark",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 树皮；深青棕色；毛皮；皮肤；狗叫；vt. 狗叫；尖叫；剥皮"
+    },
+    {
+      "id": "it_o3_u4_35",
+      "text": "rugby",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 英式橄榄球；拉格比（英格兰中部的城市）"
+    },
+    {
+      "id": "it_o3_u4_36",
+      "text": "bat",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 蝙蝠；球棒；球拍；批处理文件的扩展名；vt. 用球棒击球；击球率达…；vi. 轮到击球；用球棒击球"
+    },
+    {
+      "id": "it_o3_u4_37",
+      "text": "damp",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 潮湿，湿气；adj. 潮湿的；vt. 使潮湿；使阻尼；使沮丧，抑制；vi. 减幅，阻尼；变潮湿"
+    },
+    {
+      "id": "it_o3_u4_38",
+      "text": "recreation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 娱乐；消遣；休养"
+    },
+    {
+      "id": "it_o3_u4_39",
+      "text": "guidance",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 指导，引导；领导"
+    },
+    {
+      "id": "it_o3_u4_40",
+      "text": "nephew",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 侄子；外甥"
+    },
+    {
+      "id": "it_o3_u4_41",
+      "text": "advertising",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 广告；广告业；登广告；adj. 广告的；广告业的；v. 公告；为…做广告（advertise的ing形式）"
+    },
+    {
+      "id": "it_o3_u4_42",
+      "text": "advertise",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vt. 通知；为…做广告；使突出；vi. 做广告，登广告；作宣传"
+    },
+    {
+      "id": "it_o3_u4_43",
+      "text": "corporate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 法人的；共同的，全体的；社团的；公司的；企业的"
+    },
+    {
+      "id": "it_o3_u4_44",
+      "text": "rough",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 艰苦；高低不平的地面；未经加工的材料；粗糙的部分；adj. 粗糙的；粗略的；粗野的；艰苦的；未经加工的；vt. 使粗糙；粗暴对待；草拟；adv. 粗糙地；粗略地；粗暴地；vi. 举止粗野"
+    },
+    {
+      "id": "it_o3_u4_45",
+      "text": "navigator",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 航海家；领航员；驾驶员"
+    },
+    {
+      "id": "it_o3_u4_46",
+      "text": "loyal",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 忠诚的，忠心的；忠贞的；n. 效忠的臣民；忠实信徒"
+    },
+    {
+      "id": "it_o3_u4_47",
+      "text": "motor",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 发动机，马达；汽车；adj. 汽车的；机动的；vi. 乘汽车；vt. 以汽车载运"
+    },
+    {
+      "id": "it_o3_u4_48",
+      "text": "candidate",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 候选人，候补者；应试者"
+    },
+    {
+      "id": "it_o3_u4_49",
+      "text": "make fire",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "生火；点火；造火"
+    },
+    {
+      "id": "it_o3_u4_50",
+      "text": "give off",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 发散(水蒸气等)"
+    },
+    {
+      "id": "it_o3_u4_51",
+      "text": "episode",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 插曲；一段情节；插话；有趣的事件"
+    },
+    {
+      "id": "it_o3_u4_52",
+      "text": "commitment",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 承诺，保证；委托；承担义务；献身"
+    },
+    {
+      "id": "it_o3_u4_53",
+      "text": "motive",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 动机，目的；主题；adj. 发动的；成为动机的；vt. 使产生动机，激起"
+    },
+    {
+      "id": "it_o3_u4_54",
+      "text": "Confucianism",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 孔子学说；儒家思想"
+    },
+    {
+      "id": "it_o3_u4_55",
+      "text": "Ernest Shackleton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 欧内斯特·沙克尔顿"
+    },
+    {
+      "id": "it_o3_u4_56",
+      "text": "Perce Blackborow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_57",
+      "text": "Antarctica",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 南极洲"
+    },
+    {
+      "id": "it_o3_u4_58",
+      "text": "the Antarctic",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 南极地区"
+    },
+    {
+      "id": "it_o3_u4_59",
+      "text": "the South Pole",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. 南极"
+    },
+    {
+      "id": "it_o3_u4_60",
+      "text": "South Georgia Island",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_61",
+      "text": "Frank Wild",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_62",
+      "text": "Thomas Orde-Lees",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_63",
+      "text": "Frank Worsley",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_64",
+      "text": "Tom Crean",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_65",
+      "text": "Hubert Hudson",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_66",
+      "text": "Lionel Greenstreet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o3_u4_67",
+      "text": "drama",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 戏剧，戏剧艺术；剧本；戏剧性事件"
+    },
+    {
+      "id": "it_o3_u4_68",
+      "text": "sorrow",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 悲伤；懊悔；伤心事；vt. 为…悲痛；vi. 懊悔；遗憾；感到悲伤"
+    },
+    {
+      "id": "it_o3_u4_69",
+      "text": "imagery",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 像；意象；比喻；形象化"
+    },
+    {
+      "id": "it_o3_u4_70",
+      "text": "literary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 文学的；书面的；精通文学的"
+    },
+    {
+      "id": "it_o3_u4_71",
+      "text": "rhyme",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 韵律；韵脚；韵文；押韵词；vt. 使押韵；用韵诗表达；把…写作诗；vi. 押韵；作押韵诗"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}

@@ -1,0 +1,702 @@
+{
+  "schema": 1,
+  "id": "pep_o4_u4",
+  "name": "人教版选择性必修第四册 · Unit 4",
+  "subject": "english",
+  "created_at": "2026-10-05T00:00:00",
+  "updated_at": "2026-10-05T00:00:00",
+  "items": [
+    {
+      "id": "it_o4_u4_1",
+      "text": "mail",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 邮件；邮政，邮递；盔甲；vt. 邮寄；给…穿盔甲；vi. 邮寄；寄出"
+    },
+    {
+      "id": "it_o4_u4_2",
+      "text": "secondary",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 副手；代理人；adj. 第二的；中等的；次要的；中级的"
+    },
+    {
+      "id": "it_o4_u4_3",
+      "text": "clay",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [土壤] 粘土；泥土；肉体；似黏土的东西；vt. 用黏土处理"
+    },
+    {
+      "id": "it_o4_u4_4",
+      "text": "dust",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 灰尘；尘埃；尘土；vt. 撒；拂去灰尘；vi. 拂去灰尘；化为粉末"
+    },
+    {
+      "id": "it_o4_u4_5",
+      "text": "dusty",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 落满灰尘的"
+    },
+    {
+      "id": "it_o4_u4_6",
+      "text": "weed",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 杂草，野草；菸草；vt. 除草；铲除；vi. 除草"
+    },
+    {
+      "id": "it_o4_u4_7",
+      "text": "chorus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 合唱队；齐声；歌舞队；vt. 合唱；异口同声地说；vi. 合唱；异口同声地说话"
+    },
+    {
+      "id": "it_o4_u4_8",
+      "text": "a chorus of",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u4_9",
+      "text": "cotton",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 棉花；棉布；棉线；adj. 棉的；棉制的；vi. 一致；理解；和谐；亲近"
+    },
+    {
+      "id": "it_o4_u4_10",
+      "text": "uniform",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 制服；adj. 统一的；一致的；相同的；均衡的；始终如一的；vt. 使穿制服；使成一样"
+    },
+    {
+      "id": "it_o4_u4_11",
+      "text": "not to mention",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "na. …不用说"
+    },
+    {
+      "id": "it_o4_u4_12",
+      "text": "tablet",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 碑；药片；写字板；小块；平板电脑；vt. 用碑牌纪念；将(备忘录等)写在板上；将…制成小片或小块"
+    },
+    {
+      "id": "it_o4_u4_13",
+      "text": "rubber",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 橡胶；橡皮；合成橡胶；按摩师；adj. 橡胶制成的；vt. 涂橡胶于；用橡胶制造；vi. 扭转脖子看；好奇地引颈而望"
+    },
+    {
+      "id": "it_o4_u4_14",
+      "text": "washroom",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 洗手间；盥洗室；厕所"
+    },
+    {
+      "id": "it_o4_u4_15",
+      "text": "rigid",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 严格的；僵硬的，死板的；坚硬的；精确的"
+    },
+    {
+      "id": "it_o4_u4_16",
+      "text": "bubble",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 气泡，泡沫，泡状物；透明圆形罩，圆形顶；vt. 使冒泡；滔滔不绝地说；vi. 沸腾，冒泡；发出气泡声"
+    },
+    {
+      "id": "it_o4_u4_17",
+      "text": "tube",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 管；电子管；隧道；电视机；vt. 使成管状；把…装管；用管输送；vi. 乘地铁；不及格"
+    },
+    {
+      "id": "it_o4_u4_18",
+      "text": "circus",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 马戏；马戏团"
+    },
+    {
+      "id": "it_o4_u4_19",
+      "text": "chemist",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 化学家；化学工作者；药剂师；炼金术士"
+    },
+    {
+      "id": "it_o4_u4_20",
+      "text": "shade",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 树荫；阴影；阴凉处；遮阳物；（照片等的）明暗度；少量、些微；细微的差别；vt. 使阴暗；使渐变；为…遮阳；使阴郁；掩盖；vi. （颜色、色彩等）渐变"
+    },
+    {
+      "id": "it_o4_u4_21",
+      "text": "jaw",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 颌；下巴；狭窄入口；唠叨；vt. 教训；对…唠叨；vi. 教训；唠叨"
+    },
+    {
+      "id": "it_o4_u4_22",
+      "text": "wrinkle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 皱纹；vi. 起皱；vt. 使起皱纹"
+    },
+    {
+      "id": "it_o4_u4_23",
+      "text": "forehead",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 额，前额"
+    },
+    {
+      "id": "it_o4_u4_24",
+      "text": "hut",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 小屋；临时营房；vt. 使住在小屋中；驻扎；vi. 住在小屋中；驻扎"
+    },
+    {
+      "id": "it_o4_u4_25",
+      "text": "housing",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 房屋；住房供给；[机] 外壳；遮盖物；机器等的防护外壳或外罩"
+    },
+    {
+      "id": "it_o4_u4_26",
+      "text": "platform",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平台；月台，站台；坛；讲台"
+    },
+    {
+      "id": "it_o4_u4_27",
+      "text": "fireplace",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 壁炉"
+    },
+    {
+      "id": "it_o4_u4_28",
+      "text": "saucer",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 茶托，浅碟；浅碟形物；眼睛"
+    },
+    {
+      "id": "it_o4_u4_29",
+      "text": "kettle",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 壶；[化工] 釜；罐；鼓"
+    },
+    {
+      "id": "it_o4_u4_30",
+      "text": "pan",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 平底锅；盘状的器皿；淘盘子，金盘，秤盘；vi. 淘金；在淘洗中收获金子；vt. 淘金；在浅锅中烹调（食物）；[非正式用语]严厉的批评"
+    },
+    {
+      "id": "it_o4_u4_31",
+      "text": "jar",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 罐；广口瓶；震动；刺耳声；vi. 冲突；不一致；震惊；发刺耳声；vt. 震动；刺激；使震动"
+    },
+    {
+      "id": "it_o4_u4_32",
+      "text": "ripe",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 熟的，成熟的；时机成熟的；vt. 搜查；调查；vi. 进行搜查"
+    },
+    {
+      "id": "it_o4_u4_33",
+      "text": "grill",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 烤架，铁格子；烤肉；vi. 拷问，严加盘问；vt. 烧，烤；"
+    },
+    {
+      "id": "it_o4_u4_34",
+      "text": "doorway",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 门口；途径"
+    },
+    {
+      "id": "it_o4_u4_35",
+      "text": "leftover",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 残留物；吃剩的饭菜；剩余物；adj. 残余的；吃剩的"
+    },
+    {
+      "id": "it_o4_u4_36",
+      "text": "handshake",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 握手"
+    },
+    {
+      "id": "it_o4_u4_37",
+      "text": "drag",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拖；拖累；vi. 拖曳；缓慢而吃力地行进；vt. 拖累；拖拉；缓慢而吃力地行进"
+    },
+    {
+      "id": "it_o4_u4_38",
+      "text": "privilege",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 特权；优待；vt. 给与…特权；特免"
+    },
+    {
+      "id": "it_o4_u4_39",
+      "text": "plug",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 插头；塞子；栓；vt. 插入；塞住；接插头；vi. 塞住；用插头将与电源接通"
+    },
+    {
+      "id": "it_o4_u4_40",
+      "text": "disabled",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 残废的，有缺陷的；v. 使…失去能力（disable的过去分词）"
+    },
+    {
+      "id": "it_o4_u4_41",
+      "text": "resign",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 辞去职务；vi. 辞职；vt. 辞职；放弃；委托；使听从"
+    },
+    {
+      "id": "it_o4_u4_42",
+      "text": "deserve",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 应受，应得；vt. 应受，应得"
+    },
+    {
+      "id": "it_o4_u4_43",
+      "text": "lately",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adv. 近来，不久前"
+    },
+    {
+      "id": "it_o4_u4_44",
+      "text": "input",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 投入；输入电路；vt. [自][电子] 输入；将…输入电脑"
+    },
+    {
+      "id": "it_o4_u4_45",
+      "text": "tune",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 曲调；和谐；心情；vt. 调整；使一致；为…调音；vi. [电子][通信] 调谐；协调"
+    },
+    {
+      "id": "it_o4_u4_46",
+      "text": "contract",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 合同；婚约；vt. 感染；订约；使缩短；vi. 收缩；感染；订约"
+    },
+    {
+      "id": "it_o4_u4_47",
+      "text": "grant",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 拨款；[法] 授予物；vt. 授予；允许；承认；vi. 同意"
+    },
+    {
+      "id": "it_o4_u4_48",
+      "text": "take for granted",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "v. 想当然"
+    },
+    {
+      "id": "it_o4_u4_49",
+      "text": "cardiac",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 强心剂；强胃剂；adj. 心脏的；心脏病的；贲门的"
+    },
+    {
+      "id": "it_o4_u4_50",
+      "text": "circuit",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [电子] 电路，回路；巡回；一圈；环道；vt. 绕回…环行；vi. 环行"
+    },
+    {
+      "id": "it_o4_u4_51",
+      "text": "disability",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 残疾；无能；无资格；不利条件"
+    },
+    {
+      "id": "it_o4_u4_52",
+      "text": "consultation",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 咨询；磋商；[临床] 会诊；讨论会"
+    },
+    {
+      "id": "it_o4_u4_53",
+      "text": "relay",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. [电] 继电器；接替，接替人员；驿马；vt. 转播；使接替；分程传递；vi. 转播；接替"
+    },
+    {
+      "id": "it_o4_u4_54",
+      "text": "relay to",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u4_55",
+      "text": "criterion",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. （批评判断的）标准；准则；规范；准据"
+    },
+    {
+      "id": "it_o4_u4_56",
+      "text": "criteria",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 标准，条件（criterion的复数）"
+    },
+    {
+      "id": "it_o4_u4_57",
+      "text": "stability",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 稳定性；坚定，恒心"
+    },
+    {
+      "id": "it_o4_u4_58",
+      "text": "pray",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "vi. 祈祷；请；恳求；vt. 祈祷；恳求；央求"
+    },
+    {
+      "id": "it_o4_u4_59",
+      "text": "pray that",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "无"
+    },
+    {
+      "id": "it_o4_u4_60",
+      "text": "hypothetical",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "adj. 假设的；爱猜想的"
+    },
+    {
+      "id": "it_o4_u4_61",
+      "text": "Papua New Guinea",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "巴布亚岛(新几内亚岛)"
+    },
+    {
+      "id": "it_o4_u4_62",
+      "text": "Ghana",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 加纳（非洲西部国家）"
+    },
+    {
+      "id": "it_o4_u4_63",
+      "text": "Congo",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 刚果（位于非洲中部）"
+    },
+    {
+      "id": "it_o4_u4_64",
+      "text": "Panama",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 巴拿马（位于拉丁美洲）；巴拿马城"
+    },
+    {
+      "id": "it_o4_u4_65",
+      "text": "bounce",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 跳；弹力；活力；vt. 弹跳；使弹起；vi. 弹跳；弹起，反跳；弹回"
+    },
+    {
+      "id": "it_o4_u4_66",
+      "text": "bounce around",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "蹦蹦气垫屋；欢乐城堡；四处混"
+    },
+    {
+      "id": "it_o4_u4_67",
+      "text": "aptitude",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 天资；自然倾向；适宜"
+    },
+    {
+      "id": "it_o4_u4_68",
+      "text": "head start",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 起步前的优势"
+    },
+    {
+      "id": "it_o4_u4_69",
+      "text": "scenario",
+      "alias": "",
+      "lang": "en",
+      "enabled": true,
+      "repeat": null,
+      "interval": null,
+      "note": "n. 方案；情节；剧本；设想"
+    }
+  ],
+  "builtin": true,
+  "grade": "高中"
+}
